@@ -1,0 +1,204 @@
+クッパ (kuppa) : Bowser§
+ルイージ (ruīji) : Luigi§
+マリオ (mario) : Mario§
+ピーチ (pīchi) : Princess Toadstool§
+キノピオ (kinopio) : Toad§
+コイン (koin) : Coin§
+ファイアフラワー (faia furawā) : Fire Flower§
+ジャンプ台 (janpu dai) : Jumping Board§
+キノコ (sūpā kinoko) : Magic Mushroom§
+スター (sutā) : Star§
+ゲッソー (gessō) : Blooper§
+キラー (kirā) : Bullet Bill§
+メット (metto) : Buzzy Beetle§
+プクプク (pukupuku) : Cheep-Cheep§
+ハンマーブロス (hanmā burosu) : Hammer Bros.§
+ノコノコ (nokonoko) : Koopa Troopa§
+パタパタ (patapata) : Koopa Paratroopa§
+ジュゲム (jugemu) : Lakitu§
+クリボー (kuribō) : Goomba§
+パックンフラワー (pakkun furawā) : Piranha Plant§
+バブル (baburu) : Podoboo§
+トゲゾー (togezō) : Spiny§
+パイポ (paipo) : SpinyEggs§
+テレサ (Teresa) : Boo Diddly§
+子連れゲッソー (Kozure Gessō) : Blooper with kids§
+ボム兵 (Bomuhei) : Bob-omb§
+ブンブン (Bunbun) : Boom Boom§
+ブーメランブロス (Būmeran Burosu) : Boomerang Brothers§
+逆さメット (Sakasa Metto) : Buzzy Beetle§
+ワンワン (Wanwan) : Chain Chomp§
+トゲプク (Togepuku) : Cheep-cheep§
+カロン (Karon) : Dry Bones§
+ファイアブロス (Faia Burosu) : Fire Brothers§
+ケロンパ (Keronpa) : Fire Chomp§
+ファイアスネーク (Faia Sunēku) : Firesnake§
+ウォーク (Wōku) : Hot Foot§
+しびれくらげ (Shibire Kurage) : Jelectro§
+スイチューカ (Suichūka) : Lava Lotus§
+マメクリボー (Mame Kuribō) : Micro-Goomba§
+ブラックパックン (Burakku Pakkun) : Munchers§
+パタメット (Patametto) : Para-Beetle§
+パタクリボー (Patakuribō) : Para-Goomba§
+フーフーパックン (Fūfū Pakkun) : Ptooie§
+プー (Pū) : Rocky Wrench§
+クッキー (Kukkī) : Rotodisc§
+ヒマンブロス (Himan Burosu) : Sledge Brothers§
+ガボン (Gabon) : Spike§
+ネッチー (Netchī) : Stretch§
+ドッスン (Dossun) : Thwomp§
+ファイアパックン (Faia Pakkun) : Venus Fire Trap§
+プチパックン (Puchi Pakkun) : Walking Piranhas§
+イカリ (Ikari) : Anchor§
+コイン (Koin) : Coin§
+ファイアフラワー (Faia Furawā) : Fire Flower§
+カエルスーツ (Kaeru Sūtsu) : Frog Suit§
+ハンマー (Hanmā) : Hammer§
+じゅげむの雲 (Jugemu no Kumo) : Jugems Cloud§
+フエ (Fue) : Whistle§
+パタパタの羽根 (Patapata no Hane) : Magic Wing (P-Wing)§
+オルゴール (Orugōru) : Music Box§
+スーパースター (Sūpā Sutā) : Starman§
+スーパーこのは (Sūpā Konoha) : Super Leaf§
+スーパーキノコ (Sūpā Kinoko) : Super Mushroom§
+タヌキスーツ (Tanuki Sūtsu) : Tanooki Suit§
+不思議リフト (Fushigi Rifuto) : Directional Lift§
+チクワリフト (Chikuwa Rifuto) : Donut Lift§
+レールリフト (Rēru Rifuto) : Rail Lift§
+くるくるリフト (Kurukuru Rifuto) : Rotary Lift§
+Bowser : クッパ (kuppa)§
+Luigi : ルイージ (ruīji)§
+Mario : マリオ (mario)§
+PrincessToadstool : ピーチ (pīchi)§
+Toad : キノピオ (kinopio)§
+Coin : コイン (koin)§
+FireFlower : ファイアフラワー (faia furawā)§
+JumpingBoard : ジャンプ台 (janpu dai)§
+MagicMushroom : キノコ (sūpā kinoko)§
+Star : スター (sutā)§
+Blooper : ゲッソー (gessō)§
+BulletBill : キラー (kirā)§
+BuzzyBeetle : メット (metto)§
+Cheep-Cheep : プクプク (pukupuku)§
+HammerBros. : ハンマーブロス (hanmā burosu)§
+KoopaTroopa : ノコノコ (nokonoko)§
+KoopaParatroopa : パタパタ (patapata)§
+Lakitu : ジュゲム (jugemu)§
+Goomba : クリボー (kuribō)§
+PiranhaPlant : パックンフラワー (pakkun furawā)§
+Podoboo : バブル (baburu)§
+Spiny : トゲゾー (togezō)§
+SpinyEggs : パイポ (paipo)§
+BooDiddly : テレサ (Teresa)§
+Blooperwithkids : 子連れゲッソー (Kozure Gessō)§
+Bob-omb : ボム兵 (Bomuhei)§
+BoomBoom : ブンブン (Bunbun)§
+BoomerangBrothers : ブーメランブロス (Būmeran Burosu)§
+BuzzyBeetle : 逆さメット (Sakasa Metto)§
+ChainChomp : ワンワン (Wanwan)§
+Cheep-cheep : トゲプク (Togepuku)§
+DryBones : カロン (Karon)§
+FireBrothers : ファイアブロス (Faia Burosu)§
+FireChomp : ケロンパ (Keronpa)§
+Firesnake : ファイアスネーク (Faia Sunēku)§
+HotFoot : ウォーク (Wōku)§
+Jelectro : しびれくらげ (Shibire Kurage)§
+LavaLotus : スイチューカ (Suichūka)§
+Micro-Goomba : マメクリボー (Mame Kuribō)§
+Munchers : ブラックパックン (Burakku Pakkun)§
+Para-Beetle : パタメット (Patametto)§
+Para-Goomba : パタクリボー (Patakuribō)§
+Ptooie : フーフーパックン (Fūfū Pakkun)§
+RockyWrench : プー (Pū)§
+Rotodisc : クッキー (Kukkī)§
+SledgeBrothers : ヒマンブロス (Himan Burosu)§
+Spike : ガボン (Gabon)§
+Stretch : ネッチー (Netchī)§
+Thwomp : ドッスン (Dossun)§
+VenusFireTrap : ファイアパックン (Faia Pakkun)§
+WalkingPiranhas : プチパックン (Puchi Pakkun)§
+Anchor : イカリ (Ikari)§
+Coin : コイン (Koin)§
+FireFlower : ファイアフラワー (Faia Furawā)§
+FrogSuit : カエルスーツ (Kaeru Sūtsu)§
+Hammer : ハンマー (Hanmā)§
+JugemsCloud : じゅげむの雲 (Jugemu no Kumo)§
+Whistle : フエ (Fue)§
+MagicWing(P-Wing) : パタパタの羽根 (Patapata no Hane)§
+MusicBox : オルゴール (Orugōru)§
+Starman : スーパースター (Sūpā Sutā)§
+SuperLeaf : スーパーこのは (Sūpā Konoha)§
+SuperMushroom : スーパーキノコ (Sūpā Kinoko)§
+TanookiSuit : タヌキスーツ (Tanuki Sūtsu)§
+DirectionalLift : 不思議リフト (Fushigi Rifuto)§
+DonutLift : チクワリフト (Chikuwa Rifuto)§
+RailLift : レールリフト (Rēru Rifuto)§
+RotaryLift : くるくるリフト (Kurukuru Rifuto)§
+bowser : クッパ (Kuppa)§
+luigi : ルイージ (Ruīji)§
+mario : マリオ (Mario)§
+princesstoadstool : ピーチ (Pīchi)§
+toad : キノピオ (Kinopio)§
+coin : コイン (Koin)§
+fireflower : ファイアフラワー (Faia Furawā)§
+jumpingboard : ジャンプ台 (Janpu Dai)§
+magicmushroom : キノコ (Sūpā Kinoko)§
+star : スター (Sutā)§
+blooper : ゲッソー (Gessō)§
+bulletbill : キラー (Kirā)§
+buzzybeetle : メット (Metto)§
+cheep-cheep : プクプク (Pukupuku)§
+hammerbros : ハンマーブロス (Hanmā Burosu)§
+koopatroopa : ノコノコ (Nokonoko)§
+koopaparatroopa : パタパタ (Patapata)§
+lakitu : ジュゲム (Jugemu)§
+goomba : クリボー (Kuribō)§
+piranhaplant : パックンフラワー (Pakkun Furawā)§
+podoboo : バブル (Baburu)§
+spiny : トゲゾー (Togezō)§
+spinyeggs : パイポ (Paipo)§
+boodiddly : テレサ (Teresa)§
+blooperwithkids : 子連れゲッソー (Kozure Gessō)§
+bob-omb : ボム兵 (Bomuhei)§
+boomboom : ブンブン (Bunbun)§
+boomerangbrothers : ブーメランブロス (Būmeran Burosu)§
+buzzybeetle : 逆さメット (Sakasa Metto)§
+chainchomp : ワンワン (Wanwan)§
+cheepcheep : トゲプク (Togepuku)§
+drybones : カロン (Karon)§
+firebrothers : ファイアブロス (Faia Burosu)§
+firechomp : ケロンパ (Keronpa)§
+firesnake : ファイアスネーク (Faia Sunēku)§
+hotfoot : ウォーク (Wōku)§
+jelectro : しびれくらげ (Shibire Kurage)§
+lavalotus : スイチューカ (Suichūka)§
+micro-goomba : マメクリボー (Mame Kuribō)§
+munchers : ブラックパックン (Burakku Pakkun)§
+parabeetle : パタメット (Patametto)§
+paragoomba : パタクリボー (Patakuribō)§
+ptooie : フーフーパックン (Fūfū Pakkun)§
+rockywrench : プー (Pū)§
+rotodisc : クッキー (Kukkī)§
+sledgebrothers : ヒマンブロス (Himan Burosu)§
+spike : ガボン (Gabon)§
+stretch : ネッチー (Netchī)§
+thwomp : ドッスン (Dossun)§
+venusfiretrap : ファイアパックン (Faia Pakkun)§
+walkingpiranhas : プチパックン (Puchi Pakkun)§
+anchor : イカリ (Ikari)§
+coin : コイン (Koin)§
+fireflower : ファイアフラワー (Faia Furawā)§
+frogsuit : カエルスーツ (Kaeru Sūtsu)§
+hammer : ハンマー (Hanmā)§
+jugemscloud : じゅげむの雲 (Jugemu no Kumo)§
+whistle : フエ (Fue)§
+pwing : パタパタの羽根 (Patapata no Hane)§
+musicbox : オルゴール (Orugōru)§
+starman : スーパースター (Sūpā Sutā)§
+superleaf : スーパーこのは (Sūpā Konoha)§
+supermushroom : スーパーキノコ (Sūpā Kinoko)§
+tanookisuit : タヌキスーツ (Tanuki Sūtsu)§
+directionallift : 不思議リフト (Fushigi Rifuto)§
+donutlift : チクワリフト (Chikuwa Rifuto)§
+raillift : レールリフト (Rēru Rifuto)§
+rotarylift : くるくるリフト (Kurukuru Rifuto)§
