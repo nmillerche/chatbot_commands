@@ -1,0 +1,200 @@
+arau:araimasu (wash)§
+migaku:magakimasu (brush)§
+kigaeru:kigaemasu (change)§
+taberu:tabemasu (eat)§
+nomu:nomimasu (drink)§
+yomu:yomimasu (read)§
+suu:suimasu (smoke)§
+abiru:abimasu (take a shower)§
+okiru:okimasu (wake up)§
+neru:nemasu (sleep)§
+miru:mimasu (see or look)§
+kiku:kikimasu (hear or listen)§
+kau:kaimasu (buy)§
+harau:haraimasu (pay)§
+dasu:dashimasu (take out)§
+ireru:irerimasu (put in)§
+kaku:kakimasu (write)§
+oshieru:oshiemasu (teach)§
+narau:naraimasu (learn)§
+utau:utaimasu (sing)§
+iku:ikimasu (go)§
+kuru:kimasu (come)§
+kaeru:kaerimaus (return or come back)§
+aruku:aruimasu (walk)§
+hashiru:hashirimasu (run)§
+noru:norimasu (get on)§
+oriru:orimasu (get off)§
+norikaeru:norikaerimasu (transfer)§
+magaru:magarimasu (turn)§
+wataru:watarimasu (cross)§
+oyogu:oyogimasu (swim)§
+tatsu:tachimasu (stand up)§
+suwaru:suwarimasu (sit down)§
+deru:demasu (go out)§
+hairu:hairimasu (come in)§
+isogu:isogimasu (hurry)§
+dekakeru:dekakemasu (go out)§
+hataraku:hatarakimasu (work)§
+ugoku:ugokimasu (move)§
+hiku:hikimasu (play the piano)§
+akeru:akemasu (open)§
+shimeru:shimemasu (close)§
+tsukeru:tsukurimasu (turn on)§
+kesu:keshimasu (turn off)§
+osu:oshimasu (push)§
+tomeru:tomemasu (stop)§
+tsukau:tsukaimasu (use)§
+tsukuru:tsukurimasu (make)§
+naosu:naoshimasu (fix)§
+sagasu:sagashimasu (look for)§
+shigotosuru:shigotoshimasu (work)§
+benkyousuru:benkyoushimasu (study)§
+sanposuru:sanposhimasu (take a walk)§
+untensuru:untenshimasu (drive)§
+soujisuru:soujimasu (clean)§
+sentakusuru:sentakushimasu (wash)§
+ryourisuru:ryourishimasu (cook)§
+denwasuru:denwashimasu (telephone)§
+kaimonosuru:kaimonoshimasu (do shopping)§
+ryokousuru:ryokoushimasu (travel)§
+ageru:agemasu (give)§
+morau:moraemasu (receive)§
+okuru:okurimasu (send)§
+matsu:machimasu (wait)§
+au:aimasu (meet)§
+iu:iimasu (say)§
+hanasu:hanashimasu (speak)§
+miseru:misemasu (show)§
+asobu:asobimasu (play)§
+tetsudau:tetsudaimasu (help)§
+omou:omoimasu (think)§
+kangaeru:kanngaemasu (think)§
+wakaru:wakarimasu (understand)§
+komaru:komarimasu (be at a loss)§
+ganbaru:ganbarimasu (do your best)§
+oboeru:oboemasu (memorize)§
+wasureru:wasuremasu (forget)§
+omoidasu:omoidashimasu (remember)§
+shiraberu:shirabemasu (investigate)§
+kotaeru:kotaemasu (answer)§
+kariru:karimasu (borrow)§
+kasu:kashimasu (lend)§
+kaesu:kaeshimasu (return)§
+erabu:erabimasu (choose)§
+nakusu:nakushimasu (lose)§
+iru:irimasu (need)§
+kiru:kirimasu (cut)§
+yobu:yobimasu (call)§
+oku:okimasu (put or place)§
+toru:torimasu (take)§
+motsu:mochimasu (have)§
+iru:imasu (there is or are)§
+aru:arimasu (there is or are)§
+sumu:sumimasu (live or reside)§
+tsutomeru:tsutomemasu (work for)§
+kiru:kimasu (wear clothes)§
+haku:hakimasu (wear shoes)§
+kaburu:kaburimasu (wear hat)§
+suru:shimasu (wear)§
+nugu:nugimasu (take off)§
+あらう:あらいます (wash)§
+みがく:まがきます (brush)§
+きがえる:きがえります (change)§
+たべる:たべます (eat)§
+のむ:のみます (drink)§
+よむ:よみます (read)§
+すう:すいます (smoke)§
+あびる:あびます (take a shower)§
+おきる:おきます (wake up)§
+ねる:ねます ( sleep)§
+みる:みます (see or look)§
+きく:ききます (hear or listen)§
+かう:かいます (buy)§
+はらう:はらいます (pay)§
+だす:だします (take out)§
+いれる:いれります (put in)§
+かく:かきます (write)§
+おしえる:おしえます (teach)§
+ならう:ならいます (learn)§
+うたう:うたいます (sing)§
+いく:いきます (go)§
+くる:きます (come)§
+かえる:かえります (return or come back)§
+あるく:あるいます (walk)§
+はしる:はしります (run)§
+のる:のります (get on)§
+おりる:おります (get off)§
+のりかえる:のりかえります (transfer)§
+まがる:まがります (turn)§
+わたる:わたります (cross)§
+およぐ:およぎます (swim)§
+たつ:たちます (stand up)§
+すわる:すわります (sit down)§
+でる:でます (go out)§
+はいる:はいります (come in)§
+いそぐ:いそぎます (hurry)§
+でかける:でかけます (go out)§
+はたらく:はたらきます (work)§
+うごく:うごきます (move)§
+ひく:ひきます (play the piano)§
+あける:あけます (open)§
+しめる:しめます (close)§
+つける:つくります (turn on)§
+けす:けします (turn off)§
+おす:おします (push)§
+とめる:とめます (stop)§
+つかう:つかいます (use)§
+つくる:つくります (make)§
+なおす:なおします (fix)§
+さがす:さがします (look for)§
+しごとする:しごとします (work)§
+べんきょうする:べんきょうします (study)§
+さんぽする:さんぽします (take a walk)§
+うんてんする:うんてんします (drive)§
+そうじする:そうじします (clean)§
+せんたくする:せんたくします (wash)§
+りょうりする:りょうりします (cook)§
+でんわする:でんわします (telephone)§
+かいものする:かいものします (do shopping)§
+りょこうする:りょこうします (travel)§
+あげる:あげます (give)§
+もらう:もらえます (receive)§
+おくる:おくります (send)§
+まつ:まちます (wait)§
+あう:あいます (meet)§
+いう:いいます (say)§
+はなす:はなします (speak)§
+みせる:みせます (show)§
+あそぶ:あそびます (play)§
+てつだう:てつだいます (help)§
+おもう:おもいます (think)§
+かんがえる:かんがえます (think)§
+わかる:わかります (understand)§
+こまる:こまります (be at a loss)§
+がんばる:がんばります (do your best)§
+おぼえる:おぼえます (memorize)§
+わすれる:わすれます (forget)§
+おもいだす:おもいだします (remember)§
+しらべる:しらべます (investigate)§
+こたえる:こたえます (answer)§
+かりる:かります (borrow)§
+かす:かします (lend)§
+かえす:かえします (return)§
+えらぶ:えらびます (choose)§
+なくす:なくします (lose)§
+いる:いります (need)§
+きる:きります (cut)§
+よぶ:よびます (call)§
+おく:おきます (put or place)§
+とる:とります (take)§
+もつ:もちます (have)§
+いる:います (there is or are)§
+ある:あります (there is or are)§
+すむ:すみます (live or reside)§
+つとめる:つとめます (work for)§
+きる:きます (wear clothes)§
+はく:はきます (wear shoes)§
+かぶる:かぶります (wear hat)§
+する:します (wear)§
+ぬぐ:ぬぎます (take off)§
