@@ -9,13 +9,14 @@ $(eval a='$(urlfetch json https://raw.githubusercontent.com/nmillerche/chatbot_c
 
 ## !mariotranslate
 This command translates Mario names between their English and Japanese names.<br/>
-Usage: *!mariotranslate Bowser* will output *Bowser is カビゴン (kabigon)*.
+Usage: *!mariotranslate Bowser* will output *Bowser is クッパ (kuppa)*.
 ```
 $(eval a='$(urlfetch json https://raw.githubusercontent.com/nmillerche/chatbot_commands/main/Nightbot/textfiles/mariotranslate.txt)'.split('§');q='$(query)';if(!q){'Usage: !mariotranslate Goomba'}else{b='';for(i=0;i<a.length;i++){if(a[i].startsWith('$(query)')){b=a[i].split(':')[1];q=a[i].split(':')[0];}}if(b==''){b='Thank you  $(user), but $(query) might be in another castle! Usage: !mariotranslate KoopaTroopa (no space chars)';}q+' is '+b;})
 ```
 
 ## !masu
 This command will conjugate a Japanese verb from dictionary form to masu form.<br/>
+Usage: *!masu いく* will output *いきます (go)*.
 ```
 $(eval a='$(urlfetch json https://raw.githubusercontent.com/nmillerche/chatbot_commands/main/Nightbot/textfiles/masuVerbs.txt)'.split('§');q='$(query)';if(!q){'Usage: !masu suru'}else{b='';for(i=0;i<a.length;i++){if(a[i].startsWith('$(query)')){b=a[i].split(':')[1];}}if(b==''){b='$(query) is not in my database.';}b;})
 ```
