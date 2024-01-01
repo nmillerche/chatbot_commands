@@ -16,3 +16,21 @@ dragon: Dragon attacks are super effective against Dragon types. They are not ve
 dark: Dark attacks are super effective against Psychic and Ghost types. They are not very effective against Fighting, Dark, or Fairy types.§
 steel: Steel attacks are super effective against Ice, Rock, and Fairy types. They are not every effective against Fire, Water, Electric, or Steel types.§
 fairy: Fairy attacks are super effective against Fighting, Dragon, and Dark types. They are not very effective against Fire, Poison, or Steel types.§
+Normal: Normal attacks are not very effective against Rock and Steel types. They have no effect against Ghost types.§
+Fire: Fire attacks are super effective against Grass, Ice, Bug, and Steel types. They are not very effective against Fire, Water, Rock, or Dragon types.§
+Water: Water attacks are super effective against Fire, Ground, and Rock types. They are not very effective against Water, Gras, or Dragon types.§
+Electric: Electric attacks are super effective against Water and Flying types. They are not very effective against Electric, Grass, or Dragon types. They have no effect against Ground types.§
+Grass: Grass attacks are super effective against Water, Ground, and Rock types. They are not very effective against Fire, Grass, Poison, Flying, But, Dragon, or Steel types.§
+Ice: Ice attacks are super effective against Grass, Ground, Flying, and Dragon types. They are not very effective against Fire, Water, Ice, or Steel types.§
+Fighting: Fighting attacks are super effective against Normal, Ice, Rock, Dark, and Steel types. They are not very effective against Poison, Flying, Psychic, Bug, or Fairy types. They have no effect against Ghost types.§
+Poison: Poison attacks are super effective against Grass and Fairy types. They are not very effective against Poison, Ground, Rock, or Ghost types. They have no effect against Steel types.§
+Ground: Ground attacks are super effective against Fire, Electric, Poison, Rock, and Steel types. They are not very effective against Grass or Bug types. They have no effect against Flying types.§
+Flying: Flying attacks are super effective against Grass, Fighting, and Bug types. They are not very effective against Electric, Rock, or Steel types.§
+Psychic: Psychic attacks are super effective against Fighting and Poison types. They are not very effective against Psychic or Steel types. They have no effect against Dark types.§
+Bug: Bug attacks are super effective against Grass, Psychic, and Dark types. They are not very effective against Fire, Figting, Poison, Flying, Ghost, Steel, or Fairy types.§
+Rock: Rock attacks are super effective against Fire, Ice, Flying, and Bug types. They are not very effective against Fighting, Ground, or Steel types.§
+Ghost: Ghost attacks are super effective against Psychic and Ghost types. They are not very effective against Dark types. They have no effect against Normal types.§
+Dragon: Dragon attacks are super effective against Dragon types. They are not very effective against Steel types. They have no effect against Fairy types.§
+Dark: Dark attacks are super effective against Psychic and Ghost types. They are not very effective against Fighting, Dark, or Fairy types.§
+Steel: Steel attacks are super effective against Ice, Rock, and Fairy types. They are not every effective against Fire, Water, Electric, or Steel types.§
+Fairy: Fairy attacks are super effective against Fighting, Dragon, and Dark types. They are not very effective against Fire, Poison, or Steel types.§
