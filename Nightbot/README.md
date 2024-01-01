@@ -8,13 +8,13 @@ $(eval a='$(urlfetch json https://raw.githubusercontent.com/nmillerche/chatbot_c
 ```
 ## !pattack
 This command returns Pokemon attack type effectiveness.<br/>
-Usage: *!poketranslate Snorlax* will output *Snorlax is カビゴン (kabigon)*.
+Usage: *!pattack fire* will output *Fire attacks are super effective against Grass, Ice, Bug, and Steel types. They are not very effective against Fire, Water, Rock, or Dragon types.*
 ```
 $(eval a='$(urlfetch json https://raw.githubusercontent.com/nmillerche/chatbot_commands/main/Nightbot/textfiles/pokemon_strengths.txt)'.split('§');q='$(query)';if(!q){'Usage: !pattack fire'}else{b='';for(i=0;i<a.length;i++){if(a[i].startsWith('$(query)')){b=a[i].split(':')[1];q=a[i].split(':')[0];}}if(b==''){b=q+' is not recognized! Usage: !pattack psychic';}b;})
 ```
 ## !pweak
 This command returns Pokemon type weaknesses.<br/>
-Usage: *!poketranslate Snorlax* will output *Snorlax is カビゴン (kabigon)*.
+Usage: *!pweak psychic* will output *Psychic attacks are super effective against Fighting and Poison types. They are not very effective against Psychic or Steel types. They have no effect against Dark types.*
 ```
 $(eval a='$(urlfetch json https://raw.githubusercontent.com/nmillerche/chatbot_commands/main/Nightbot/textfiles/pokemon_weakness.txt)'.split('§');q='$(query)'.toLowerCase();if(!q){'Usage: !pweak fire'}else{b='';for(i=0;i<a.length;i++){if(a[i].startsWith('$(query)')){b=a[i].split(':')[1];q=a[i].split(':')[0];}}if(b==''){b=q+' is not recognized! Usage: !pweak psychic';}b;})
 ```
