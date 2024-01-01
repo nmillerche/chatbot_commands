@@ -1,0 +1,75 @@
+normal_weak: fighting§
+normal_resistant: none§
+normal_immune: ghost§
+fire_weak: water, ground, rock§
+fire_resistant: fire, grass, ice, bug, steel, fairy§
+fire_immune: none§
+water_weak: electric, grass§
+water_resistant: fire, water, ice, steel§
+water_immune: none§
+electric_weak: ground§
+electric_resistant: electric, flying, steel§
+electric_immune: none§
+grass_weak: fire, ice, poison, flying, bug§
+grass_resistant: water, electric, grass, ground§
+grass_immune: none§
+ice_weak: fire, fighting, rock, steel§
+ice_resistant: ice§
+ice_immune: none§
+fighting_weak: flying, psychic, fairy§
+fighting_resistant: bug, rock, dark§
+fighting_immune: none§
+poison_weak: ground, psychic§
+poison_resistant: grass, fighting, poison, bug, fairy§
+poison_immune: none§
+ground_weak: water, grass, ice§
+ground_resistant: poison, rock§
+ground_immune: electric§
+flying_weak: electric, ice, rock§
+flying_resistant: grass, fighting, bug§
+flying_immune: ground§
+psychic_weak: bug, ghost, dark§
+psychic_resistant: fighting, psychic§
+psychic_immune: none§
+bug_weak: fire, flying, rock§
+bug_resistant: grass, fighting, ground§
+bug_immune: none§
+rock_weak: water, grass, fighting, ground, steel§
+rock_resistant: normal, fire, poison, flying§
+rock_immune: none§
+ghost_weak: ghost, dark§
+ghost_resistant: poison, bug§
+ghost_immune: normal, fighting§
+dragon_weak: ice, dragon, fairy§
+dragon_resistant: fire, water, electric, grass§
+dragon_immune: none§
+dark_weak: fighting, bug, fairy§
+dark_resistant: ghost, dark§
+dark_immune: psychic§
+steel_weak: fire, fighting, ground§
+steel_resistant: normal, grass, ice, flying, psychic, bug, rock, dragon, steel, fairy§
+steel_immune: poison§
+fairy_weak: poison, steel§
+fairy_resistant: fighting, bug, dark§
+fairy_immune: dragon§
+normal_super: none§
+normal_ineffective: rock, steel§
+normal_noeffect: ghost§
+fire_super: grass, ice, bug, steel§
+fire_ineffective: fire, water, rock, dragon§
+fire_noeffect: none§
+water_super: fire, ground, rock§
+water_ineffective: water, grass, dragon§
+water_noeffect: none§
+electric_super: water, flying§
+electric_ineffective: electric, grass, dragon§
+electric_noeffect: ground§
+grass_super: water, ground, rock§
+grass_ineffective: fire, grass, poison, flying, bug, dragon, steel§
+grass_noeffect: none§
+ice_super: grass, ground, flying, dragon§
+ice_ineffective: fire, water, ice, steel§
+ice_noeffect: none§
+fighting_super: normal, ice, rock, dark, steel§
+fighting_ineffective: poison, flying, psychic, bug, fairy§
+fighting_noeffect: ghost§
