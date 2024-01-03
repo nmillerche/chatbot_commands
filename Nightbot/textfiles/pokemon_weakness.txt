@@ -34,3 +34,616 @@ Dragon: Dragon types are weak to Ice, Dragon, and Fairy attacks. They are resist
 Dark: Dark types are weak to Fighting, Bug, and Fairy attacks. They are resistant to Ghost and Dark attacks. They are also immune to Psychic attacks.§
 Steel: Steel types are weak to Fire, Fighting, and Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, and Fairy attacks. They are also immune to Fairy attacks.§
 Fairy: Fairy types are weak to Poison and Steel attacks. They are resistant to Fighting, Bug, and Dark attacks. They are also immune to Dragon attacks.§
+normal/fire: Normal/Fire dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Bug, Steel, Fairy attacks. They are immune to Ghost attacks.§
+normal/water: Normal/Water dual-types are weak to Electric, Grass, Fighting attacks. They are resistant to Fire, Water, Ice, Steel attacks. They are immune to Ghost attacks.§
+normal/electric: Normal/Electric dual-types are weak to Fighting, Ground attacks. They are resistant to Electric, Flying, Steel attacks. They are immune to Ghost attacks.§
+normal/grass: Normal/Grass dual-types are weak to Fire, Ice, Fighting, Poison, Flying, Bug attacks. They are resistant to Water, Electric, Grass, Ground attacks. They are immune to Ghost attacks.§
+normal/ice: Normal/Ice dual-types are weak to Fire, Fighting, Rock, Steel attacks. They are resistant to Ice attacks. They are immune to Ghost attacks.§
+normal/fighting: Normal/Fighting dual-types are weak to Fighting, Flying, Psychic, Fairy attacks. They are resistant to Bug, Rock, Dark attacks. They are immune to Ghost attacks.§
+normal/poison: Normal/Poison dual-types are weak to Ground, Psychic attacks. They are resistant to Grass, Poison, Bug, Fairy attacks. They are immune to Ghost attacks.§
+normal/ground: Normal/Ground dual-types are weak to Water, Grass, Ice, Fighting attacks. They are resistant to Poison, Rock attacks. They are immune to Electric, Ghost attacks.§
+normal/flying: Normal/Flying dual-types are weak to Electric, Ice, Rock attacks. They are resistant to Grass, Bug attacks. They are immune to Ground, Ghost attacks.§
+normal/psychic: Normal/Psychic dual-types are weak to Bug, Dark attacks. They are resistant to Psychic attacks. They are immune to Ghost attacks.§
+normal/bug: Normal/Bug dual-types are weak to Fire, Flying, Rock attacks. They are resistant to Grass, Ground attacks. They are immune to Ghost attacks.§
+normal/rock: Normal/Rock dual-types are weak to Water, Grass, Fighting, Ground, Steel attacks. They are resistant to Normal, Fire, Poison, Flying attacks. They are immune to Ghost attacks.§
+normal/ghost: Normal/Ghost dual-types are weak to Dark attacks. They are resistant to Poison, Bug attacks. They are immune to Normal, Fighting, Ghost attacks.§
+normal/dragon: Normal/Dragon dual-types are weak to Ice, Fighting, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass attacks. They are immune to Ghost attacks.§
+normal/dark: Normal/Dark dual-types are weak to Fighting, Bug, Fairy attacks. They are resistant to Dark attacks. They are immune to Psychic, Ghost attacks.§
+normal/steel: Normal/Steel dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison, Ghost attacks.§
+normal/fairy: Normal/Fairy dual-types are weak to Poison, Steel attacks. They are resistant to Bug, Dark attacks. They are immune to Ghost, Dragon attacks.§
+fire/normal: Fire/Normal dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Bug, Steel, Fairy attacks. They are immune to Ghost attacks.§
+fire/water: Fire/Water dual-types are weak to Electric, Ground, Rock attacks. They are resistant to Fire, Ice, Bug, Steel, Fairy attacks.§
+fire/electric: Fire/Electric dual-types are weak to Water, Ground, Rock attacks. They are resistant to Fire, Electric, Grass, Ice, Flying, Bug, Steel, Fairy attacks.§
+fire/grass: Fire/Grass dual-types are weak to Poison, Flying, Rock attacks. They are resistant to Electric, Grass, Steel, Fairy attacks.§
+fire/ice: Fire/Ice dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Grass, Ice, Bug, Fairy attacks.§
+fire/fighting: Fire/Fighting dual-types are weak to Water, Ground, Flying, Psychic attacks. They are resistant to Fire, Grass, Ice, Bug, Dark, Steel attacks.§
+fire/poison: Fire/Poison dual-types are weak to Water, Ground, Psychic, Rock attacks. They are resistant to Fire, Grass, Ice, Fighting, Poison, Bug, Steel, Fairy attacks.§
+fire/ground: Fire/Ground dual-types are weak to Water, Ground attacks. They are resistant to Fire, Poison, Bug, Steel, Fairy attacks. They are immune to Electric attacks.§
+fire/flying: Fire/Flying dual-types are weak to Water, Electric, Rock attacks. They are resistant to Fire, Grass, Fighting, Bug, Steel, Fairy attacks. They are immune to Ground attacks.§
+fire/psychic: Fire/Psychic dual-types are weak to Water, Ground, Rock, Ghost, Dark attacks. They are resistant to Fire, Grass, Ice, Fighting, Psychic, Steel, Fairy attacks.§
+fire/bug: Fire/Bug dual-types are weak to Water, Flying, Rock attacks. They are resistant to Grass, Ice, Fighting, Bug, Steel, Fairy attacks.§
+fire/rock: Fire/Rock dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Normal, Fire, Ice, Poison, Flying, Bug, Fairy attacks.§
+fire/ghost: Fire/Ghost dual-types are weak to Water, Ground, Rock, Ghost, Dark attacks. They are resistant to Fire, Grass, Ice, Poison, Bug, Steel, Fairy attacks. They are immune to Normal, Fighting attacks.§
+fire/dragon: Fire/Dragon dual-types are weak to Ground, Rock, Dragon attacks. They are resistant to Fire, Electric, Grass, Bug, Steel attacks.§
+fire/dark: Fire/Dark dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+fire/steel: Fire/Steel dual-types are weak to Water, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+fire/fairy: Fire/Fairy dual-types are weak to Water, Poison, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Fighting, Bug, Dark, Fairy attacks. They are immune to Dragon attacks.§
+water/normal: Water/Normal dual-types are weak to Electric, Grass, Fighting attacks. They are resistant to Fire, Water, Ice, Steel attacks. They are immune to Ghost attacks.§
+water/fire: Water/Fire dual-types are weak to Electric, Ground, Rock attacks. They are resistant to Fire, Ice, Bug, Steel, Fairy attacks.§
+water/electric: Water/Electric dual-types are weak to Grass, Ground attacks. They are resistant to Fire, Water, Ice, Flying, Steel attacks.§
+water/grass: Water/Grass dual-types are weak to Poison, Flying, Bug attacks. They are resistant to Water, Ground, Steel attacks.§
+water/ice: Water/Ice dual-types are weak to Electric, Grass, Fighting, Rock attacks. They are resistant to Water, Ice attacks.§
+water/fighting: Water/Fighting dual-types are weak to Electric, Grass, Flying, Psychic, Fairy attacks. They are resistant to Fire, Water, Ice, Bug, Rock, Dark, Steel attacks.§
+water/poison: Water/Poison dual-types are weak to Electric, Ground, Psychic attacks. They are resistant to Fire, Water, Ice, Fighting, Poison, Bug, Steel, Fairy attacks.§
+water/ground: Water/Ground dual-types are weak to Grass attacks. They are resistant to Fire, Poison, Rock, Steel attacks. They are immune to Electric attacks.§
+water/flying: Water/Flying dual-types are weak to Electric, Rock attacks. They are resistant to Fire, Water, Fighting, Bug, Steel attacks. They are immune to Ground attacks.§
+water/psychic: Water/Psychic dual-types are weak to Electric, Grass, Bug, Ghost, Dark attacks. They are resistant to Fire, Water, Ice, Fighting, Psychic, Steel attacks.§
+water/bug: Water/Bug dual-types are weak to Electric, Flying, Rock attacks. They are resistant to Water, Ice, Fighting, Ground, Steel attacks.§
+water/rock: Water/Rock dual-types are weak to Electric, Grass, Fighting, Ground attacks. They are resistant to Normal, Fire, Ice, Poison, Flying attacks.§
+water/ghost: Water/Ghost dual-types are weak to Electric, Grass, Ghost, Dark attacks. They are resistant to Fire, Water, Ice, Poison, Bug, Steel attacks. They are immune to Normal, Fighting attacks.§
+water/dragon: Water/Dragon dual-types are weak to Dragon, Fairy attacks. They are resistant to Fire, Water, Steel attacks.§
+water/dark: Water/Dark dual-types are weak to Electric, Grass, Fighting, Bug, Fairy attacks. They are resistant to Fire, Water, Ice, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+water/steel: Water/Steel dual-types are weak to Electric, Fighting, Ground attacks. They are resistant to Normal, Water, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+water/fairy: Water/Fairy dual-types are weak to Electric, Grass, Poison attacks. They are resistant to Fire, Water, Ice, Fighting, Bug, Dark attacks. They are immune to Dragon attacks.§
+electric/normal: Electric/Normal dual-types are weak to Fighting, Ground attacks. They are resistant to Electric, Flying, Steel attacks. They are immune to Ghost attacks.§
+electric/fire: Electric/Fire dual-types are weak to Water, Ground, Rock attacks. They are resistant to Fire, Electric, Grass, Ice, Flying, Bug, Steel, Fairy attacks.§
+electric/water: Electric/Water dual-types are weak to Grass, Ground attacks. They are resistant to Fire, Water, Ice, Flying, Steel attacks.§
+electric/grass: Electric/Grass dual-types are weak to Fire, Ice, Poison, Bug attacks. They are resistant to Water, Electric, Grass, Steel attacks.§
+electric/ice: Electric/Ice dual-types are weak to Fire, Fighting, Ground, Rock attacks. They are resistant to Electric, Ice, Flying attacks.§
+electric/fighting: Electric/Fighting dual-types are weak to Ground, Psychic, Fairy attacks. They are resistant to Electric, Bug, Rock, Dark, Steel attacks.§
+electric/poison: Electric/Poison dual-types are weak to Ground, Psychic attacks. They are resistant to Electric, Grass, Fighting, Poison, Flying, Bug, Steel, Fairy attacks.§
+electric/ground: Electric/Ground dual-types are weak to Water, Grass, Ice, Ground attacks. They are resistant to Poison, Flying, Rock, Steel attacks. They are immune to Electric attacks.§
+electric/flying: Electric/Flying dual-types are weak to Ice, Rock attacks. They are resistant to Grass, Fighting, Flying, Bug, Steel attacks. They are immune to Ground attacks.§
+electric/psychic: Electric/Psychic dual-types are weak to Ground, Bug, Ghost, Dark attacks. They are resistant to Electric, Fighting, Flying, Psychic, Steel attacks.§
+electric/bug: Electric/Bug dual-types are weak to Fire, Rock attacks. They are resistant to Electric, Grass, Fighting, Steel attacks.§
+electric/rock: Electric/Rock dual-types are weak to Water, Grass, Fighting, Ground attacks. They are resistant to Normal, Fire, Electric, Poison, Flying attacks.§
+electric/ghost: Electric/Ghost dual-types are weak to Ground, Ghost, Dark attacks. They are resistant to Electric, Poison, Flying, Bug, Steel attacks. They are immune to Normal, Fighting attacks.§
+electric/dragon: Electric/Dragon dual-types are weak to Ice, Ground, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Flying, Steel attacks.§
+electric/dark: Electric/Dark dual-types are weak to Fighting, Ground, Bug, Fairy attacks. They are resistant to Electric, Flying, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+electric/steel: Electric/Steel dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Electric, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+electric/fairy: Electric/Fairy dual-types are weak to Poison, Ground attacks. They are resistant to Electric, Fighting, Flying, Bug, Dark attacks. They are immune to Dragon attacks.§
+grass/normal: Grass/Normal dual-types are weak to Fire, Ice, Fighting, Poison, Flying, Bug attacks. They are resistant to Water, Electric, Grass, Ground attacks. They are immune to Ghost attacks.§
+grass/fire: Grass/Fire dual-types are weak to Poison, Flying, Rock attacks. They are resistant to Electric, Grass, Steel, Fairy attacks.§
+grass/water: Grass/Water dual-types are weak to Poison, Flying, Bug attacks. They are resistant to Water, Ground, Steel attacks.§
+grass/electric: Grass/Electric dual-types are weak to Fire, Ice, Poison, Bug attacks. They are resistant to Water, Electric, Grass, Steel attacks.§
+grass/ice: Grass/Ice dual-types are weak to Fire, Fighting, Poison, Flying, Bug, Rock, Steel attacks. They are resistant to Water, Electric, Grass, Ground attacks.§
+grass/fighting: Grass/Fighting dual-types are weak to Fire, Ice, Poison, Flying, Psychic, Fairy attacks. They are resistant to Water, Electric, Grass, Ground, Rock, Dark attacks.§
+grass/poison: Grass/Poison dual-types are weak to Fire, Ice, Flying, Psychic attacks. They are resistant to Water, Electric, Grass, Fighting, Fairy attacks.§
+grass/ground: Grass/Ground dual-types are weak to Fire, Ice, Flying, Bug attacks. They are resistant to Ground, Rock attacks. They are immune to Electric attacks.§
+grass/flying: Grass/Flying dual-types are weak to Fire, Ice, Poison, Flying, Rock attacks. They are resistant to Water, Grass, Fighting attacks. They are immune to Ground attacks.§
+grass/psychic: Grass/Psychic dual-types are weak to Fire, Ice, Poison, Flying, Bug, Ghost, Dark attacks. They are resistant to Water, Electric, Grass, Fighting, Ground, Psychic attacks.§
+grass/bug: Grass/Bug dual-types are weak to Fire, Ice, Poison, Flying, Bug, Rock attacks. They are resistant to Water, Electric, Grass, Fighting, Ground attacks.§
+grass/rock: Grass/Rock dual-types are weak to Ice, Fighting, Bug, Steel attacks. They are resistant to Normal, Electric attacks.§
+grass/ghost: Grass/Ghost dual-types are weak to Fire, Ice, Flying, Ghost, Dark attacks. They are resistant to Water, Electric, Grass, Ground attacks. They are immune to Normal, Fighting attacks.§
+grass/dragon: Grass/Dragon dual-types are weak to Ice, Poison, Flying, Bug, Dragon, Fairy attacks. They are resistant to Water, Electric, Grass, Ground attacks.§
+grass/dark: Grass/Dark dual-types are weak to Fire, Ice, Fighting, Poison, Flying, Bug, Fairy attacks. They are resistant to Water, Electric, Grass, Ground, Ghost, Dark attacks. They are immune to Psychic attacks.§
+grass/steel: Grass/Steel dual-types are weak to Fire, Fighting attacks. They are resistant to Normal, Water, Electric, Grass, Psychic, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+grass/fairy: Grass/Fairy dual-types are weak to Fire, Ice, Poison, Flying, Steel attacks. They are resistant to Water, Electric, Grass, Fighting, Ground, Dark attacks. They are immune to Dragon attacks.§
+ice/normal: Ice/Normal dual-types are weak to Fire, Fighting, Rock, Steel attacks. They are resistant to Ice attacks. They are immune to Ghost attacks.§
+ice/fire: Ice/Fire dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Grass, Ice, Bug, Fairy attacks.§
+ice/water: Ice/Water dual-types are weak to Electric, Grass, Fighting, Rock attacks. They are resistant to Water, Ice attacks.§
+ice/electric: Ice/Electric dual-types are weak to Fire, Fighting, Ground, Rock attacks. They are resistant to Electric, Ice, Flying attacks.§
+ice/grass: Ice/Grass dual-types are weak to Fire, Fighting, Poison, Flying, Bug, Rock, Steel attacks. They are resistant to Water, Electric, Grass, Ground attacks.§
+ice/fighting: Ice/Fighting dual-types are weak to Fire, Fighting, Flying, Psychic, Steel, Fairy attacks. They are resistant to Ice, Bug, Dark attacks.§
+ice/poison: Ice/Poison dual-types are weak to Fire, Ground, Psychic, Rock, Steel attacks. They are resistant to Grass, Ice, Poison, Bug, Fairy attacks.§
+ice/ground: Ice/Ground dual-types are weak to Fire, Water, Grass, Fighting, Steel attacks. They are resistant to Poison attacks. They are immune to Electric attacks.§
+ice/flying: Ice/Flying dual-types are weak to Fire, Electric, Rock, Steel attacks. They are resistant to Grass, Bug attacks. They are immune to Ground attacks.§
+ice/psychic: Ice/Psychic dual-types are weak to Fire, Bug, Rock, Ghost, Dark, Steel attacks. They are resistant to Ice, Psychic attacks.§
+ice/bug: Ice/Bug dual-types are weak to Fire, Flying, Rock, Steel attacks. They are resistant to Grass, Ice, Ground attacks.§
+ice/rock: Ice/Rock dual-types are weak to Water, Grass, Fighting, Ground, Rock, Steel attacks. They are resistant to Normal, Ice, Poison, Flying attacks.§
+ice/ghost: Ice/Ghost dual-types are weak to Fire, Rock, Ghost, Dark, Steel attacks. They are resistant to Ice, Poison, Bug attacks. They are immune to Normal, Fighting attacks.§
+ice/dragon: Ice/Dragon dual-types are weak to Fighting, Rock, Dragon, Steel, Fairy attacks. They are resistant to Water, Electric, Grass attacks.§
+ice/dark: Ice/Dark dual-types are weak to Fire, Fighting, Bug, Rock, Steel, Fairy attacks. They are resistant to Ice, Ghost, Dark attacks. They are immune to Psychic attacks.§
+ice/steel: Ice/Steel dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Dragon, Fairy attacks. They are immune to Poison attacks.§
+ice/fairy: Ice/Fairy dual-types are weak to Fire, Poison, Rock, Steel attacks. They are resistant to Ice, Bug, Dark attacks. They are immune to Dragon attacks.§
+fighting/normal: Fighting/Normal dual-types are weak to Fighting, Flying, Psychic, Fairy attacks. They are resistant to Bug, Rock, Dark attacks. They are immune to Ghost attacks.§
+fighting/fire: Fighting/Fire dual-types are weak to Water, Ground, Flying, Psychic attacks. They are resistant to Fire, Grass, Ice, Bug, Dark, Steel attacks.§
+fighting/water: Fighting/Water dual-types are weak to Electric, Grass, Flying, Psychic, Fairy attacks. They are resistant to Fire, Water, Ice, Bug, Rock, Dark, Steel attacks.§
+fighting/electric: Fighting/Electric dual-types are weak to Ground, Psychic, Fairy attacks. They are resistant to Electric, Bug, Rock, Dark, Steel attacks.§
+fighting/grass: Fighting/Grass dual-types are weak to Fire, Ice, Poison, Flying, Psychic, Fairy attacks. They are resistant to Water, Electric, Grass, Ground, Rock, Dark attacks.§
+fighting/ice: Fighting/Ice dual-types are weak to Fire, Fighting, Flying, Psychic, Steel, Fairy attacks. They are resistant to Ice, Bug, Dark attacks.§
+fighting/poison: Fighting/Poison dual-types are weak to Ground, Flying, Psychic attacks. They are resistant to Grass, Fighting, Poison, Bug, Rock, Dark attacks.§
+fighting/ground: Fighting/Ground dual-types are weak to Water, Grass, Ice, Flying, Psychic, Fairy attacks. They are resistant to Poison, Bug, Rock, Dark attacks. They are immune to Electric attacks.§
+fighting/flying: Fighting/Flying dual-types are weak to Electric, Ice, Flying, Psychic, Fairy attacks. They are resistant to Grass, Fighting, Bug, Dark attacks. They are immune to Ground attacks.§
+fighting/psychic: Fighting/Psychic dual-types are weak to Flying, Ghost, Fairy attacks. They are resistant to Fighting, Rock attacks.§
+fighting/bug: Fighting/Bug dual-types are weak to Fire, Flying, Psychic, Fairy attacks. They are resistant to Grass, Fighting, Ground, Bug, Dark attacks.§
+fighting/rock: Fighting/Rock dual-types are weak to Water, Grass, Fighting, Ground, Psychic, Steel, Fairy attacks. They are resistant to Normal, Fire, Poison, Bug, Rock, Dark attacks.§
+fighting/ghost: Fighting/Ghost dual-types are weak to Flying, Psychic, Ghost, Fairy attacks. They are resistant to Poison, Bug, Rock attacks. They are immune to Normal, Fighting attacks.§
+fighting/dragon: Fighting/Dragon dual-types are weak to Ice, Flying, Psychic, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Bug, Rock, Dark attacks.§
+fighting/dark: Fighting/Dark dual-types are weak to Fighting, Flying, Fairy attacks. They are resistant to Rock, Ghost, Dark attacks. They are immune to Psychic attacks.§
+fighting/steel: Fighting/Steel dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Bug, Rock, Dragon, Dark, Steel attacks. They are immune to Poison attacks.§
+fighting/fairy: Fighting/Fairy dual-types are weak to Poison, Flying, Psychic, Steel, Fairy attacks. They are resistant to Fighting, Bug, Rock, Dark attacks. They are immune to Dragon attacks.§
+poison/normal: Poison/Normal dual-types are weak to Ground, Psychic attacks. They are resistant to Grass, Poison, Bug, Fairy attacks. They are immune to Ghost attacks.§
+poison/fire: Poison/Fire dual-types are weak to Water, Ground, Psychic, Rock attacks. They are resistant to Fire, Grass, Ice, Fighting, Poison, Bug, Steel, Fairy attacks.§
+poison/water: Poison/Water dual-types are weak to Electric, Ground, Psychic attacks. They are resistant to Fire, Water, Ice, Fighting, Poison, Bug, Steel, Fairy attacks.§
+poison/electric: Poison/Electric dual-types are weak to Ground, Psychic attacks. They are resistant to Electric, Grass, Fighting, Poison, Flying, Bug, Steel, Fairy attacks.§
+poison/grass: Poison/Grass dual-types are weak to Fire, Ice, Flying, Psychic attacks. They are resistant to Water, Electric, Grass, Fighting, Fairy attacks.§
+poison/ice: Poison/Ice dual-types are weak to Fire, Ground, Psychic, Rock, Steel attacks. They are resistant to Grass, Ice, Poison, Bug, Fairy attacks.§
+poison/fighting: Poison/Fighting dual-types are weak to Ground, Flying, Psychic attacks. They are resistant to Grass, Fighting, Poison, Bug, Rock, Dark attacks.§
+poison/ground: Poison/Ground dual-types are weak to Water, Ice, Ground, Psychic attacks. They are resistant to Fighting, Poison, Bug, Rock, Fairy attacks. They are immune to Electric attacks.§
+poison/flying: Poison/Flying dual-types are weak to Electric, Ice, Psychic, Rock attacks. They are resistant to Grass, Fighting, Poison, Bug, Fairy attacks. They are immune to Ground attacks.§
+poison/psychic: Poison/Psychic dual-types are weak to Ground, Ghost, Dark attacks. They are resistant to Grass, Fighting, Poison, Fairy attacks.§
+poison/bug: Poison/Bug dual-types are weak to Fire, Flying, Psychic, Rock attacks. They are resistant to Grass, Fighting, Poison, Bug, Fairy attacks.§
+poison/rock: Poison/Rock dual-types are weak to Water, Ground, Psychic, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Bug, Fairy attacks.§
+poison/ghost: Poison/Ghost dual-types are weak to Ground, Psychic, Ghost, Dark attacks. They are resistant to Grass, Poison, Bug, Fairy attacks. They are immune to Normal, Fighting attacks.§
+poison/dragon: Poison/Dragon dual-types are weak to Ice, Ground, Psychic, Dragon attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Poison, Bug attacks.§
+poison/dark: Poison/Dark dual-types are weak to Ground attacks. They are resistant to Grass, Poison, Ghost, Dark attacks. They are immune to Psychic attacks.§
+poison/steel: Poison/Steel dual-types are weak to Fire, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+poison/fairy: Poison/Fairy dual-types are weak to Ground, Psychic, Steel attacks. They are resistant to Grass, Fighting, Bug, Dark, Fairy attacks. They are immune to Dragon attacks.§
+ground/normal: Ground/Normal dual-types are weak to Water, Grass, Ice, Fighting attacks. They are resistant to Poison, Rock attacks. They are immune to Electric, Ghost attacks.§
+ground/fire: Ground/Fire dual-types are weak to Water, Ground attacks. They are resistant to Fire, Poison, Bug, Steel, Fairy attacks. They are immune to Electric attacks.§
+ground/water: Ground/Water dual-types are weak to Grass attacks. They are resistant to Fire, Poison, Rock, Steel attacks. They are immune to Electric attacks.§
+ground/electric: Ground/Electric dual-types are weak to Water, Grass, Ice, Ground attacks. They are resistant to Poison, Flying, Rock, Steel attacks. They are immune to Electric attacks.§
+ground/grass: Ground/Grass dual-types are weak to Fire, Ice, Flying, Bug attacks. They are resistant to Ground, Rock attacks. They are immune to Electric attacks.§
+ground/ice: Ground/Ice dual-types are weak to Fire, Water, Grass, Fighting, Steel attacks. They are resistant to Poison attacks. They are immune to Electric attacks.§
+ground/fighting: Ground/Fighting dual-types are weak to Water, Grass, Ice, Flying, Psychic, Fairy attacks. They are resistant to Poison, Bug, Rock, Dark attacks. They are immune to Electric attacks.§
+ground/poison: Ground/Poison dual-types are weak to Water, Ice, Ground, Psychic attacks. They are resistant to Fighting, Poison, Bug, Rock, Fairy attacks. They are immune to Electric attacks.§
+ground/flying: Ground/Flying dual-types are weak to Water, Ice attacks. They are resistant to Fighting, Poison, Bug attacks. They are immune to Electric, Ground attacks.§
+ground/psychic: Ground/Psychic dual-types are weak to Water, Grass, Ice, Bug, Ghost, Dark attacks. They are resistant to Fighting, Poison, Psychic, Rock attacks. They are immune to Electric attacks.§
+ground/bug: Ground/Bug dual-types are weak to Fire, Water, Ice, Flying attacks. They are resistant to Fighting, Poison, Ground attacks. They are immune to Electric attacks.§
+ground/rock: Ground/Rock dual-types are weak to Water, Grass, Ice, Fighting, Ground, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Rock attacks. They are immune to Electric attacks.§
+ground/ghost: Ground/Ghost dual-types are weak to Water, Grass, Ice, Ghost, Dark attacks. They are resistant to Poison, Bug, Rock attacks. They are immune to Normal, Electric, Fighting attacks.§
+ground/dragon: Ground/Dragon dual-types are weak to Ice, Dragon, Fairy attacks. They are resistant to Fire, Poison, Rock attacks. They are immune to Electric attacks.§
+ground/dark: Ground/Dark dual-types are weak to Water, Grass, Ice, Fighting, Bug, Fairy attacks. They are resistant to Poison, Rock, Ghost, Dark attacks. They are immune to Electric, Psychic attacks.§
+ground/steel: Ground/Steel dual-types are weak to Fire, Water, Fighting, Ground attacks. They are resistant to Normal, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Electric, Poison attacks.§
+ground/fairy: Ground/Fairy dual-types are weak to Water, Grass, Ice, Steel attacks. They are resistant to Fighting, Bug, Rock, Dark attacks. They are immune to Electric, Dragon attacks.§
+flying/normal: Flying/Normal dual-types are weak to Electric, Ice, Rock attacks. They are resistant to Grass, Bug attacks. They are immune to Ground, Ghost attacks.§
+flying/fire: Flying/Fire dual-types are weak to Water, Electric, Rock attacks. They are resistant to Fire, Grass, Fighting, Bug, Steel, Fairy attacks. They are immune to Ground attacks.§
+flying/water: Flying/Water dual-types are weak to Electric, Rock attacks. They are resistant to Fire, Water, Fighting, Bug, Steel attacks. They are immune to Ground attacks.§
+flying/electric: Flying/Electric dual-types are weak to Ice, Rock attacks. They are resistant to Grass, Fighting, Flying, Bug, Steel attacks. They are immune to Ground attacks.§
+flying/grass: Flying/Grass dual-types are weak to Fire, Ice, Poison, Flying, Rock attacks. They are resistant to Water, Grass, Fighting attacks. They are immune to Ground attacks.§
+flying/ice: Flying/Ice dual-types are weak to Fire, Electric, Rock, Steel attacks. They are resistant to Grass, Bug attacks. They are immune to Ground attacks.§
+flying/fighting: Flying/Fighting dual-types are weak to Electric, Ice, Flying, Psychic, Fairy attacks. They are resistant to Grass, Fighting, Bug, Dark attacks. They are immune to Ground attacks.§
+flying/poison: Flying/Poison dual-types are weak to Electric, Ice, Psychic, Rock attacks. They are resistant to Grass, Fighting, Poison, Bug, Fairy attacks. They are immune to Ground attacks.§
+flying/ground: Flying/Ground dual-types are weak to Water, Ice attacks. They are resistant to Fighting, Poison, Bug attacks. They are immune to Electric, Ground attacks.§
+flying/psychic: Flying/Psychic dual-types are weak to Electric, Ice, Rock, Ghost, Dark attacks. They are resistant to Grass, Fighting, Psychic attacks. They are immune to Ground attacks.§
+flying/bug: Flying/Bug dual-types are weak to Fire, Electric, Ice, Flying, Rock attacks. They are resistant to Grass, Fighting, Bug attacks. They are immune to Ground attacks.§
+flying/rock: Flying/Rock dual-types are weak to Water, Electric, Ice, Rock, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Bug attacks. They are immune to Ground attacks.§
+flying/ghost: Flying/Ghost dual-types are weak to Electric, Ice, Rock, Ghost, Dark attacks. They are resistant to Grass, Poison, Bug attacks. They are immune to Normal, Fighting, Ground attacks.§
+flying/dark: Flying/Dark dual-types are weak to Electric, Ice, Rock, Fairy attacks. They are resistant to Grass, Ghost, Dark attacks. They are immune to Ground, Psychic attacks.§
+flying/dragon: Flying/Dragon dual-types are weak to Ice, Rock, Dragon, Fairy attacks. They are resistant to Fire, Water, Grass, Fighting, Bug attacks. They are immune to Ground attacks.§
+flying/steel: Flying/Steel dual-types are weak to Fire, Electric attacks. They are resistant to Normal, Grass, Flying, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison, Ground attacks.§
+flying/fairy: Flying/Fairy dual-types are weak to Electric, Ice, Poison, Rock, Steel attacks. They are resistant to Grass, Fighting, Bug, Dark attacks. They are immune to Ground, Dragon attacks.§
+psychic/normal: Psychic/Normal dual-types are weak to Bug, Dark attacks. They are resistant to Psychic attacks. They are immune to Ghost attacks.§
+psychic/fire: Psychic/Fire dual-types are weak to Water, Ground, Rock, Ghost, Dark attacks. They are resistant to Fire, Grass, Ice, Fighting, Psychic, Steel, Fairy attacks.§
+psychic/water: Psychic/Water dual-types are weak to Electric, Grass, Bug, Ghost, Dark attacks. They are resistant to Fire, Water, Ice, Fighting, Psychic, Steel attacks.§
+psychic/electric: Psychic/Electric dual-types are weak to Ground, Bug, Ghost, Dark attacks. They are resistant to Electric, Fighting, Flying, Psychic, Steel attacks.§
+psychic/grass: Psychic/Grass dual-types are weak to Fire, Ice, Poison, Flying, Bug, Ghost, Dark attacks. They are resistant to Water, Electric, Grass, Fighting, Ground, Psychic attacks.§
+psychic/ice: Psychic/Ice dual-types are weak to Fire, Bug, Rock, Ghost, Dark, Steel attacks. They are resistant to Ice, Psychic attacks.§
+psychic/fighting: Psychic/Fighting dual-types are weak to Flying, Ghost, Fairy attacks. They are resistant to Fighting, Rock attacks.§
+psychic/poison: Psychic/Poison dual-types are weak to Ground, Ghost, Dark attacks. They are resistant to Grass, Fighting, Poison, Fairy attacks.§
+psychic/ground: Psychic/Ground dual-types are weak to Water, Grass, Ice, Bug, Ghost, Dark attacks. They are resistant to Fighting, Poison, Psychic, Rock attacks. They are immune to Electric attacks.§
+psychic/flying: Psychic/Flying dual-types are weak to Electric, Ice, Rock, Ghost, Dark attacks. They are resistant to Grass, Fighting, Psychic attacks. They are immune to Ground attacks.§
+psychic/bug: Psychic/Bug dual-types are weak to Fire, Flying, Bug, Rock, Ghost, Dark attacks. They are resistant to Grass, Fighting, Ground, Psychic attacks.§
+psychic/rock: Psychic/Rock dual-types are weak to Water, Grass, Ground, Bug, Ghost, Dark, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Psychic attacks.§
+psychic/ghost: Psychic/Ghost dual-types are weak to Ghost, Dark attacks. They are resistant to Poison, Psychic attacks. They are immune to Normal, Fighting attacks.§
+psychic/dragon: Psychic/Dragon dual-types are weak to Ice, Bug, Ghost, Dragon, Dark, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Psychic attacks.§
+psychic/dark: Psychic/Dark dual-types are weak to Bug, Fairy attacks. They are resistant to attacks. They are immune to Psychic attacks.§
+psychic/steel: Psychic/Steel dual-types are weak to Fire, Ground, Ghost, Dark attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+psychic/fairy: Psychic/Fairy dual-types are weak to Poison, Ghost, Steel attacks. They are resistant to Fighting, Psychic attacks. They are immune to Dragon attacks.§
+bug/normal: Bug/Normal dual-types are weak to Fire, Flying, Rock attacks. They are resistant to Grass, Ground attacks. They are immune to Ghost attacks.§
+bug/fire: Bug/Fire dual-types are weak to Water, Flying, Rock attacks. They are resistant to Grass, Ice, Fighting, Bug, Steel, Fairy attacks.§
+bug/water: Bug/Water dual-types are weak to Electric, Flying, Rock attacks. They are resistant to Water, Ice, Fighting, Ground, Steel attacks.§
+bug/electric: Bug/Electric dual-types are weak to Fire, Rock attacks. They are resistant to Electric, Grass, Fighting, Steel attacks.§
+bug/grass: Bug/Grass dual-types are weak to Fire, Ice, Poison, Flying, Bug, Rock attacks. They are resistant to Water, Electric, Grass, Fighting, Ground attacks.§
+bug/ice: Bug/Ice dual-types are weak to Fire, Flying, Rock, Steel attacks. They are resistant to Grass, Ice, Ground attacks.§
+bug/fighting: Bug/Fighting dual-types are weak to Fire, Flying, Psychic, Fairy attacks. They are resistant to Grass, Fighting, Ground, Bug, Dark attacks.§
+bug/poison: Bug/Poison dual-types are weak to Fire, Flying, Psychic, Rock attacks. They are resistant to Grass, Fighting, Poison, Bug, Fairy attacks.§
+bug/ground: Bug/Ground dual-types are weak to Fire, Water, Ice, Flying attacks. They are resistant to Fighting, Poison, Ground attacks. They are immune to Electric attacks.§
+bug/flying: Bug/Flying dual-types are weak to Fire, Electric, Ice, Flying, Rock attacks. They are resistant to Grass, Fighting, Bug attacks. They are immune to Ground attacks.§
+bug/psychic: Bug/Psychic dual-types are weak to Fire, Flying, Bug, Rock, Ghost, Dark attacks. They are resistant to Grass, Fighting, Ground, Psychic attacks.§
+bug/rock: Bug/Rock dual-types are weak to Water, Rock, Steel attacks. They are resistant to Normal, Poison attacks.§
+bug/ghost: Bug/Ghost dual-types are weak to Fire, Flying, Rock, Ghost, Dark attacks. They are resistant to Grass, Poison, Ground, Bug attacks. They are immune to Normal, Fighting attacks.§
+bug/dragon: Bug/Dragon dual-types are weak to Ice, Flying, Rock, Dragon, Fairy attacks. They are resistant to Water, Electric, Grass, Fighting, Ground attacks.§
+bug/dark: Bug/Dark dual-types are weak to Fire, Flying, Bug, Rock, Fairy attacks. They are resistant to Grass, Ground, Ghost, Dark attacks. They are immune to Psychic attacks.§
+bug/steel: Bug/Steel dual-types are weak to Fire attacks. They are resistant to Normal, Grass, Ice, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+bug/fairy: Bug/Fairy dual-types are weak to Fire, Poison, Flying, Rock, Steel attacks. They are resistant to Grass, Fighting, Ground, Bug, Dark attacks. They are immune to Dragon attacks.§
+rock/normal: Rock/Normal dual-types are weak to Water, Grass, Fighting, Ground, Steel attacks. They are resistant to Normal, Fire, Poison, Flying attacks. They are immune to Ghost attacks.§
+rock/fire: Rock/Fire dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Normal, Fire, Ice, Poison, Flying, Bug, Fairy attacks.§
+rock/water: Rock/Water dual-types are weak to Electric, Grass, Fighting, Ground attacks. They are resistant to Normal, Fire, Ice, Poison, Flying attacks.§
+rock/electric: Rock/Electric dual-types are weak to Water, Grass, Fighting, Ground attacks. They are resistant to Normal, Fire, Electric, Poison, Flying attacks.§
+rock/grass: Rock/Grass dual-types are weak to Ice, Fighting, Bug, Steel attacks. They are resistant to Normal, Electric attacks.§
+rock/ice: Rock/Ice dual-types are weak to Water, Grass, Fighting, Ground, Rock, Steel attacks. They are resistant to Normal, Ice, Poison, Flying attacks.§
+rock/fighting: Rock/Fighting dual-types are weak to Water, Grass, Fighting, Ground, Psychic, Steel, Fairy attacks. They are resistant to Normal, Fire, Poison, Bug, Rock, Dark attacks.§
+rock/poison: Rock/Poison dual-types are weak to Water, Ground, Psychic, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Bug, Fairy attacks.§
+rock/ground: Rock/Ground dual-types are weak to Water, Grass, Ice, Fighting, Ground, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Rock attacks. They are immune to Electric attacks.§
+rock/flying: Rock/Flying dual-types are weak to Water, Electric, Ice, Rock, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Bug attacks. They are immune to Ground attacks.§
+rock/psychic: Rock/Psychic dual-types are weak to Water, Grass, Ground, Bug, Ghost, Dark, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Psychic attacks.§
+rock/bug: Rock/Bug dual-types are weak to Water, Rock, Steel attacks. They are resistant to Normal, Poison attacks.§
+rock/ghost: Rock/Ghost dual-types are weak to Water, Grass, Ground, Ghost, Dark, Steel attacks. They are resistant to Fire, Poison, Flying, Bug attacks. They are immune to Normal, Fighting attacks.§
+rock/dragon: Rock/Dragon dual-types are weak to Ice, Fighting, Ground, Dragon, Steel, Fairy attacks. They are resistant to Normal, Fire, Electric, Poison, Flying attacks.§
+rock/dark: Rock/Dark dual-types are weak to Water, Grass, Fighting, Ground, Bug, Steel, Fairy attacks. They are resistant to Normal, Fire, Poison, Flying, Ghost, Dark attacks. They are immune to Psychic attacks.§
+rock/steel: Rock/Steel dual-types are weak to Water, Fighting, Ground attacks. They are resistant to Normal, Ice, Flying, Psychic, Bug, Rock, Dragon, Fairy attacks. They are immune to Poison attacks.§
+rock/fairy: Rock/Fairy dual-types are weak to Water, Grass, Ground, Steel attacks. They are resistant to Normal, Fire, Flying, Bug, Dark attacks. They are immune to Dragon attacks.§
+ghost/normal: Ghost/Normal dual-types are weak to Dark attacks. They are resistant to Poison, Bug attacks. They are immune to Normal, Fighting, Ghost attacks.§
+ghost/fire: Ghost/Fire dual-types are weak to Water, Ground, Rock, Ghost, Dark attacks. They are resistant to Fire, Grass, Ice, Poison, Bug, Steel, Fairy attacks. They are immune to Normal, Fighting attacks.§
+ghost/water: Ghost/Water dual-types are weak to Electric, Grass, Ghost, Dark attacks. They are resistant to Fire, Water, Ice, Poison, Bug, Steel attacks. They are immune to Normal, Fighting attacks.§
+ghost/electric: Ghost/Electric dual-types are weak to Ground, Ghost, Dark attacks. They are resistant to Electric, Poison, Flying, Bug, Steel attacks. They are immune to Normal, Fighting attacks.§
+ghost/grass: Ghost/Grass dual-types are weak to Fire, Ice, Flying, Ghost, Dark attacks. They are resistant to Water, Electric, Grass, Ground attacks. They are immune to Normal, Fighting attacks.§
+ghost/ice: Ghost/Ice dual-types are weak to Fire, Rock, Ghost, Dark, Steel attacks. They are resistant to Ice, Poison, Bug attacks. They are immune to Normal, Fighting attacks.§
+ghost/fighting: Ghost/Fighting dual-types are weak to Flying, Psychic, Ghost, Fairy attacks. They are resistant to Poison, Bug, Rock attacks. They are immune to Normal, Fighting attacks.§
+ghost/poison: Ghost/Poison dual-types are weak to Ground, Psychic, Ghost, Dark attacks. They are resistant to Grass, Poison, Bug, Fairy attacks. They are immune to Normal, Fighting attacks.§
+ghost/ground: Ghost/Ground dual-types are weak to Water, Grass, Ice, Ghost, Dark attacks. They are resistant to Poison, Bug, Rock attacks. They are immune to Normal, Electric, Fighting attacks.§
+ghost/flying: Ghost/Flying dual-types are weak to Electric, Ice, Rock, Ghost, Dark attacks. They are resistant to Grass, Poison, Bug attacks. They are immune to Normal, Fighting, Ground attacks.§
+ghost/psychic: Ghost/Psychic dual-types are weak to Ghost, Dark attacks. They are resistant to Poison, Psychic attacks. They are immune to Normal, Fighting attacks.§
+ghost/bug: Ghost/Bug dual-types are weak to Fire, Flying, Rock, Ghost, Dark attacks. They are resistant to Grass, Poison, Ground, Bug attacks. They are immune to Normal, Fighting attacks.§
+ghost/rock: Ghost/Rock dual-types are weak to Water, Grass, Ground, Ghost, Dark, Steel attacks. They are resistant to Fire, Poison, Flying, Bug attacks. They are immune to Normal, Fighting attacks.§
+ghost/dragon: Ghost/Dragon dual-types are weak to Ice, Ghost, Dragon, Dark, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Poison, Bug attacks. They are immune to Normal, Fighting attacks.§
+ghost/dark: Ghost/Dark dual-types are weak to Fairy attacks. They are resistant to Poison attacks. They are immune to Normal, Fighting, Psychic attacks.§
+ghost/steel: Ghost/Steel dual-types are weak to Fire, Ground, Ghost, Dark attacks. They are resistant to Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Normal, Fighting, Poison attacks.§
+ghost/fairy: Ghost/Fairy dual-types are weak to Ghost, Steel attacks. They are resistant to Bug attacks. They are immune to Normal, Fighting, Dragon attacks.§
+dragon/normal: Dragon/Normal dual-types are weak to Ice, Fighting, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass attacks. They are immune to Ghost attacks.§
+dragon/fire: Dragon/Fire dual-types are weak to Ground, Rock, Dragon attacks. They are resistant to Fire, Electric, Grass, Bug, Steel attacks.§
+dragon/water: Dragon/Water dual-types are weak to Dragon, Fairy attacks. They are resistant to Fire, Water, Steel attacks.§
+dragon/electric: Dragon/Electric dual-types are weak to Ice, Ground, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Flying, Steel attacks.§
+dragon/grass: Dragon/Grass dual-types are weak to Ice, Poison, Flying, Bug, Dragon, Fairy attacks. They are resistant to Water, Electric, Grass, Ground attacks.§
+dragon/ice: Dragon/Ice dual-types are weak to Fighting, Rock, Dragon, Steel, Fairy attacks. They are resistant to Water, Electric, Grass attacks.§
+dragon/fighting: Dragon/Fighting dual-types are weak to Ice, Flying, Psychic, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Bug, Rock, Dark attacks.§
+dragon/poison: Dragon/Poison dual-types are weak to Ice, Ground, Psychic, Dragon attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Poison, Bug attacks.§
+dragon/ground: Dragon/Ground dual-types are weak to Ice, Dragon, Fairy attacks. They are resistant to Fire, Poison, Rock attacks. They are immune to Electric attacks.§
+dragon/flying: Dragon/Flying dual-types are weak to Ice, Rock, Dragon, Fairy attacks. They are resistant to Fire, Water, Grass, Fighting, Bug attacks. They are immune to Ground attacks.§
+dragon/psychic: Dragon/Psychic dual-types are weak to Ice, Bug, Ghost, Dragon, Dark, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Psychic attacks.§
+dragon/bug: Dragon/Bug dual-types are weak to Ice, Flying, Rock, Dragon, Fairy attacks. They are resistant to Water, Electric, Grass, Fighting, Ground attacks.§
+dragon/rock: Dragon/Rock dual-types are weak to Ice, Fighting, Ground, Dragon, Steel, Fairy attacks. They are resistant to Normal, Fire, Electric, Poison, Flying attacks.§
+dragon/ghost: Dragon/Ghost dual-types are weak to Ice, Ghost, Dragon, Dark, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Poison, Bug attacks. They are immune to Normal, Fighting attacks.§
+dragon/dark: Dragon/Dark dual-types are weak to Ice, Fighting, Bug, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Ghost, Dark attacks. They are immune to Psychic attacks.§
+dragon/steel: Dragon/Steel dual-types are weak to Fighting, Ground attacks. They are resistant to Normal, Water, Electric, Grass, Flying, Psychic, Bug, Rock, Steel attacks. They are immune to Poison attacks.§
+dragon/fairy: Dragon/Fairy dual-types are weak to Ice, Poison, Steel, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Bug, Dark attacks. They are immune to Dragon attacks.§
+dark/normal: Dark/Normal dual-types are weak to Fighting, Bug, Fairy attacks. They are resistant to Dark attacks. They are immune to Psychic, Ghost attacks.§
+dark/fire: Dark/Fire dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+dark/water: Dark/Water dual-types are weak to Electric, Grass, Fighting, Bug, Fairy attacks. They are resistant to Fire, Water, Ice, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+dark/electric: Dark/Electric dual-types are weak to Fighting, Ground, Bug, Fairy attacks. They are resistant to Electric, Flying, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+dark/grass: Dark/Grass dual-types are weak to Fire, Ice, Fighting, Poison, Flying, Bug, Fairy attacks. They are resistant to Water, Electric, Grass, Ground, Ghost, Dark attacks. They are immune to Psychic attacks.§
+dark/ice: Dark/Ice dual-types are weak to Fire, Fighting, Bug, Rock, Steel, Fairy attacks. They are resistant to Ice, Ghost, Dark attacks. They are immune to Psychic attacks.§
+dark/fighting: Dark/Fighting dual-types are weak to Fighting, Flying, Fairy attacks. They are resistant to Rock, Ghost, Dark attacks. They are immune to Psychic attacks.§
+dark/poison: Dark/Poison dual-types are weak to Ground attacks. They are resistant to Grass, Poison, Ghost, Dark attacks. They are immune to Psychic attacks.§
+dark/ground: Dark/Ground dual-types are weak to Water, Grass, Ice, Fighting, Bug, Fairy attacks. They are resistant to Poison, Rock, Ghost, Dark attacks. They are immune to Electric, Psychic attacks.§
+dark/flying: Dark/Flying dual-types are weak to Electric, Ice, Rock, Fairy attacks. They are resistant to Grass, Ghost, Dark attacks. They are immune to Ground, Psychic attacks.§
+dark/psychic: Dark/Psychic dual-types are weak to Bug, Fairy attacks. They are resistant to attacks. They are immune to Psychic attacks.§
+dark/bug: Dark/Bug dual-types are weak to Fire, Flying, Bug, Rock, Fairy attacks. They are resistant to Grass, Ground, Ghost, Dark attacks. They are immune to Psychic attacks.§
+dark/rock: Dark/Rock dual-types are weak to Water, Grass, Fighting, Ground, Bug, Steel, Fairy attacks. They are resistant to Normal, Fire, Poison, Flying, Ghost, Dark attacks. They are immune to Psychic attacks.§
+dark/ghost: Dark/Ghost dual-types are weak to Fairy attacks. They are resistant to Poison attacks. They are immune to Normal, Fighting, Psychic attacks.§
+dark/dragon: Dark/Dragon dual-types are weak to Ice, Fighting, Bug, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Ghost, Dark attacks. They are immune to Psychic attacks.§
+dark/steel: Dark/Steel dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Rock, Ghost, Dragon, Dark, Steel attacks. They are immune to Poison, Psychic attacks.§
+dark/fairy: Dark/Fairy dual-types are weak to Poison, Steel, Fairy attacks. They are resistant to Ghost, Dark attacks. They are immune to Psychic, Dragon attacks.§
+steel/normal: Steel/Normal dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison, Ghost attacks.§
+steel/fire: Steel/Fire dual-types are weak to Water, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+steel/water: Steel/Water dual-types are weak to Electric, Fighting, Ground attacks. They are resistant to Normal, Water, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+steel/electric: Steel/Electric dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Electric, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+steel/grass: Steel/Grass dual-types are weak to Fire, Fighting attacks. They are resistant to Normal, Water, Electric, Grass, Psychic, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+steel/ice: Steel/Ice dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Dragon, Fairy attacks. They are immune to Poison attacks.§
+steel/fighting: Steel/Fighting dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Bug, Rock, Dragon, Dark, Steel attacks. They are immune to Poison attacks.§
+steel/poison: Steel/Poison dual-types are weak to Fire, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+steel/ground: Steel/Ground dual-types are weak to Fire, Water, Fighting, Ground attacks. They are resistant to Normal, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Electric, Poison attacks.§
+steel/flying: Steel/Flying dual-types are weak to Fire, Electric attacks. They are resistant to Normal, Grass, Flying, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison, Ground attacks.§
+steel/psychic: Steel/Psychic dual-types are weak to Fire, Ground, Ghost, Dark attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+steel/bug: Steel/Bug dual-types are weak to Fire attacks. They are resistant to Normal, Grass, Ice, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+steel/rock: Steel/Rock dual-types are weak to Water, Fighting, Ground attacks. They are resistant to Normal, Ice, Flying, Psychic, Bug, Rock, Dragon, Fairy attacks. They are immune to Poison attacks.§
+steel/ghost: Steel/Ghost dual-types are weak to Fire, Ground, Ghost, Dark attacks. They are resistant to Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Normal, Fighting, Poison attacks.§
+steel/dragon: Steel/Dragon dual-types are weak to Fighting, Ground attacks. They are resistant to Normal, Water, Electric, Grass, Flying, Psychic, Bug, Rock, Steel attacks. They are immune to Poison attacks.§
+steel/dark: Steel/Dark dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Rock, Ghost, Dragon, Dark, Steel attacks. They are immune to Poison, Psychic attacks.§
+steel/fairy: Steel/Fairy dual-types are weak to Fire, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dark, Fairy attacks. They are immune to Poison, Dragon attacks.§
+fairy/normal: Fairy/Normal dual-types are weak to Poison, Steel attacks. They are resistant to Bug, Dark attacks. They are immune to Ghost, Dragon attacks.§
+fairy/fire: Fairy/Fire dual-types are weak to Water, Poison, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Fighting, Bug, Dark, Fairy attacks. They are immune to Dragon attacks.§
+fairy/water: Fairy/Water dual-types are weak to Electric, Grass, Poison attacks. They are resistant to Fire, Water, Ice, Fighting, Bug, Dark attacks. They are immune to Dragon attacks.§
+fairy/electric: Fairy/Electric dual-types are weak to Poison, Ground attacks. They are resistant to Electric, Fighting, Flying, Bug, Dark attacks. They are immune to Dragon attacks.§
+fairy/grass: Fairy/Grass dual-types are weak to Fire, Ice, Poison, Flying, Steel attacks. They are resistant to Water, Electric, Grass, Fighting, Ground, Dark attacks. They are immune to Dragon attacks.§
+fairy/ice: Fairy/Ice dual-types are weak to Fire, Poison, Rock, Steel attacks. They are resistant to Ice, Bug, Dark attacks. They are immune to Dragon attacks.§
+fairy/fighting: Fairy/Fighting dual-types are weak to Poison, Flying, Psychic, Steel, Fairy attacks. They are resistant to Fighting, Bug, Rock, Dark attacks. They are immune to Dragon attacks.§
+fairy/poison: Fairy/Poison dual-types are weak to Ground, Psychic, Steel attacks. They are resistant to Grass, Fighting, Bug, Dark, Fairy attacks. They are immune to Dragon attacks.§
+fairy/ground: Fairy/Ground dual-types are weak to Water, Grass, Ice, Steel attacks. They are resistant to Fighting, Bug, Rock, Dark attacks. They are immune to Electric, Dragon attacks.§
+fairy/flying: Fairy/Flying dual-types are weak to Electric, Ice, Poison, Rock, Steel attacks. They are resistant to Grass, Fighting, Bug, Dark attacks. They are immune to Ground, Dragon attacks.§
+fairy/psychic: Fairy/Psychic dual-types are weak to Poison, Ghost, Steel attacks. They are resistant to Fighting, Psychic attacks. They are immune to Dragon attacks.§
+fairy/bug: Fairy/Bug dual-types are weak to Fire, Poison, Flying, Rock, Steel attacks. They are resistant to Grass, Fighting, Ground, Bug, Dark attacks. They are immune to Dragon attacks.§
+fairy/rock: Fairy/Rock dual-types are weak to Water, Grass, Ground, Steel attacks. They are resistant to Normal, Fire, Flying, Bug, Dark attacks. They are immune to Dragon attacks.§
+fairy/ghost: Fairy/Ghost dual-types are weak to Ghost, Steel attacks. They are resistant to Bug attacks. They are immune to Normal, Fighting, Dragon attacks.§
+fairy/dragon: Fairy/Dragon dual-types are weak to Ice, Poison, Steel, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Bug, Dark attacks. They are immune to Dragon attacks.§
+fairy/dark: Fairy/Dark dual-types are weak to Poison, Steel, Fairy attacks. They are resistant to Ghost, Dark attacks. They are immune to Psychic, Dragon attacks.§
+fairy/steel: Fairy/Steel dual-types are weak to Fire, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dark, Fairy attacks. They are immune to Poison, Dragon attacks.§
+ 
+Normal/Fire: Normal/Fire dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Bug, Steel, Fairy attacks. They are immune to Ghost attacks.§
+Normal/Water: Normal/Water dual-types are weak to Electric, Grass, Fighting attacks. They are resistant to Fire, Water, Ice, Steel attacks. They are immune to Ghost attacks.§
+Normal/Electric: Normal/Electric dual-types are weak to Fighting, Ground attacks. They are resistant to Electric, Flying, Steel attacks. They are immune to Ghost attacks.§
+Normal/Grass: Normal/Grass dual-types are weak to Fire, Ice, Fighting, Poison, Flying, Bug attacks. They are resistant to Water, Electric, Grass, Ground attacks. They are immune to Ghost attacks.§
+Normal/Ice: Normal/Ice dual-types are weak to Fire, Fighting, Rock, Steel attacks. They are resistant to Ice attacks. They are immune to Ghost attacks.§
+Normal/Fighting: Normal/Fighting dual-types are weak to Fighting, Flying, Psychic, Fairy attacks. They are resistant to Bug, Rock, Dark attacks. They are immune to Ghost attacks.§
+Normal/Poison: Normal/Poison dual-types are weak to Ground, Psychic attacks. They are resistant to Grass, Poison, Bug, Fairy attacks. They are immune to Ghost attacks.§
+Normal/Ground: Normal/Ground dual-types are weak to Water, Grass, Ice, Fighting attacks. They are resistant to Poison, Rock attacks. They are immune to Electric, Ghost attacks.§
+Normal/Flying: Normal/Flying dual-types are weak to Electric, Ice, Rock attacks. They are resistant to Grass, Bug attacks. They are immune to Ground, Ghost attacks.§
+Normal/Psychic: Normal/Psychic dual-types are weak to Bug, Dark attacks. They are resistant to Psychic attacks. They are immune to Ghost attacks.§
+Normal/Bug: Normal/Bug dual-types are weak to Fire, Flying, Rock attacks. They are resistant to Grass, Ground attacks. They are immune to Ghost attacks.§
+Normal/Rock: Normal/Rock dual-types are weak to Water, Grass, Fighting, Ground, Steel attacks. They are resistant to Normal, Fire, Poison, Flying attacks. They are immune to Ghost attacks.§
+Normal/Ghost: Normal/Ghost dual-types are weak to Dark attacks. They are resistant to Poison, Bug attacks. They are immune to Normal, Fighting, Ghost attacks.§
+Normal/Dragon: Normal/Dragon dual-types are weak to Ice, Fighting, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass attacks. They are immune to Ghost attacks.§
+Normal/Dark: Normal/Dark dual-types are weak to Fighting, Bug, Fairy attacks. They are resistant to Dark attacks. They are immune to Psychic, Ghost attacks.§
+Normal/Steel: Normal/Steel dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison, Ghost attacks.§
+Normal/Fairy: Normal/Fairy dual-types are weak to Poison, Steel attacks. They are resistant to Bug, Dark attacks. They are immune to Ghost, Dragon attacks.§
+Fire/Normal: Fire/Normal dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Bug, Steel, Fairy attacks. They are immune to Ghost attacks.§
+Fire/Water: Fire/Water dual-types are weak to Electric, Ground, Rock attacks. They are resistant to Fire, Ice, Bug, Steel, Fairy attacks.§
+Fire/Electric: Fire/Electric dual-types are weak to Water, Ground, Rock attacks. They are resistant to Fire, Electric, Grass, Ice, Flying, Bug, Steel, Fairy attacks.§
+Fire/Grass: Fire/Grass dual-types are weak to Poison, Flying, Rock attacks. They are resistant to Electric, Grass, Steel, Fairy attacks.§
+Fire/Ice: Fire/Ice dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Grass, Ice, Bug, Fairy attacks.§
+Fire/Fighting: Fire/Fighting dual-types are weak to Water, Ground, Flying, Psychic attacks. They are resistant to Fire, Grass, Ice, Bug, Dark, Steel attacks.§
+Fire/Poison: Fire/Poison dual-types are weak to Water, Ground, Psychic, Rock attacks. They are resistant to Fire, Grass, Ice, Fighting, Poison, Bug, Steel, Fairy attacks.§
+Fire/Ground: Fire/Ground dual-types are weak to Water, Ground attacks. They are resistant to Fire, Poison, Bug, Steel, Fairy attacks. They are immune to Electric attacks.§
+Fire/Flying: Fire/Flying dual-types are weak to Water, Electric, Rock attacks. They are resistant to Fire, Grass, Fighting, Bug, Steel, Fairy attacks. They are immune to Ground attacks.§
+Fire/Psychic: Fire/Psychic dual-types are weak to Water, Ground, Rock, Ghost, Dark attacks. They are resistant to Fire, Grass, Ice, Fighting, Psychic, Steel, Fairy attacks.§
+Fire/Bug: Fire/Bug dual-types are weak to Water, Flying, Rock attacks. They are resistant to Grass, Ice, Fighting, Bug, Steel, Fairy attacks.§
+Fire/Rock: Fire/Rock dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Normal, Fire, Ice, Poison, Flying, Bug, Fairy attacks.§
+Fire/Ghost: Fire/Ghost dual-types are weak to Water, Ground, Rock, Ghost, Dark attacks. They are resistant to Fire, Grass, Ice, Poison, Bug, Steel, Fairy attacks. They are immune to Normal, Fighting attacks.§
+Fire/Dragon: Fire/Dragon dual-types are weak to Ground, Rock, Dragon attacks. They are resistant to Fire, Electric, Grass, Bug, Steel attacks.§
+Fire/Dark: Fire/Dark dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+Fire/Steel: Fire/Steel dual-types are weak to Water, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Fire/Fairy: Fire/Fairy dual-types are weak to Water, Poison, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Fighting, Bug, Dark, Fairy attacks. They are immune to Dragon attacks.§
+Water/Normal: Water/Normal dual-types are weak to Electric, Grass, Fighting attacks. They are resistant to Fire, Water, Ice, Steel attacks. They are immune to Ghost attacks.§
+Water/Fire: Water/Fire dual-types are weak to Electric, Ground, Rock attacks. They are resistant to Fire, Ice, Bug, Steel, Fairy attacks.§
+Water/Electric: Water/Electric dual-types are weak to Grass, Ground attacks. They are resistant to Fire, Water, Ice, Flying, Steel attacks.§
+Water/Grass: Water/Grass dual-types are weak to Poison, Flying, Bug attacks. They are resistant to Water, Ground, Steel attacks.§
+Water/Ice: Water/Ice dual-types are weak to Electric, Grass, Fighting, Rock attacks. They are resistant to Water, Ice attacks.§
+Water/Fighting: Water/Fighting dual-types are weak to Electric, Grass, Flying, Psychic, Fairy attacks. They are resistant to Fire, Water, Ice, Bug, Rock, Dark, Steel attacks.§
+Water/Poison: Water/Poison dual-types are weak to Electric, Ground, Psychic attacks. They are resistant to Fire, Water, Ice, Fighting, Poison, Bug, Steel, Fairy attacks.§
+Water/Ground: Water/Ground dual-types are weak to Grass attacks. They are resistant to Fire, Poison, Rock, Steel attacks. They are immune to Electric attacks.§
+Water/Flying: Water/Flying dual-types are weak to Electric, Rock attacks. They are resistant to Fire, Water, Fighting, Bug, Steel attacks. They are immune to Ground attacks.§
+Water/Psychic: Water/Psychic dual-types are weak to Electric, Grass, Bug, Ghost, Dark attacks. They are resistant to Fire, Water, Ice, Fighting, Psychic, Steel attacks.§
+Water/Bug: Water/Bug dual-types are weak to Electric, Flying, Rock attacks. They are resistant to Water, Ice, Fighting, Ground, Steel attacks.§
+Water/Rock: Water/Rock dual-types are weak to Electric, Grass, Fighting, Ground attacks. They are resistant to Normal, Fire, Ice, Poison, Flying attacks.§
+Water/Ghost: Water/Ghost dual-types are weak to Electric, Grass, Ghost, Dark attacks. They are resistant to Fire, Water, Ice, Poison, Bug, Steel attacks. They are immune to Normal, Fighting attacks.§
+Water/Dragon: Water/Dragon dual-types are weak to Dragon, Fairy attacks. They are resistant to Fire, Water, Steel attacks.§
+Water/Dark: Water/Dark dual-types are weak to Electric, Grass, Fighting, Bug, Fairy attacks. They are resistant to Fire, Water, Ice, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+Water/Steel: Water/Steel dual-types are weak to Electric, Fighting, Ground attacks. They are resistant to Normal, Water, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Water/Fairy: Water/Fairy dual-types are weak to Electric, Grass, Poison attacks. They are resistant to Fire, Water, Ice, Fighting, Bug, Dark attacks. They are immune to Dragon attacks.§
+Electric/Normal: Electric/Normal dual-types are weak to Fighting, Ground attacks. They are resistant to Electric, Flying, Steel attacks. They are immune to Ghost attacks.§
+Electric/Fire: Electric/Fire dual-types are weak to Water, Ground, Rock attacks. They are resistant to Fire, Electric, Grass, Ice, Flying, Bug, Steel, Fairy attacks.§
+Electric/Water: Electric/Water dual-types are weak to Grass, Ground attacks. They are resistant to Fire, Water, Ice, Flying, Steel attacks.§
+Electric/Grass: Electric/Grass dual-types are weak to Fire, Ice, Poison, Bug attacks. They are resistant to Water, Electric, Grass, Steel attacks.§
+Electric/Ice: Electric/Ice dual-types are weak to Fire, Fighting, Ground, Rock attacks. They are resistant to Electric, Ice, Flying attacks.§
+Electric/Fighting: Electric/Fighting dual-types are weak to Ground, Psychic, Fairy attacks. They are resistant to Electric, Bug, Rock, Dark, Steel attacks.§
+Electric/Poison: Electric/Poison dual-types are weak to Ground, Psychic attacks. They are resistant to Electric, Grass, Fighting, Poison, Flying, Bug, Steel, Fairy attacks.§
+Electric/Ground: Electric/Ground dual-types are weak to Water, Grass, Ice, Ground attacks. They are resistant to Poison, Flying, Rock, Steel attacks. They are immune to Electric attacks.§
+Electric/Flying: Electric/Flying dual-types are weak to Ice, Rock attacks. They are resistant to Grass, Fighting, Flying, Bug, Steel attacks. They are immune to Ground attacks.§
+Electric/Psychic: Electric/Psychic dual-types are weak to Ground, Bug, Ghost, Dark attacks. They are resistant to Electric, Fighting, Flying, Psychic, Steel attacks.§
+Electric/Bug: Electric/Bug dual-types are weak to Fire, Rock attacks. They are resistant to Electric, Grass, Fighting, Steel attacks.§
+Electric/Rock: Electric/Rock dual-types are weak to Water, Grass, Fighting, Ground attacks. They are resistant to Normal, Fire, Electric, Poison, Flying attacks.§
+Electric/Ghost: Electric/Ghost dual-types are weak to Ground, Ghost, Dark attacks. They are resistant to Electric, Poison, Flying, Bug, Steel attacks. They are immune to Normal, Fighting attacks.§
+Electric/Dragon: Electric/Dragon dual-types are weak to Ice, Ground, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Flying, Steel attacks.§
+Electric/Dark: Electric/Dark dual-types are weak to Fighting, Ground, Bug, Fairy attacks. They are resistant to Electric, Flying, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+Electric/Steel: Electric/Steel dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Electric, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Electric/Fairy: Electric/Fairy dual-types are weak to Poison, Ground attacks. They are resistant to Electric, Fighting, Flying, Bug, Dark attacks. They are immune to Dragon attacks.§
+Grass/Normal: Grass/Normal dual-types are weak to Fire, Ice, Fighting, Poison, Flying, Bug attacks. They are resistant to Water, Electric, Grass, Ground attacks. They are immune to Ghost attacks.§
+Grass/Fire: Grass/Fire dual-types are weak to Poison, Flying, Rock attacks. They are resistant to Electric, Grass, Steel, Fairy attacks.§
+Grass/Water: Grass/Water dual-types are weak to Poison, Flying, Bug attacks. They are resistant to Water, Ground, Steel attacks.§
+Grass/Electric: Grass/Electric dual-types are weak to Fire, Ice, Poison, Bug attacks. They are resistant to Water, Electric, Grass, Steel attacks.§
+Grass/Ice: Grass/Ice dual-types are weak to Fire, Fighting, Poison, Flying, Bug, Rock, Steel attacks. They are resistant to Water, Electric, Grass, Ground attacks.§
+Grass/Fighting: Grass/Fighting dual-types are weak to Fire, Ice, Poison, Flying, Psychic, Fairy attacks. They are resistant to Water, Electric, Grass, Ground, Rock, Dark attacks.§
+Grass/Poison: Grass/Poison dual-types are weak to Fire, Ice, Flying, Psychic attacks. They are resistant to Water, Electric, Grass, Fighting, Fairy attacks.§
+Grass/Ground: Grass/Ground dual-types are weak to Fire, Ice, Flying, Bug attacks. They are resistant to Ground, Rock attacks. They are immune to Electric attacks.§
+Grass/Flying: Grass/Flying dual-types are weak to Fire, Ice, Poison, Flying, Rock attacks. They are resistant to Water, Grass, Fighting attacks. They are immune to Ground attacks.§
+Grass/Psychic: Grass/Psychic dual-types are weak to Fire, Ice, Poison, Flying, Bug, Ghost, Dark attacks. They are resistant to Water, Electric, Grass, Fighting, Ground, Psychic attacks.§
+Grass/Bug: Grass/Bug dual-types are weak to Fire, Ice, Poison, Flying, Bug, Rock attacks. They are resistant to Water, Electric, Grass, Fighting, Ground attacks.§
+Grass/Rock: Grass/Rock dual-types are weak to Ice, Fighting, Bug, Steel attacks. They are resistant to Normal, Electric attacks.§
+Grass/Ghost: Grass/Ghost dual-types are weak to Fire, Ice, Flying, Ghost, Dark attacks. They are resistant to Water, Electric, Grass, Ground attacks. They are immune to Normal, Fighting attacks.§
+Grass/Dragon: Grass/Dragon dual-types are weak to Ice, Poison, Flying, Bug, Dragon, Fairy attacks. They are resistant to Water, Electric, Grass, Ground attacks.§
+Grass/Dark: Grass/Dark dual-types are weak to Fire, Ice, Fighting, Poison, Flying, Bug, Fairy attacks. They are resistant to Water, Electric, Grass, Ground, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Grass/Steel: Grass/Steel dual-types are weak to Fire, Fighting attacks. They are resistant to Normal, Water, Electric, Grass, Psychic, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Grass/Fairy: Grass/Fairy dual-types are weak to Fire, Ice, Poison, Flying, Steel attacks. They are resistant to Water, Electric, Grass, Fighting, Ground, Dark attacks. They are immune to Dragon attacks.§
+Ice/Normal: Ice/Normal dual-types are weak to Fire, Fighting, Rock, Steel attacks. They are resistant to Ice attacks. They are immune to Ghost attacks.§
+Ice/Fire: Ice/Fire dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Grass, Ice, Bug, Fairy attacks.§
+Ice/Water: Ice/Water dual-types are weak to Electric, Grass, Fighting, Rock attacks. They are resistant to Water, Ice attacks.§
+Ice/Electric: Ice/Electric dual-types are weak to Fire, Fighting, Ground, Rock attacks. They are resistant to Electric, Ice, Flying attacks.§
+Ice/Grass: Ice/Grass dual-types are weak to Fire, Fighting, Poison, Flying, Bug, Rock, Steel attacks. They are resistant to Water, Electric, Grass, Ground attacks.§
+Ice/Fighting: Ice/Fighting dual-types are weak to Fire, Fighting, Flying, Psychic, Steel, Fairy attacks. They are resistant to Ice, Bug, Dark attacks.§
+Ice/Poison: Ice/Poison dual-types are weak to Fire, Ground, Psychic, Rock, Steel attacks. They are resistant to Grass, Ice, Poison, Bug, Fairy attacks.§
+Ice/Ground: Ice/Ground dual-types are weak to Fire, Water, Grass, Fighting, Steel attacks. They are resistant to Poison attacks. They are immune to Electric attacks.§
+Ice/Flying: Ice/Flying dual-types are weak to Fire, Electric, Rock, Steel attacks. They are resistant to Grass, Bug attacks. They are immune to Ground attacks.§
+Ice/Psychic: Ice/Psychic dual-types are weak to Fire, Bug, Rock, Ghost, Dark, Steel attacks. They are resistant to Ice, Psychic attacks.§
+Ice/Bug: Ice/Bug dual-types are weak to Fire, Flying, Rock, Steel attacks. They are resistant to Grass, Ice, Ground attacks.§
+Ice/Rock: Ice/Rock dual-types are weak to Water, Grass, Fighting, Ground, Rock, Steel attacks. They are resistant to Normal, Ice, Poison, Flying attacks.§
+Ice/Ghost: Ice/Ghost dual-types are weak to Fire, Rock, Ghost, Dark, Steel attacks. They are resistant to Ice, Poison, Bug attacks. They are immune to Normal, Fighting attacks.§
+Ice/Dragon: Ice/Dragon dual-types are weak to Fighting, Rock, Dragon, Steel, Fairy attacks. They are resistant to Water, Electric, Grass attacks.§
+Ice/Dark: Ice/Dark dual-types are weak to Fire, Fighting, Bug, Rock, Steel, Fairy attacks. They are resistant to Ice, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Ice/Steel: Ice/Steel dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Dragon, Fairy attacks. They are immune to Poison attacks.§
+Ice/Fairy: Ice/Fairy dual-types are weak to Fire, Poison, Rock, Steel attacks. They are resistant to Ice, Bug, Dark attacks. They are immune to Dragon attacks.§
+Fighting/Normal: Fighting/Normal dual-types are weak to Fighting, Flying, Psychic, Fairy attacks. They are resistant to Bug, Rock, Dark attacks. They are immune to Ghost attacks.§
+Fighting/Fire: Fighting/Fire dual-types are weak to Water, Ground, Flying, Psychic attacks. They are resistant to Fire, Grass, Ice, Bug, Dark, Steel attacks.§
+Fighting/Water: Fighting/Water dual-types are weak to Electric, Grass, Flying, Psychic, Fairy attacks. They are resistant to Fire, Water, Ice, Bug, Rock, Dark, Steel attacks.§
+Fighting/Electric: Fighting/Electric dual-types are weak to Ground, Psychic, Fairy attacks. They are resistant to Electric, Bug, Rock, Dark, Steel attacks.§
+Fighting/Grass: Fighting/Grass dual-types are weak to Fire, Ice, Poison, Flying, Psychic, Fairy attacks. They are resistant to Water, Electric, Grass, Ground, Rock, Dark attacks.§
+Fighting/Ice: Fighting/Ice dual-types are weak to Fire, Fighting, Flying, Psychic, Steel, Fairy attacks. They are resistant to Ice, Bug, Dark attacks.§
+Fighting/Poison: Fighting/Poison dual-types are weak to Ground, Flying, Psychic attacks. They are resistant to Grass, Fighting, Poison, Bug, Rock, Dark attacks.§
+Fighting/Ground: Fighting/Ground dual-types are weak to Water, Grass, Ice, Flying, Psychic, Fairy attacks. They are resistant to Poison, Bug, Rock, Dark attacks. They are immune to Electric attacks.§
+Fighting/Flying: Fighting/Flying dual-types are weak to Electric, Ice, Flying, Psychic, Fairy attacks. They are resistant to Grass, Fighting, Bug, Dark attacks. They are immune to Ground attacks.§
+Fighting/Psychic: Fighting/Psychic dual-types are weak to Flying, Ghost, Fairy attacks. They are resistant to Fighting, Rock attacks.§
+Fighting/Bug: Fighting/Bug dual-types are weak to Fire, Flying, Psychic, Fairy attacks. They are resistant to Grass, Fighting, Ground, Bug, Dark attacks.§
+Fighting/Rock: Fighting/Rock dual-types are weak to Water, Grass, Fighting, Ground, Psychic, Steel, Fairy attacks. They are resistant to Normal, Fire, Poison, Bug, Rock, Dark attacks.§
+Fighting/Ghost: Fighting/Ghost dual-types are weak to Flying, Psychic, Ghost, Fairy attacks. They are resistant to Poison, Bug, Rock attacks. They are immune to Normal, Fighting attacks.§
+Fighting/Dragon: Fighting/Dragon dual-types are weak to Ice, Flying, Psychic, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Bug, Rock, Dark attacks.§
+Fighting/Dark: Fighting/Dark dual-types are weak to Fighting, Flying, Fairy attacks. They are resistant to Rock, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Fighting/Steel: Fighting/Steel dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Bug, Rock, Dragon, Dark, Steel attacks. They are immune to Poison attacks.§
+Fighting/Fairy: Fighting/Fairy dual-types are weak to Poison, Flying, Psychic, Steel, Fairy attacks. They are resistant to Fighting, Bug, Rock, Dark attacks. They are immune to Dragon attacks.§
+Poison/Normal: Poison/Normal dual-types are weak to Ground, Psychic attacks. They are resistant to Grass, Poison, Bug, Fairy attacks. They are immune to Ghost attacks.§
+Poison/Fire: Poison/Fire dual-types are weak to Water, Ground, Psychic, Rock attacks. They are resistant to Fire, Grass, Ice, Fighting, Poison, Bug, Steel, Fairy attacks.§
+Poison/Water: Poison/Water dual-types are weak to Electric, Ground, Psychic attacks. They are resistant to Fire, Water, Ice, Fighting, Poison, Bug, Steel, Fairy attacks.§
+Poison/Electric: Poison/Electric dual-types are weak to Ground, Psychic attacks. They are resistant to Electric, Grass, Fighting, Poison, Flying, Bug, Steel, Fairy attacks.§
+Poison/Grass: Poison/Grass dual-types are weak to Fire, Ice, Flying, Psychic attacks. They are resistant to Water, Electric, Grass, Fighting, Fairy attacks.§
+Poison/Ice: Poison/Ice dual-types are weak to Fire, Ground, Psychic, Rock, Steel attacks. They are resistant to Grass, Ice, Poison, Bug, Fairy attacks.§
+Poison/Fighting: Poison/Fighting dual-types are weak to Ground, Flying, Psychic attacks. They are resistant to Grass, Fighting, Poison, Bug, Rock, Dark attacks.§
+Poison/Ground: Poison/Ground dual-types are weak to Water, Ice, Ground, Psychic attacks. They are resistant to Fighting, Poison, Bug, Rock, Fairy attacks. They are immune to Electric attacks.§
+Poison/Flying: Poison/Flying dual-types are weak to Electric, Ice, Psychic, Rock attacks. They are resistant to Grass, Fighting, Poison, Bug, Fairy attacks. They are immune to Ground attacks.§
+Poison/Psychic: Poison/Psychic dual-types are weak to Ground, Ghost, Dark attacks. They are resistant to Grass, Fighting, Poison, Fairy attacks.§
+Poison/Bug: Poison/Bug dual-types are weak to Fire, Flying, Psychic, Rock attacks. They are resistant to Grass, Fighting, Poison, Bug, Fairy attacks.§
+Poison/Rock: Poison/Rock dual-types are weak to Water, Ground, Psychic, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Bug, Fairy attacks.§
+Poison/Ghost: Poison/Ghost dual-types are weak to Ground, Psychic, Ghost, Dark attacks. They are resistant to Grass, Poison, Bug, Fairy attacks. They are immune to Normal, Fighting attacks.§
+Poison/Dragon: Poison/Dragon dual-types are weak to Ice, Ground, Psychic, Dragon attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Poison, Bug attacks.§
+Poison/Dark: Poison/Dark dual-types are weak to Ground attacks. They are resistant to Grass, Poison, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Poison/Steel: Poison/Steel dual-types are weak to Fire, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Poison/Fairy: Poison/Fairy dual-types are weak to Ground, Psychic, Steel attacks. They are resistant to Grass, Fighting, Bug, Dark, Fairy attacks. They are immune to Dragon attacks.§
+Ground/Normal: Ground/Normal dual-types are weak to Water, Grass, Ice, Fighting attacks. They are resistant to Poison, Rock attacks. They are immune to Electric, Ghost attacks.§
+Ground/Fire: Ground/Fire dual-types are weak to Water, Ground attacks. They are resistant to Fire, Poison, Bug, Steel, Fairy attacks. They are immune to Electric attacks.§
+Ground/Water: Ground/Water dual-types are weak to Grass attacks. They are resistant to Fire, Poison, Rock, Steel attacks. They are immune to Electric attacks.§
+Ground/Electric: Ground/Electric dual-types are weak to Water, Grass, Ice, Ground attacks. They are resistant to Poison, Flying, Rock, Steel attacks. They are immune to Electric attacks.§
+Ground/Grass: Ground/Grass dual-types are weak to Fire, Ice, Flying, Bug attacks. They are resistant to Ground, Rock attacks. They are immune to Electric attacks.§
+Ground/Ice: Ground/Ice dual-types are weak to Fire, Water, Grass, Fighting, Steel attacks. They are resistant to Poison attacks. They are immune to Electric attacks.§
+Ground/Fighting: Ground/Fighting dual-types are weak to Water, Grass, Ice, Flying, Psychic, Fairy attacks. They are resistant to Poison, Bug, Rock, Dark attacks. They are immune to Electric attacks.§
+Ground/Poison: Ground/Poison dual-types are weak to Water, Ice, Ground, Psychic attacks. They are resistant to Fighting, Poison, Bug, Rock, Fairy attacks. They are immune to Electric attacks.§
+Ground/Flying: Ground/Flying dual-types are weak to Water, Ice attacks. They are resistant to Fighting, Poison, Bug attacks. They are immune to Electric, Ground attacks.§
+Ground/Psychic: Ground/Psychic dual-types are weak to Water, Grass, Ice, Bug, Ghost, Dark attacks. They are resistant to Fighting, Poison, Psychic, Rock attacks. They are immune to Electric attacks.§
+Ground/Bug: Ground/Bug dual-types are weak to Fire, Water, Ice, Flying attacks. They are resistant to Fighting, Poison, Ground attacks. They are immune to Electric attacks.§
+Ground/Rock: Ground/Rock dual-types are weak to Water, Grass, Ice, Fighting, Ground, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Rock attacks. They are immune to Electric attacks.§
+Ground/Ghost: Ground/Ghost dual-types are weak to Water, Grass, Ice, Ghost, Dark attacks. They are resistant to Poison, Bug, Rock attacks. They are immune to Normal, Electric, Fighting attacks.§
+Ground/Dragon: Ground/Dragon dual-types are weak to Ice, Dragon, Fairy attacks. They are resistant to Fire, Poison, Rock attacks. They are immune to Electric attacks.§
+Ground/Dark: Ground/Dark dual-types are weak to Water, Grass, Ice, Fighting, Bug, Fairy attacks. They are resistant to Poison, Rock, Ghost, Dark attacks. They are immune to Electric, Psychic attacks.§
+Ground/Steel: Ground/Steel dual-types are weak to Fire, Water, Fighting, Ground attacks. They are resistant to Normal, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Electric, Poison attacks.§
+Ground/Fairy: Ground/Fairy dual-types are weak to Water, Grass, Ice, Steel attacks. They are resistant to Fighting, Bug, Rock, Dark attacks. They are immune to Electric, Dragon attacks.§
+Flying/Normal: Flying/Normal dual-types are weak to Electric, Ice, Rock attacks. They are resistant to Grass, Bug attacks. They are immune to Ground, Ghost attacks.§
+Flying/Fire: Flying/Fire dual-types are weak to Water, Electric, Rock attacks. They are resistant to Fire, Grass, Fighting, Bug, Steel, Fairy attacks. They are immune to Ground attacks.§
+Flying/Water: Flying/Water dual-types are weak to Electric, Rock attacks. They are resistant to Fire, Water, Fighting, Bug, Steel attacks. They are immune to Ground attacks.§
+Flying/Electric: Flying/Electric dual-types are weak to Ice, Rock attacks. They are resistant to Grass, Fighting, Flying, Bug, Steel attacks. They are immune to Ground attacks.§
+Flying/Grass: Flying/Grass dual-types are weak to Fire, Ice, Poison, Flying, Rock attacks. They are resistant to Water, Grass, Fighting attacks. They are immune to Ground attacks.§
+Flying/Ice: Flying/Ice dual-types are weak to Fire, Electric, Rock, Steel attacks. They are resistant to Grass, Bug attacks. They are immune to Ground attacks.§
+Flying/Fighting: Flying/Fighting dual-types are weak to Electric, Ice, Flying, Psychic, Fairy attacks. They are resistant to Grass, Fighting, Bug, Dark attacks. They are immune to Ground attacks.§
+Flying/Poison: Flying/Poison dual-types are weak to Electric, Ice, Psychic, Rock attacks. They are resistant to Grass, Fighting, Poison, Bug, Fairy attacks. They are immune to Ground attacks.§
+Flying/Ground: Flying/Ground dual-types are weak to Water, Ice attacks. They are resistant to Fighting, Poison, Bug attacks. They are immune to Electric, Ground attacks.§
+Flying/Psychic: Flying/Psychic dual-types are weak to Electric, Ice, Rock, Ghost, Dark attacks. They are resistant to Grass, Fighting, Psychic attacks. They are immune to Ground attacks.§
+Flying/Bug: Flying/Bug dual-types are weak to Fire, Electric, Ice, Flying, Rock attacks. They are resistant to Grass, Fighting, Bug attacks. They are immune to Ground attacks.§
+Flying/Rock: Flying/Rock dual-types are weak to Water, Electric, Ice, Rock, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Bug attacks. They are immune to Ground attacks.§
+Flying/Ghost: Flying/Ghost dual-types are weak to Electric, Ice, Rock, Ghost, Dark attacks. They are resistant to Grass, Poison, Bug attacks. They are immune to Normal, Fighting, Ground attacks.§
+Flying/Dark: Flying/Dark dual-types are weak to Electric, Ice, Rock, Fairy attacks. They are resistant to Grass, Ghost, Dark attacks. They are immune to Ground, Psychic attacks.§
+Flying/Dragon: Flying/Dragon dual-types are weak to Ice, Rock, Dragon, Fairy attacks. They are resistant to Fire, Water, Grass, Fighting, Bug attacks. They are immune to Ground attacks.§
+Flying/Steel: Flying/Steel dual-types are weak to Fire, Electric attacks. They are resistant to Normal, Grass, Flying, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison, Ground attacks.§
+Flying/Fairy: Flying/Fairy dual-types are weak to Electric, Ice, Poison, Rock, Steel attacks. They are resistant to Grass, Fighting, Bug, Dark attacks. They are immune to Ground, Dragon attacks.§
+Psychic/Normal: Psychic/Normal dual-types are weak to Bug, Dark attacks. They are resistant to Psychic attacks. They are immune to Ghost attacks.§
+Psychic/Fire: Psychic/Fire dual-types are weak to Water, Ground, Rock, Ghost, Dark attacks. They are resistant to Fire, Grass, Ice, Fighting, Psychic, Steel, Fairy attacks.§
+Psychic/Water: Psychic/Water dual-types are weak to Electric, Grass, Bug, Ghost, Dark attacks. They are resistant to Fire, Water, Ice, Fighting, Psychic, Steel attacks.§
+Psychic/Electric: Psychic/Electric dual-types are weak to Ground, Bug, Ghost, Dark attacks. They are resistant to Electric, Fighting, Flying, Psychic, Steel attacks.§
+Psychic/Grass: Psychic/Grass dual-types are weak to Fire, Ice, Poison, Flying, Bug, Ghost, Dark attacks. They are resistant to Water, Electric, Grass, Fighting, Ground, Psychic attacks.§
+Psychic/Ice: Psychic/Ice dual-types are weak to Fire, Bug, Rock, Ghost, Dark, Steel attacks. They are resistant to Ice, Psychic attacks.§
+Psychic/Fighting: Psychic/Fighting dual-types are weak to Flying, Ghost, Fairy attacks. They are resistant to Fighting, Rock attacks.§
+Psychic/Poison: Psychic/Poison dual-types are weak to Ground, Ghost, Dark attacks. They are resistant to Grass, Fighting, Poison, Fairy attacks.§
+Psychic/Ground: Psychic/Ground dual-types are weak to Water, Grass, Ice, Bug, Ghost, Dark attacks. They are resistant to Fighting, Poison, Psychic, Rock attacks. They are immune to Electric attacks.§
+Psychic/Flying: Psychic/Flying dual-types are weak to Electric, Ice, Rock, Ghost, Dark attacks. They are resistant to Grass, Fighting, Psychic attacks. They are immune to Ground attacks.§
+Psychic/Bug: Psychic/Bug dual-types are weak to Fire, Flying, Bug, Rock, Ghost, Dark attacks. They are resistant to Grass, Fighting, Ground, Psychic attacks.§
+Psychic/Rock: Psychic/Rock dual-types are weak to Water, Grass, Ground, Bug, Ghost, Dark, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Psychic attacks.§
+Psychic/Ghost: Psychic/Ghost dual-types are weak to Ghost, Dark attacks. They are resistant to Poison, Psychic attacks. They are immune to Normal, Fighting attacks.§
+Psychic/Dragon: Psychic/Dragon dual-types are weak to Ice, Bug, Ghost, Dragon, Dark, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Psychic attacks.§
+Psychic/Dark: Psychic/Dark dual-types are weak to Bug, Fairy attacks. They are resistant to attacks. They are immune to Psychic attacks.§
+Psychic/Steel: Psychic/Steel dual-types are weak to Fire, Ground, Ghost, Dark attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Psychic/Fairy: Psychic/Fairy dual-types are weak to Poison, Ghost, Steel attacks. They are resistant to Fighting, Psychic attacks. They are immune to Dragon attacks.§
+Bug/Normal: Bug/Normal dual-types are weak to Fire, Flying, Rock attacks. They are resistant to Grass, Ground attacks. They are immune to Ghost attacks.§
+Bug/Fire: Bug/Fire dual-types are weak to Water, Flying, Rock attacks. They are resistant to Grass, Ice, Fighting, Bug, Steel, Fairy attacks.§
+Bug/Water: Bug/Water dual-types are weak to Electric, Flying, Rock attacks. They are resistant to Water, Ice, Fighting, Ground, Steel attacks.§
+Bug/Electric: Bug/Electric dual-types are weak to Fire, Rock attacks. They are resistant to Electric, Grass, Fighting, Steel attacks.§
+Bug/Grass: Bug/Grass dual-types are weak to Fire, Ice, Poison, Flying, Bug, Rock attacks. They are resistant to Water, Electric, Grass, Fighting, Ground attacks.§
+Bug/Ice: Bug/Ice dual-types are weak to Fire, Flying, Rock, Steel attacks. They are resistant to Grass, Ice, Ground attacks.§
+Bug/Fighting: Bug/Fighting dual-types are weak to Fire, Flying, Psychic, Fairy attacks. They are resistant to Grass, Fighting, Ground, Bug, Dark attacks.§
+Bug/Poison: Bug/Poison dual-types are weak to Fire, Flying, Psychic, Rock attacks. They are resistant to Grass, Fighting, Poison, Bug, Fairy attacks.§
+Bug/Ground: Bug/Ground dual-types are weak to Fire, Water, Ice, Flying attacks. They are resistant to Fighting, Poison, Ground attacks. They are immune to Electric attacks.§
+Bug/Flying: Bug/Flying dual-types are weak to Fire, Electric, Ice, Flying, Rock attacks. They are resistant to Grass, Fighting, Bug attacks. They are immune to Ground attacks.§
+Bug/Psychic: Bug/Psychic dual-types are weak to Fire, Flying, Bug, Rock, Ghost, Dark attacks. They are resistant to Grass, Fighting, Ground, Psychic attacks.§
+Bug/Rock: Bug/Rock dual-types are weak to Water, Rock, Steel attacks. They are resistant to Normal, Poison attacks.§
+Bug/Ghost: Bug/Ghost dual-types are weak to Fire, Flying, Rock, Ghost, Dark attacks. They are resistant to Grass, Poison, Ground, Bug attacks. They are immune to Normal, Fighting attacks.§
+Bug/Dragon: Bug/Dragon dual-types are weak to Ice, Flying, Rock, Dragon, Fairy attacks. They are resistant to Water, Electric, Grass, Fighting, Ground attacks.§
+Bug/Dark: Bug/Dark dual-types are weak to Fire, Flying, Bug, Rock, Fairy attacks. They are resistant to Grass, Ground, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Bug/Steel: Bug/Steel dual-types are weak to Fire attacks. They are resistant to Normal, Grass, Ice, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Bug/Fairy: Bug/Fairy dual-types are weak to Fire, Poison, Flying, Rock, Steel attacks. They are resistant to Grass, Fighting, Ground, Bug, Dark attacks. They are immune to Dragon attacks.§
+Rock/Normal: Rock/Normal dual-types are weak to Water, Grass, Fighting, Ground, Steel attacks. They are resistant to Normal, Fire, Poison, Flying attacks. They are immune to Ghost attacks.§
+Rock/Fire: Rock/Fire dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Normal, Fire, Ice, Poison, Flying, Bug, Fairy attacks.§
+Rock/Water: Rock/Water dual-types are weak to Electric, Grass, Fighting, Ground attacks. They are resistant to Normal, Fire, Ice, Poison, Flying attacks.§
+Rock/Electric: Rock/Electric dual-types are weak to Water, Grass, Fighting, Ground attacks. They are resistant to Normal, Fire, Electric, Poison, Flying attacks.§
+Rock/Grass: Rock/Grass dual-types are weak to Ice, Fighting, Bug, Steel attacks. They are resistant to Normal, Electric attacks.§
+Rock/Ice: Rock/Ice dual-types are weak to Water, Grass, Fighting, Ground, Rock, Steel attacks. They are resistant to Normal, Ice, Poison, Flying attacks.§
+Rock/Fighting: Rock/Fighting dual-types are weak to Water, Grass, Fighting, Ground, Psychic, Steel, Fairy attacks. They are resistant to Normal, Fire, Poison, Bug, Rock, Dark attacks.§
+Rock/Poison: Rock/Poison dual-types are weak to Water, Ground, Psychic, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Bug, Fairy attacks.§
+Rock/Ground: Rock/Ground dual-types are weak to Water, Grass, Ice, Fighting, Ground, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Rock attacks. They are immune to Electric attacks.§
+Rock/Flying: Rock/Flying dual-types are weak to Water, Electric, Ice, Rock, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Bug attacks. They are immune to Ground attacks.§
+Rock/Psychic: Rock/Psychic dual-types are weak to Water, Grass, Ground, Bug, Ghost, Dark, Steel attacks. They are resistant to Normal, Fire, Poison, Flying, Psychic attacks.§
+Rock/Bug: Rock/Bug dual-types are weak to Water, Rock, Steel attacks. They are resistant to Normal, Poison attacks.§
+Rock/Ghost: Rock/Ghost dual-types are weak to Water, Grass, Ground, Ghost, Dark, Steel attacks. They are resistant to Fire, Poison, Flying, Bug attacks. They are immune to Normal, Fighting attacks.§
+Rock/Dragon: Rock/Dragon dual-types are weak to Ice, Fighting, Ground, Dragon, Steel, Fairy attacks. They are resistant to Normal, Fire, Electric, Poison, Flying attacks.§
+Rock/Dark: Rock/Dark dual-types are weak to Water, Grass, Fighting, Ground, Bug, Steel, Fairy attacks. They are resistant to Normal, Fire, Poison, Flying, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Rock/Steel: Rock/Steel dual-types are weak to Water, Fighting, Ground attacks. They are resistant to Normal, Ice, Flying, Psychic, Bug, Rock, Dragon, Fairy attacks. They are immune to Poison attacks.§
+Rock/Fairy: Rock/Fairy dual-types are weak to Water, Grass, Ground, Steel attacks. They are resistant to Normal, Fire, Flying, Bug, Dark attacks. They are immune to Dragon attacks.§
+Ghost/Normal: Ghost/Normal dual-types are weak to Dark attacks. They are resistant to Poison, Bug attacks. They are immune to Normal, Fighting, Ghost attacks.§
+Ghost/Fire: Ghost/Fire dual-types are weak to Water, Ground, Rock, Ghost, Dark attacks. They are resistant to Fire, Grass, Ice, Poison, Bug, Steel, Fairy attacks. They are immune to Normal, Fighting attacks.§
+Ghost/Water: Ghost/Water dual-types are weak to Electric, Grass, Ghost, Dark attacks. They are resistant to Fire, Water, Ice, Poison, Bug, Steel attacks. They are immune to Normal, Fighting attacks.§
+Ghost/Electric: Ghost/Electric dual-types are weak to Ground, Ghost, Dark attacks. They are resistant to Electric, Poison, Flying, Bug, Steel attacks. They are immune to Normal, Fighting attacks.§
+Ghost/Grass: Ghost/Grass dual-types are weak to Fire, Ice, Flying, Ghost, Dark attacks. They are resistant to Water, Electric, Grass, Ground attacks. They are immune to Normal, Fighting attacks.§
+Ghost/Ice: Ghost/Ice dual-types are weak to Fire, Rock, Ghost, Dark, Steel attacks. They are resistant to Ice, Poison, Bug attacks. They are immune to Normal, Fighting attacks.§
+Ghost/Fighting: Ghost/Fighting dual-types are weak to Flying, Psychic, Ghost, Fairy attacks. They are resistant to Poison, Bug, Rock attacks. They are immune to Normal, Fighting attacks.§
+Ghost/Poison: Ghost/Poison dual-types are weak to Ground, Psychic, Ghost, Dark attacks. They are resistant to Grass, Poison, Bug, Fairy attacks. They are immune to Normal, Fighting attacks.§
+Ghost/Ground: Ghost/Ground dual-types are weak to Water, Grass, Ice, Ghost, Dark attacks. They are resistant to Poison, Bug, Rock attacks. They are immune to Normal, Electric, Fighting attacks.§
+Ghost/Flying: Ghost/Flying dual-types are weak to Electric, Ice, Rock, Ghost, Dark attacks. They are resistant to Grass, Poison, Bug attacks. They are immune to Normal, Fighting, Ground attacks.§
+Ghost/Psychic: Ghost/Psychic dual-types are weak to Ghost, Dark attacks. They are resistant to Poison, Psychic attacks. They are immune to Normal, Fighting attacks.§
+Ghost/Bug: Ghost/Bug dual-types are weak to Fire, Flying, Rock, Ghost, Dark attacks. They are resistant to Grass, Poison, Ground, Bug attacks. They are immune to Normal, Fighting attacks.§
+Ghost/Rock: Ghost/Rock dual-types are weak to Water, Grass, Ground, Ghost, Dark, Steel attacks. They are resistant to Fire, Poison, Flying, Bug attacks. They are immune to Normal, Fighting attacks.§
+Ghost/Dragon: Ghost/Dragon dual-types are weak to Ice, Ghost, Dragon, Dark, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Poison, Bug attacks. They are immune to Normal, Fighting attacks.§
+Ghost/Dark: Ghost/Dark dual-types are weak to Fairy attacks. They are resistant to Poison attacks. They are immune to Normal, Fighting, Psychic attacks.§
+Ghost/Steel: Ghost/Steel dual-types are weak to Fire, Ground, Ghost, Dark attacks. They are resistant to Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Normal, Fighting, Poison attacks.§
+Ghost/Fairy: Ghost/Fairy dual-types are weak to Ghost, Steel attacks. They are resistant to Bug attacks. They are immune to Normal, Fighting, Dragon attacks.§
+Dragon/Normal: Dragon/Normal dual-types are weak to Ice, Fighting, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass attacks. They are immune to Ghost attacks.§
+Dragon/Fire: Dragon/Fire dual-types are weak to Ground, Rock, Dragon attacks. They are resistant to Fire, Electric, Grass, Bug, Steel attacks.§
+Dragon/Water: Dragon/Water dual-types are weak to Dragon, Fairy attacks. They are resistant to Fire, Water, Steel attacks.§
+Dragon/Electric: Dragon/Electric dual-types are weak to Ice, Ground, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Flying, Steel attacks.§
+Dragon/Grass: Dragon/Grass dual-types are weak to Ice, Poison, Flying, Bug, Dragon, Fairy attacks. They are resistant to Water, Electric, Grass, Ground attacks.§
+Dragon/Ice: Dragon/Ice dual-types are weak to Fighting, Rock, Dragon, Steel, Fairy attacks. They are resistant to Water, Electric, Grass attacks.§
+Dragon/Fighting: Dragon/Fighting dual-types are weak to Ice, Flying, Psychic, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Bug, Rock, Dark attacks.§
+Dragon/Poison: Dragon/Poison dual-types are weak to Ice, Ground, Psychic, Dragon attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Poison, Bug attacks.§
+Dragon/Ground: Dragon/Ground dual-types are weak to Ice, Dragon, Fairy attacks. They are resistant to Fire, Poison, Rock attacks. They are immune to Electric attacks.§
+Dragon/Flying: Dragon/Flying dual-types are weak to Ice, Rock, Dragon, Fairy attacks. They are resistant to Fire, Water, Grass, Fighting, Bug attacks. They are immune to Ground attacks.§
+Dragon/Psychic: Dragon/Psychic dual-types are weak to Ice, Bug, Ghost, Dragon, Dark, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Psychic attacks.§
+Dragon/Bug: Dragon/Bug dual-types are weak to Ice, Flying, Rock, Dragon, Fairy attacks. They are resistant to Water, Electric, Grass, Fighting, Ground attacks.§
+Dragon/Rock: Dragon/Rock dual-types are weak to Ice, Fighting, Ground, Dragon, Steel, Fairy attacks. They are resistant to Normal, Fire, Electric, Poison, Flying attacks.§
+Dragon/Ghost: Dragon/Ghost dual-types are weak to Ice, Ghost, Dragon, Dark, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Poison, Bug attacks. They are immune to Normal, Fighting attacks.§
+Dragon/Dark: Dragon/Dark dual-types are weak to Ice, Fighting, Bug, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Dragon/Steel: Dragon/Steel dual-types are weak to Fighting, Ground attacks. They are resistant to Normal, Water, Electric, Grass, Flying, Psychic, Bug, Rock, Steel attacks. They are immune to Poison attacks.§
+Dragon/Fairy: Dragon/Fairy dual-types are weak to Ice, Poison, Steel, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Bug, Dark attacks. They are immune to Dragon attacks.§
+Dark/Normal: Dark/Normal dual-types are weak to Fighting, Bug, Fairy attacks. They are resistant to Dark attacks. They are immune to Psychic, Ghost attacks.§
+Dark/Fire: Dark/Fire dual-types are weak to Water, Fighting, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+Dark/Water: Dark/Water dual-types are weak to Electric, Grass, Fighting, Bug, Fairy attacks. They are resistant to Fire, Water, Ice, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+Dark/Electric: Dark/Electric dual-types are weak to Fighting, Ground, Bug, Fairy attacks. They are resistant to Electric, Flying, Ghost, Dark, Steel attacks. They are immune to Psychic attacks.§
+Dark/Grass: Dark/Grass dual-types are weak to Fire, Ice, Fighting, Poison, Flying, Bug, Fairy attacks. They are resistant to Water, Electric, Grass, Ground, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Dark/Ice: Dark/Ice dual-types are weak to Fire, Fighting, Bug, Rock, Steel, Fairy attacks. They are resistant to Ice, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Dark/Fighting: Dark/Fighting dual-types are weak to Fighting, Flying, Fairy attacks. They are resistant to Rock, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Dark/Poison: Dark/Poison dual-types are weak to Ground attacks. They are resistant to Grass, Poison, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Dark/Ground: Dark/Ground dual-types are weak to Water, Grass, Ice, Fighting, Bug, Fairy attacks. They are resistant to Poison, Rock, Ghost, Dark attacks. They are immune to Electric, Psychic attacks.§
+Dark/Flying: Dark/Flying dual-types are weak to Electric, Ice, Rock, Fairy attacks. They are resistant to Grass, Ghost, Dark attacks. They are immune to Ground, Psychic attacks.§
+Dark/Psychic: Dark/Psychic dual-types are weak to Bug, Fairy attacks. They are resistant to attacks. They are immune to Psychic attacks.§
+Dark/Bug: Dark/Bug dual-types are weak to Fire, Flying, Bug, Rock, Fairy attacks. They are resistant to Grass, Ground, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Dark/Rock: Dark/Rock dual-types are weak to Water, Grass, Fighting, Ground, Bug, Steel, Fairy attacks. They are resistant to Normal, Fire, Poison, Flying, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Dark/Ghost: Dark/Ghost dual-types are weak to Fairy attacks. They are resistant to Poison attacks. They are immune to Normal, Fighting, Psychic attacks.§
+Dark/Dragon: Dark/Dragon dual-types are weak to Ice, Fighting, Bug, Dragon, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Ghost, Dark attacks. They are immune to Psychic attacks.§
+Dark/Steel: Dark/Steel dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Rock, Ghost, Dragon, Dark, Steel attacks. They are immune to Poison, Psychic attacks.§
+Dark/Fairy: Dark/Fairy dual-types are weak to Poison, Steel, Fairy attacks. They are resistant to Ghost, Dark attacks. They are immune to Psychic, Dragon attacks.§
+Steel/Normal: Steel/Normal dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison, Ghost attacks.§
+Steel/Fire: Steel/Fire dual-types are weak to Water, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Steel/Water: Steel/Water dual-types are weak to Electric, Fighting, Ground attacks. They are resistant to Normal, Water, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Steel/Electric: Steel/Electric dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Electric, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Steel/Grass: Steel/Grass dual-types are weak to Fire, Fighting attacks. They are resistant to Normal, Water, Electric, Grass, Psychic, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Steel/Ice: Steel/Ice dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Dragon, Fairy attacks. They are immune to Poison attacks.§
+Steel/Fighting: Steel/Fighting dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Bug, Rock, Dragon, Dark, Steel attacks. They are immune to Poison attacks.§
+Steel/Poison: Steel/Poison dual-types are weak to Fire, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Steel/Ground: Steel/Ground dual-types are weak to Fire, Water, Fighting, Ground attacks. They are resistant to Normal, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Electric, Poison attacks.§
+Steel/Flying: Steel/Flying dual-types are weak to Fire, Electric attacks. They are resistant to Normal, Grass, Flying, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison, Ground attacks.§
+Steel/Psychic: Steel/Psychic dual-types are weak to Fire, Ground, Ghost, Dark attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Rock, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Steel/Bug: Steel/Bug dual-types are weak to Fire attacks. They are resistant to Normal, Grass, Ice, Psychic, Bug, Dragon, Steel, Fairy attacks. They are immune to Poison attacks.§
+Steel/Rock: Steel/Rock dual-types are weak to Water, Fighting, Ground attacks. They are resistant to Normal, Ice, Flying, Psychic, Bug, Rock, Dragon, Fairy attacks. They are immune to Poison attacks.§
+Steel/Ghost: Steel/Ghost dual-types are weak to Fire, Ground, Ghost, Dark attacks. They are resistant to Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy attacks. They are immune to Normal, Fighting, Poison attacks.§
+Steel/Dragon: Steel/Dragon dual-types are weak to Fighting, Ground attacks. They are resistant to Normal, Water, Electric, Grass, Flying, Psychic, Bug, Rock, Steel attacks. They are immune to Poison attacks.§
+Steel/Dark: Steel/Dark dual-types are weak to Fire, Fighting, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Rock, Ghost, Dragon, Dark, Steel attacks. They are immune to Poison, Psychic attacks.§
+Steel/Fairy: Steel/Fairy dual-types are weak to Fire, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dark, Fairy attacks. They are immune to Poison, Dragon attacks.§
+Fairy/Normal: Fairy/Normal dual-types are weak to Poison, Steel attacks. They are resistant to Bug, Dark attacks. They are immune to Ghost, Dragon attacks.§
+Fairy/Fire: Fairy/Fire dual-types are weak to Water, Poison, Ground, Rock attacks. They are resistant to Fire, Grass, Ice, Fighting, Bug, Dark, Fairy attacks. They are immune to Dragon attacks.§
+Fairy/Water: Fairy/Water dual-types are weak to Electric, Grass, Poison attacks. They are resistant to Fire, Water, Ice, Fighting, Bug, Dark attacks. They are immune to Dragon attacks.§
+Fairy/Electric: Fairy/Electric dual-types are weak to Poison, Ground attacks. They are resistant to Electric, Fighting, Flying, Bug, Dark attacks. They are immune to Dragon attacks.§
+Fairy/Grass: Fairy/Grass dual-types are weak to Fire, Ice, Poison, Flying, Steel attacks. They are resistant to Water, Electric, Grass, Fighting, Ground, Dark attacks. They are immune to Dragon attacks.§
+Fairy/Ice: Fairy/Ice dual-types are weak to Fire, Poison, Rock, Steel attacks. They are resistant to Ice, Bug, Dark attacks. They are immune to Dragon attacks.§
+Fairy/Fighting: Fairy/Fighting dual-types are weak to Poison, Flying, Psychic, Steel, Fairy attacks. They are resistant to Fighting, Bug, Rock, Dark attacks. They are immune to Dragon attacks.§
+Fairy/Poison: Fairy/Poison dual-types are weak to Ground, Psychic, Steel attacks. They are resistant to Grass, Fighting, Bug, Dark, Fairy attacks. They are immune to Dragon attacks.§
+Fairy/Ground: Fairy/Ground dual-types are weak to Water, Grass, Ice, Steel attacks. They are resistant to Fighting, Bug, Rock, Dark attacks. They are immune to Electric, Dragon attacks.§
+Fairy/Flying: Fairy/Flying dual-types are weak to Electric, Ice, Poison, Rock, Steel attacks. They are resistant to Grass, Fighting, Bug, Dark attacks. They are immune to Ground, Dragon attacks.§
+Fairy/Psychic: Fairy/Psychic dual-types are weak to Poison, Ghost, Steel attacks. They are resistant to Fighting, Psychic attacks. They are immune to Dragon attacks.§
+Fairy/Bug: Fairy/Bug dual-types are weak to Fire, Poison, Flying, Rock, Steel attacks. They are resistant to Grass, Fighting, Ground, Bug, Dark attacks. They are immune to Dragon attacks.§
+Fairy/Rock: Fairy/Rock dual-types are weak to Water, Grass, Ground, Steel attacks. They are resistant to Normal, Fire, Flying, Bug, Dark attacks. They are immune to Dragon attacks.§
+Fairy/Ghost: Fairy/Ghost dual-types are weak to Ghost, Steel attacks. They are resistant to Bug attacks. They are immune to Normal, Fighting, Dragon attacks.§
+Fairy/Dragon: Fairy/Dragon dual-types are weak to Ice, Poison, Steel, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Bug, Dark attacks. They are immune to Dragon attacks.§
+Fairy/Dark: Fairy/Dark dual-types are weak to Poison, Steel, Fairy attacks. They are resistant to Ghost, Dark attacks. They are immune to Psychic, Dragon attacks.§
+Fairy/Steel: Fairy/Steel dual-types are weak to Fire, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dark, Fairy attacks. They are immune to Poison, Dragon attacks.§
