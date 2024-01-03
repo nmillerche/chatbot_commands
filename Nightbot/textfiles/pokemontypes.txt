@@ -1,25 +1,25 @@
-Bulbasaur: (1) grass / poison type§
-Ivysaur: (2) grass / poison type§
-Venusaur: (3) grass / poison type§
+Bulbasaur: (1) grass/poison type§
+Ivysaur: (2) grass/poison type§
+Venusaur: (3) grass/poison type§
 Charmander: (4) fire type§
 Charmeleon: (5) fire type§
-Charizard: (6) fire / flying type§
+Charizard: (6) fire/flying type§
 Squirtle: (7) water type§
 Wartortle: (8) water type§
 Blastoise: (9) water type§
 Caterpie: (10) bug type§
 Metapod: (11) bug type§
-Butterfree: (12) bug / flying type§
-Weedle: (13) bug / poison type§
-Kakuna: (14) bug / poison type§
-Beedrill: (15) bug / poison type§
-Pidgey: (16) normal / flying type§
-Pidgeotto: (17) normal / flying type§
-Pidgeot: (18) normal / flying type§
+Butterfree: (12) bug/flying type§
+Weedle: (13) bug/poison type§
+Kakuna: (14) bug/poison type§
+Beedrill: (15) bug/poison type§
+Pidgey: (16) normal/flying type§
+Pidgeotto: (17) normal/flying type§
+Pidgeot: (18) normal/flying type§
 Rattata: (19) normal type§
 Raticate: (20) normal type§
-Spearow: (21) normal / flying type§
-Fearow: (22) normal / flying type§
+Spearow: (21) normal/flying type§
+Fearow: (22) normal/flying type§
 Ekans: (23) poison type§
 Arbok: (24) poison type§
 Pikachu: (25) electric type§
@@ -28,25 +28,25 @@ Sandshrew: (27) ground type§
 Sandslash: (28) ground type§
 Nidoran: (29) poison type§
 Nidorina: (30) poison type§
-Nidoqueen: (31) poison / ground type§
+Nidoqueen: (31) poison/ground type§
 Nidoran: (32) poison type§
 Nidorino: (33) poison type§
-Nidoking: (34) poison / ground type§
+Nidoking: (34) poison/ground type§
 Clefairy: (35) fairy type§
 Clefable: (36) fairy type§
 Vulpix: (37) fire type§
 Ninetales: (38) fire type§
-Jigglypuff: (39) normal / fairy type§
-Wigglytuff: (40) normal / fairy type§
-Zubat: (41) poison / flying type§
-Golbat: (42) poison / flying type§
-Oddish: (43) grass / poison type§
-Gloom: (44) grass / poison type§
-Vileplume: (45) grass / poison type§
-Paras: (46) bug / grass type§
-Parasect: (47) bug / grass type§
-Venonat: (48) bug / poison type§
-Venomoth: (49) bug / poison type§
+Jigglypuff: (39) normal/fairy type§
+Wigglytuff: (40) normal/fairy type§
+Zubat: (41) poison/flying type§
+Golbat: (42) poison/flying type§
+Oddish: (43) grass/poison type§
+Gloom: (44) grass/poison type§
+Vileplume: (45) grass/poison type§
+Paras: (46) bug/grass type§
+Parasect: (47) bug/grass type§
+Venonat: (48) bug/poison type§
+Venomoth: (49) bug/poison type§
 Diglett: (50) ground type§
 Dugtrio: (51) ground type§
 Meowth: (52) normal type§
@@ -59,48 +59,48 @@ Growlithe: (58) fire type§
 Arcanine: (59) fire type§
 Poliwag: (60) water type§
 Poliwhirl: (61) water type§
-Poliwrath: (62) water / fighting type§
+Poliwrath: (62) water/fighting type§
 Abra: (63) psychic type§
 Kadabra: (64) psychic type§
 Alakazam: (65) psychic type§
 Machop: (66) fighting type§
 Machoke: (67) fighting type§
 Machamp: (68) fighting type§
-Bellsprout: (69) grass / poison type§
-Weepinbell: (70) grass / poison type§
-Victreebel: (71) grass / poison type§
-Tentacool: (72) water / poison type§
-Tentacruel: (73) water / poison type§
-Geodude: (74) rock / ground type§
-Graveler: (75) rock / ground type§
-Golem: (76) rock / ground type§
+Bellsprout: (69) grass/poison type§
+Weepinbell: (70) grass/poison type§
+Victreebel: (71) grass/poison type§
+Tentacool: (72) water/poison type§
+Tentacruel: (73) water/poison type§
+Geodude: (74) rock/ground type§
+Graveler: (75) rock/ground type§
+Golem: (76) rock/ground type§
 Ponyta: (77) fire type§
 Rapidash: (78) fire type§
-Slowpoke: (79) water / psychic type§
-Slowbro: (80) water / psychic type§
-Magnemite: (81) electric / steel type§
-Magneton: (82) electric / steel type§
-Farfetchd: (83) normal / flying type§
-Doduo: (84) normal / flying type§
-Dodrio: (85) normal / flying type§
+Slowpoke: (79) water/psychic type§
+Slowbro: (80) water/psychic type§
+Magnemite: (81) electric/steel type§
+Magneton: (82) electric/steel type§
+Farfetchd: (83) normal/flying type§
+Doduo: (84) normal/flying type§
+Dodrio: (85) normal/flying type§
 Seel: (86) water type§
-Dewgong: (87) water / ice type§
+Dewgong: (87) water/ice type§
 Grimer: (88) poison type§
 Muk: (89) poison type§
 Shellder: (90) water type§
-Cloyster: (91) water / ice type§
-Gastly: (92) ghost / poison type§
-Haunter: (93) ghost / poison type§
-Gengar: (94) ghost / poison type§
-Onix: (95) rock / ground type§
+Cloyster: (91) water/ice type§
+Gastly: (92) ghost/poison type§
+Haunter: (93) ghost/poison type§
+Gengar: (94) ghost/poison type§
+Onix: (95) rock/ground type§
 Drowzee: (96) psychic type§
 Hypno: (97) psychic type§
 Krabby: (98) water type§
 Kingler: (99) water type§
 Voltorb: (100) electric type§
 Electrode: (101) electric type§
-Exeggcute: (102) grass / psychic type§
-Exeggutor: (103) grass / psychic type§
+Exeggcute: (102) grass/psychic type§
+Exeggutor: (103) grass/psychic type§
 Cubone: (104) ground type§
 Marowak: (105) ground type§
 Hitmonlee: (106) fighting type§
@@ -108,8 +108,8 @@ Hitmonchan: (107) fighting type§
 Lickitung: (108) normal type§
 Koffing: (109) poison type§
 Weezing: (110) poison type§
-Rhyhorn: (111) ground / rock type§
-Rhydon: (112) ground / rock type§
+Rhyhorn: (111) ground/rock type§
+Rhydon: (112) ground/rock type§
 Chansey: (113) normal type§
 Tangela: (114) grass type§
 Kangaskhan: (115) normal type§
@@ -118,35 +118,35 @@ Seadra: (117) water type§
 Goldeen: (118) water type§
 Seaking: (119) water type§
 Staryu: (120) water type§
-Starmie: (121) water / psychic type§
-Mr.Mime: (122) psychic / fairy type§
-Scyther: (123) bug / flying type§
-Jynx: (124) ice / psychic type§
+Starmie: (121) water/psychic type§
+Mr. Mime: (122) psychic/fairy type§
+Scyther: (123) bug/flying type§
+Jynx: (124) ice/psychic type§
 Electabuzz: (125) electric type§
 Magmar: (126) fire type§
 Pinsir: (127) bug type§
 Tauros: (128) normal type§
 Magikarp: (129) water type§
-Gyarados: (130) water / flying type§
-Lapras: (131) water / ice type§
+Gyarados: (130) water/flying type§
+Lapras: (131) water/ice type§
 Ditto: (132) normal type§
 Eevee: (133) normal type§
 Vaporeon: (134) water type§
 Jolteon: (135) electric type§
 Flareon: (136) fire type§
 Porygon: (137) normal type§
-Omanyte: (138) rock / water type§
-Omastar: (139) rock / water type§
-Kabuto: (140) rock / water type§
-Kabutops: (141) rock / water type§
-Aerodactyl: (142) rock / flying type§
+Omanyte: (138) rock/water type§
+Omastar: (139) rock/water type§
+Kabuto: (140) rock/water type§
+Kabutops: (141) rock/water type§
+Aerodactyl: (142) rock/flying type§
 Snorlax: (143) normal type§
-Articuno: (144) ice / flying type§
-Zapdos: (145) electric / flying type§
-Moltres: (146) fire / flying type§
+Articuno: (144) ice/flying type§
+Zapdos: (145) electric/flying type§
+Moltres: (146) fire/flying type§
 Dratini: (147) dragon type§
 Dragonair: (148) dragon type§
-Dragonite: (149) dragon / flying type§
+Dragonite: (149) dragon/flying type§
 Mewtwo: (150) psychic type§
 Mew: (151) psychic type§
 Chikorita: (152) grass type§
@@ -160,74 +160,74 @@ Croconaw: (159) water type§
 Feraligatr: (160) water type§
 Sentret: (161) normal type§
 Furret: (162) normal type§
-Hoothoot: (163) normal / flying type§
-Noctowl: (164) normal / flying type§
-Ledyba: (165) bug / flying type§
-Ledian: (166) bug / flying type§
-Spinarak: (167) bug / poison type§
-Ariados: (168) bug / poison type§
-Crobat: (169) poison / flying type§
-Chinchou: (170) water / electric type§
-Lanturn: (171) water / electric type§
+Hoothoot: (163) normal/flying type§
+Noctowl: (164) normal/flying type§
+Ledyba: (165) bug/flying type§
+Ledian: (166) bug/flying type§
+Spinarak: (167) bug/poison type§
+Ariados: (168) bug/poison type§
+Crobat: (169) poison/flying type§
+Chinchou: (170) water/electric type§
+Lanturn: (171) water/electric type§
 Pichu: (172) electric type§
 Cleffa: (173) fairy type§
-Igglybuff: (174) normal / fairy type§
+Igglybuff: (174) normal/fairy type§
 Togepi: (175) fairy type§
-Togetic: (176) fairy / flying type§
-Natu: (177) psychic / flying type§
-Xatu: (178) psychic / flying type§
+Togetic: (176) fairy/flying type§
+Natu: (177) psychic/flying type§
+Xatu: (178) psychic/flying type§
 Mareep: (179) electric type§
 Flaaffy: (180) electric type§
 Ampharos: (181) electric type§
 Bellossom: (182) grass type§
-Marill: (183) water / fairy type§
-Azumarill: (184) water / fairy type§
+Marill: (183) water/fairy type§
+Azumarill: (184) water/fairy type§
 Sudowoodo: (185) rock type§
 Politoed: (186) water type§
-Hoppip: (187) grass / flying type§
-Skiploom: (188) grass / flying type§
-Jumpluff: (189) grass / flying type§
+Hoppip: (187) grass/flying type§
+Skiploom: (188) grass/flying type§
+Jumpluff: (189) grass/flying type§
 Aipom: (190) normal type§
 Sunkern: (191) grass type§
 Sunflora: (192) grass type§
-Yanma: (193) bug / flying type§
-Wooper: (194) water / ground type§
-Quagsire: (195) water / ground type§
+Yanma: (193) bug/flying type§
+Wooper: (194) water/ground type§
+Quagsire: (195) water/ground type§
 Espeon: (196) psychic type§
 Umbreon: (197) dark type§
-Murkrow: (198) dark / flying type§
-Slowking: (199) water / psychic type§
+Murkrow: (198) dark/flying type§
+Slowking: (199) water/psychic type§
 Misdreavus: (200) ghost type§
 Unown: (201) psychic type§
 Wobbuffet: (202) psychic type§
-Girafarig: (203) normal / psychic type§
+Girafarig: (203) normal/psychic type§
 Pineco: (204) bug type§
-Forretress: (205) bug / steel type§
+Forretress: (205) bug/steel type§
 Dunsparce: (206) normal type§
-Gligar: (207) ground / flying type§
-Steelix: (208) steel / ground type§
+Gligar: (207) ground/flying type§
+Steelix: (208) steel/ground type§
 Snubbull: (209) fairy type§
 Granbull: (210) fairy type§
-Qwilfish: (211) water / poison type§
-Scizor: (212) bug / steel type§
-Shuckle: (213) bug / rock type§
-Heracross: (214) bug / fighting type§
-Sneasel: (215) dark / ice type§
+Qwilfish: (211) water/poison type§
+Scizor: (212) bug/steel type§
+Shuckle: (213) bug/rock type§
+Heracross: (214) bug/fighting type§
+Sneasel: (215) dark/ice type§
 Teddiursa: (216) normal type§
 Ursaring: (217) normal type§
 Slugma: (218) fire type§
-Magcargo: (219) fire / rock type§
-Swinub: (220) ice / ground type§
-Piloswine: (221) ice / ground type§
-Corsola: (222) water / rock type§
+Magcargo: (219) fire/rock type§
+Swinub: (220) ice/ground type§
+Piloswine: (221) ice/ground type§
+Corsola: (222) water/rock type§
 Remoraid: (223) water type§
 Octillery: (224) water type§
-Delibird: (225) ice / flying type§
-Mantine: (226) water / flying type§
-Skarmory: (227) steel / flying type§
-Houndour: (228) dark / fire type§
-Houndoom: (229) dark / fire type§
-Kingdra: (230) water / dragon type§
+Delibird: (225) ice/flying type§
+Mantine: (226) water/flying type§
+Skarmory: (227) steel/flying type§
+Houndour: (228) dark/fire type§
+Houndoom: (229) dark/fire type§
+Kingdra: (230) water/dragon type§
 Phanpy: (231) ground type§
 Donphan: (232) ground type§
 Porygon2: (233) normal type§
@@ -235,7 +235,7 @@ Stantler: (234) normal type§
 Smeargle: (235) normal type§
 Tyrogue: (236) fighting type§
 Hitmontop: (237) fighting type§
-Smoochum: (238) ice / psychic type§
+Smoochum: (238) ice/psychic type§
 Elekid: (239) electric type§
 Magby: (240) fire type§
 Miltank: (241) normal type§
@@ -243,109 +243,109 @@ Blissey: (242) normal type§
 Raikou: (243) electric type§
 Entei: (244) fire type§
 Suicune: (245) water type§
-Larvitar: (246) rock / ground type§
-Pupitar: (247) rock / ground type§
-Tyranitar: (248) rock / dark type§
-Lugia: (249) psychic / flying type§
-Ho-oh: (250) fire / flying type§
-Celebi: (251) psychic / grass type§
+Larvitar: (246) rock/ground type§
+Pupitar: (247) rock/ground type§
+Tyranitar: (248) rock/dark type§
+Lugia: (249) psychic/flying type§
+Ho-oh: (250) fire/flying type§
+Celebi: (251) psychic/grass type§
 Treecko: (252) grass type§
 Grovyle: (253) grass type§
 Sceptile: (254) grass type§
 Torchic: (255) fire type§
-Combusken: (256) fire / fighting type§
-Blaziken: (257) fire / fighting type§
+Combusken: (256) fire/fighting type§
+Blaziken: (257) fire/fighting type§
 Mudkip: (258) water type§
-Marshtomp: (259) water / ground type§
-Swampert: (260) water / ground type§
+Marshtomp: (259) water/ground type§
+Swampert: (260) water/ground type§
 Poochyena: (261) dark type§
 Mightyena: (262) dark type§
 Zigzagoon: (263) normal type§
 Linoone: (264) normal type§
 Wurmple: (265) bug type§
 Silcoon: (266) bug type§
-Beautifly: (267) bug / flying type§
+Beautifly: (267) bug/flying type§
 Cascoon: (268) bug type§
-Dustox: (269) bug / poison type§
-Lotad: (270) water / grass type§
-Lombre: (271) water / grass type§
-Ludicolo: (272) water / grass type§
+Dustox: (269) bug/poison type§
+Lotad: (270) water/grass type§
+Lombre: (271) water/grass type§
+Ludicolo: (272) water/grass type§
 Seedot: (273) grass type§
-Nuzleaf: (274) grass / dark type§
-Shiftry: (275) grass / dark type§
-Taillow: (276) normal / flying type§
-Swellow: (277) normal / flying type§
-Wingull: (278) water / flying type§
-Pelipper: (279) water / flying type§
-Ralts: (280) psychic / fairy type§
-Kirlia: (281) psychic / fairy type§
-Gardevoir: (282) psychic / fairy type§
-Surskit: (283) bug / water type§
-Masquerain: (284) bug / flying type§
+Nuzleaf: (274) grass/dark type§
+Shiftry: (275) grass/dark type§
+Taillow: (276) normal/flying type§
+Swellow: (277) normal/flying type§
+Wingull: (278) water/flying type§
+Pelipper: (279) water/flying type§
+Ralts: (280) psychic/fairy type§
+Kirlia: (281) psychic/fairy type§
+Gardevoir: (282) psychic/fairy type§
+Surskit: (283) bug/water type§
+Masquerain: (284) bug/flying type§
 Shroomish: (285) grass type§
-Breloom: (286) grass / fighting type§
+Breloom: (286) grass/fighting type§
 Slakoth: (287) normal type§
 Vigoroth: (288) normal type§
 Slaking: (289) normal type§
-Nincada: (290) bug / ground type§
-Ninjask: (291) bug / flying type§
-Shedinja: (292) bug / ghost type§
+Nincada: (290) bug/ground type§
+Ninjask: (291) bug/flying type§
+Shedinja: (292) bug/ghost type§
 Whismur: (293) normal type§
 Loudred: (294) normal type§
 Exploud: (295) normal type§
 Makuhita: (296) fighting type§
 Hariyama: (297) fighting type§
-Azurill: (298) normal / fairy type§
+Azurill: (298) normal/fairy type§
 Nosepass: (299) rock type§
 Skitty: (300) normal type§
 Delcatty: (301) normal type§
-Sableye: (302) dark / ghost type§
-Mawile: (303) steel / fairy type§
-Aron: (304) steel / rock type§
-Lairon: (305) steel / rock type§
-Aggron: (306) steel / rock type§
-Meditite: (307) fighting / psychic type§
-Medicham: (308) fighting / psychic type§
+Sableye: (302) dark/ghost type§
+Mawile: (303) steel/fairy type§
+Aron: (304) steel/rock type§
+Lairon: (305) steel/rock type§
+Aggron: (306) steel/rock type§
+Meditite: (307) fighting/psychic type§
+Medicham: (308) fighting/psychic type§
 Electrike: (309) electric type§
 Manectric: (310) electric type§
 Plusle: (311) electric type§
 Minun: (312) electric type§
 Volbeat: (313) bug type§
 Illumise: (314) bug type§
-Roselia: (315) grass / poison type§
+Roselia: (315) grass/poison type§
 Gulpin: (316) poison type§
 Swalot: (317) poison type§
-Carvanha: (318) water / dark type§
-Sharpedo: (319) water / dark type§
+Carvanha: (318) water/dark type§
+Sharpedo: (319) water/dark type§
 Wailmer: (320) water type§
 Wailord: (321) water type§
-Numel: (322) fire / ground type§
-Camerupt: (323) fire / ground type§
+Numel: (322) fire/ground type§
+Camerupt: (323) fire/ground type§
 Torkoal: (324) fire type§
 Spoink: (325) psychic type§
 Grumpig: (326) psychic type§
 Spinda: (327) normal type§
 Trapinch: (328) ground type§
-Vibrava: (329) ground / dragon type§
-Flygon: (330) ground / dragon type§
+Vibrava: (329) ground/dragon type§
+Flygon: (330) ground/dragon type§
 Cacnea: (331) grass type§
-Cacturne: (332) grass / dark type§
-Swablu: (333) normal / flying type§
-Altaria: (334) dragon / flying type§
+Cacturne: (332) grass/dark type§
+Swablu: (333) normal/flying type§
+Altaria: (334) dragon/flying type§
 Zangoose: (335) normal type§
 Seviper: (336) poison type§
-Lunatone: (337) rock / psychic type§
-Solrock: (338) rock / psychic type§
-Barboach: (339) water / ground type§
-Whiscash: (340) water / ground type§
+Lunatone: (337) rock/psychic type§
+Solrock: (338) rock/psychic type§
+Barboach: (339) water/ground type§
+Whiscash: (340) water/ground type§
 Corphish: (341) water type§
-Crawdaunt: (342) water / dark type§
-Baltoy: (343) ground / psychic type§
-Claydol: (344) ground / psychic type§
-Lileep: (345) rock / grass type§
-Cradily: (346) rock / grass type§
-Anorith: (347) rock / bug type§
-Armaldo: (348) rock / bug type§
+Crawdaunt: (342) water/dark type§
+Baltoy: (343) ground/psychic type§
+Claydol: (344) ground/psychic type§
+Lileep: (345) rock/grass type§
+Cradily: (346) rock/grass type§
+Anorith: (347) rock/bug type§
+Armaldo: (348) rock/bug type§
 Feebas: (349) water type§
 Milotic: (350) water type§
 Castform: (351) normal type§
@@ -354,150 +354,150 @@ Shuppet: (353) ghost type§
 Banette: (354) ghost type§
 Duskull: (355) ghost type§
 Dusclops: (356) ghost type§
-Tropius: (357) grass / flying type§
+Tropius: (357) grass/flying type§
 Chimecho: (358) psychic type§
 Absol: (359) dark type§
 Wynaut: (360) psychic type§
 Snorunt: (361) ice type§
 Glalie: (362) ice type§
-Spheal: (363) ice / water type§
-Sealeo: (364) ice / water type§
-Walrein: (365) ice / water type§
+Spheal: (363) ice/water type§
+Sealeo: (364) ice/water type§
+Walrein: (365) ice/water type§
 Clamperl: (366) water type§
 Huntail: (367) water type§
 Gorebyss: (368) water type§
-Relicanth: (369) water / rock type§
+Relicanth: (369) water/rock type§
 Luvdisc: (370) water type§
 Bagon: (371) dragon type§
 Shelgon: (372) dragon type§
-Salamence: (373) dragon / flying type§
-Beldum: (374) steel / psychic type§
-Metang: (375) steel / psychic type§
-Metagross: (376) steel / psychic type§
+Salamence: (373) dragon/flying type§
+Beldum: (374) steel/psychic type§
+Metang: (375) steel/psychic type§
+Metagross: (376) steel/psychic type§
 Regirock: (377) rock type§
 Regice: (378) ice type§
 Registeel: (379) steel type§
-Latias: (380) dragon / psychic type§
-Latios: (381) dragon / psychic type§
+Latias: (380) dragon/psychic type§
+Latios: (381) dragon/psychic type§
 Kyogre: (382) water type§
 Groudon: (383) ground type§
-Rayquaza: (384) dragon / flying type§
-Jirachi: (385) steel / psychic type§
+Rayquaza: (384) dragon/flying type§
+Jirachi: (385) steel/psychic type§
 Deoxys: (386) psychic type§
 Turtwig: (387) grass type§
 Grotle: (388) grass type§
-Torterra: (389) grass / ground type§
+Torterra: (389) grass/ground type§
 Chimchar: (390) fire type§
-Monferno: (391) fire / fighting type§
-Infernape: (392) fire / fighting type§
+Monferno: (391) fire/fighting type§
+Infernape: (392) fire/fighting type§
 Piplup: (393) water type§
 Prinplup: (394) water type§
-Empoleon: (395) water / steel type§
-Starly: (396) normal / flying type§
-Staravia: (397) normal / flying type§
-Staraptor: (398) normal / flying type§
+Empoleon: (395) water/steel type§
+Starly: (396) normal/flying type§
+Staravia: (397) normal/flying type§
+Staraptor: (398) normal/flying type§
 Bidoof: (399) normal type§
-Bibarel: (400) normal / water type§
+Bibarel: (400) normal/water type§
 Kricketot: (401) bug type§
 Kricketune: (402) bug type§
 Shinx: (403) electric type§
 Luxio: (404) electric type§
 Luxray: (405) electric type§
-Budew: (406) grass / poison type§
-Roserade: (407) grass / poison type§
+Budew: (406) grass/poison type§
+Roserade: (407) grass/poison type§
 Cranidos: (408) rock type§
 Rampardos: (409) rock type§
-Shieldon: (410) rock / steel type§
-Bastiodon: (411) rock / steel type§
+Shieldon: (410) rock/steel type§
+Bastiodon: (411) rock/steel type§
 Burmy: (412) bug type§
-Wormadam: (413) bug / grass type§
-Mothim: (414) bug / flying type§
-Combee: (415) bug / flying type§
-Vespiquen: (416) bug / flying type§
+Wormadam: (413) bug/grass type§
+Mothim: (414) bug/flying type§
+Combee: (415) bug/flying type§
+Vespiquen: (416) bug/flying type§
 Pachirisu: (417) electric type§
 Buizel: (418) water type§
 Floatzel: (419) water type§
 Cherubi: (420) grass type§
 Cherrim: (421) grass type§
 Shellos: (422) water type§
-Gastrodon: (423) water / ground type§
+Gastrodon: (423) water/ground type§
 Ambipom: (424) normal type§
-Drifloon: (425) ghost / flying type§
-Drifblim: (426) ghost / flying type§
+Drifloon: (425) ghost/flying type§
+Drifblim: (426) ghost/flying type§
 Buneary: (427) normal type§
 Lopunny: (428) normal type§
 Mismagius: (429) ghost type§
-Honchkrow: (430) dark / flying type§
+Honchkrow: (430) dark/flying type§
 Glameow: (431) normal type§
 Purugly: (432) normal type§
 Chingling: (433) psychic type§
-Stunky: (434) poison / dark type§
-Skuntank: (435) poison / dark type§
-Bronzor: (436) steel / psychic type§
-Bronzong: (437) steel / psychic type§
+Stunky: (434) poison/dark type§
+Skuntank: (435) poison/dark type§
+Bronzor: (436) steel/psychic type§
+Bronzong: (437) steel/psychic type§
 Bonsly: (438) rock type§
-Mime Jr.: (439) psychic / fairy type§
+Mime Jr.: (439) psychic/fairy type§
 Happiny: (440) normal type§
-Chatot: (441) normal / flying type§
-Spiritomb: (442) ghost / dark type§
-Gible: (443) dragon / ground type§
-Gabite: (444) dragon / ground type§
-Garchomp: (445) dragon / ground type§
+Chatot: (441) normal/flying type§
+Spiritomb: (442) ghost/dark type§
+Gible: (443) dragon/ground type§
+Gabite: (444) dragon/ground type§
+Garchomp: (445) dragon/ground type§
 Munchlax: (446) normal type§
 Riolu: (447) fighting type§
-Lucario: (448) fighting / steel type§
+Lucario: (448) fighting/steel type§
 Hippopotas: (449) ground type§
 Hippowdon: (450) ground type§
-Skorupi: (451) poison / bug type§
-Drapion: (452) poison / dark type§
-Croagunk: (453) poison / fighting type§
-Toxicroak: (454) poison / fighting type§
+Skorupi: (451) poison/bug type§
+Drapion: (452) poison/dark type§
+Croagunk: (453) poison/fighting type§
+Toxicroak: (454) poison/fighting type§
 Carnivine: (455) grass type§
 Finneon: (456) water type§
 Lumineon: (457) water type§
-Mantyke: (458) water / flying type§
-Snover: (459) grass / ice type§
-Abomasnow: (460) grass / ice type§
-Weavile: (461) dark / ice type§
-Magnezone: (462) electric / steel type§
+Mantyke: (458) water/flying type§
+Snover: (459) grass/ice type§
+Abomasnow: (460) grass/ice type§
+Weavile: (461) dark/ice type§
+Magnezone: (462) electric/steel type§
 Lickilicky: (463) normal type§
-Rhyperior: (464) ground / rock type§
+Rhyperior: (464) ground/rock type§
 Tangrowth: (465) grass type§
 Electivire: (466) electric type§
 Magmortar: (467) fire type§
-Togekiss: (468) fairy / flying type§
-Yanmega: (469) bug / flying type§
+Togekiss: (468) fairy/flying type§
+Yanmega: (469) bug/flying type§
 Leafeon: (470) grass type§
 Glaceon: (471) ice type§
-Gliscor: (472) ground / flying type§
-Mamoswine: (473) ice / ground type§
+Gliscor: (472) ground/flying type§
+Mamoswine: (473) ice/ground type§
 Porygon-Z: (474) normal type§
-Gallade: (475) psychic / fighting type§
-Probopass: (476) rock / steel type§
+Gallade: (475) psychic/fighting type§
+Probopass: (476) rock/steel type§
 Dusknoir: (477) ghost type§
-Froslass: (478) ice / ghost type§
-Rotom: (479) electric / ghost type§
+Froslass: (478) ice/ghost type§
+Rotom: (479) electric/ghost type§
 Uxie: (480) psychic type§
 Mesprit: (481) psychic type§
 Azelf: (482) psychic type§
-Dialga: (483) steel / dragon type§
-Palkia: (484) water / dragon type§
-Heatran: (485) fire / steel type§
+Dialga: (483) steel/dragon type§
+Palkia: (484) water/dragon type§
+Heatran: (485) fire/steel type§
 Regigigas: (486) normal type§
-Giratina: (487) ghost / dragon type§
+Giratina: (487) ghost/dragon type§
 Cresselia: (488) psychic type§
 Phione: (489) water type§
 Manaphy: (490) water type§
 Darkrai: (491) dark type§
 Shaymin: (492) grass type§
 Arceus: (493) normal type§
-Victini: (494) psychic / fire type§
+Victini: (494) psychic/fire type§
 Snivy: (495) grass type§
 Servine: (496) grass type§
 Serperior: (497) grass type§
 Tepig: (498) fire type§
-Pignite: (499) fire / fighting type§
-Emboar: (500) fire / fighting type§
+Pignite: (499) fire/fighting type§
+Emboar: (500) fire/fighting type§
 Oshawott: (501) water type§
 Dewott: (502) water type§
 Samurott: (503) water type§
@@ -516,55 +516,55 @@ Panpour: (515) water type§
 Simipour: (516) water type§
 Munna: (517) psychic type§
 Musharna: (518) psychic type§
-Pidove: (519) normal / flying type§
-Tranquill: (520) normal / flying type§
-Unfezant: (521) normal / flying type§
+Pidove: (519) normal/flying type§
+Tranquill: (520) normal/flying type§
+Unfezant: (521) normal/flying type§
 Blitzle: (522) electric type§
 Zebstrika: (523) electric type§
 Roggenrola: (524) rock type§
 Boldore: (525) rock type§
 Gigalith: (526) rock type§
-Woobat: (527) psychic / flying type§
-Swoobat: (528) psychic / flying type§
+Woobat: (527) psychic/flying type§
+Swoobat: (528) psychic/flying type§
 Drilbur: (529) ground type§
-Excadrill: (530) ground / steel type§
+Excadrill: (530) ground/steel type§
 Audino: (531) normal type§
 Timburr: (532) fighting type§
 Gurdurr: (533) fighting type§
 Conkeldurr: (534) fighting type§
 Tympole: (535) water type§
-Palpitoad: (536) water / ground type§
-Seismitoad: (537) water / ground type§
+Palpitoad: (536) water/ground type§
+Seismitoad: (537) water/ground type§
 Throh: (538) fighting type§
 Sawk: (539) fighting type§
-Sewaddle: (540) bug / grass type§
-Swadloon: (541) bug / grass type§
-Leavanny: (542) bug / grass type§
-Venipede: (543) bug / poison type§
-Whirlipede: (544) bug / poison type§
-Scolipede: (545) bug / poison type§
-Cottonee: (546) grass / fairy type§
-Whimsicott: (547) grass / fairy type§
+Sewaddle: (540) bug/grass type§
+Swadloon: (541) bug/grass type§
+Leavanny: (542) bug/grass type§
+Venipede: (543) bug/poison type§
+Whirlipede: (544) bug/poison type§
+Scolipede: (545) bug/poison type§
+Cottonee: (546) grass/fairy type§
+Whimsicott: (547) grass/fairy type§
 Petilil: (548) grass type§
 Lilligant: (549) grass type§
 Basculin: (550) water type§
-Sandile: (551) ground / dark type§
-Krokorok: (552) ground / dark type§
-Krookodile: (553) ground / dark type§
+Sandile: (551) ground/dark type§
+Krokorok: (552) ground/dark type§
+Krookodile: (553) ground/dark type§
 Darumaka: (554) fire type§
 Darmanitan: (555) fire type§
 Maractus: (556) grass type§
-Dwebble: (557) bug / rock type§
-Crustle: (558) bug / rock type§
-Scraggy: (559) dark / fighting type§
-Scrafty: (560) dark / fighting type§
-Sigilyph: (561) psychic / flying type§
+Dwebble: (557) bug/rock type§
+Crustle: (558) bug/rock type§
+Scraggy: (559) dark/fighting type§
+Scrafty: (560) dark/fighting type§
+Sigilyph: (561) psychic/flying type§
 Yamask: (562) ghost type§
 Cofagrigus: (563) ghost type§
-Tirtouga: (564) water / rock type§
-Carracosta: (565) water / rock type§
-Archen: (566) rock / flying type§
-Archeops: (567) rock / flying type§
+Tirtouga: (564) water/rock type§
+Carracosta: (565) water/rock type§
+Archen: (566) rock/flying type§
+Archeops: (567) rock/flying type§
 Trubbish: (568) poison type§
 Garbodor: (569) poison type§
 Zorua: (570) dark type§
@@ -577,25 +577,25 @@ Gothitelle: (576) psychic type§
 Solosis: (577) psychic type§
 Duosion: (578) psychic type§
 Reuniclus: (579) psychic type§
-Ducklett: (580) water / flying type§
-Swanna: (581) water / flying type§
+Ducklett: (580) water/flying type§
+Swanna: (581) water/flying type§
 Vanillite: (582) ice type§
 Vanillish: (583) ice type§
 Vanilluxe: (584) ice type§
-Deerling: (585) normal / grass type§
-Sawsbuck: (586) normal / grass type§
-Emolga: (587) electric / flying type§
+Deerling: (585) normal/grass type§
+Sawsbuck: (586) normal/grass type§
+Emolga: (587) electric/flying type§
 Karrablast: (588) bug type§
-Escavalier: (589) bug / steel type§
-Foongus: (590) grass / poison type§
-Amoonguss: (591) grass / poison type§
-Frillish: (592) water / ghost type§
-Jellicent: (593) water / ghost type§
+Escavalier: (589) bug/steel type§
+Foongus: (590) grass/poison type§
+Amoonguss: (591) grass/poison type§
+Frillish: (592) water/ghost type§
+Jellicent: (593) water/ghost type§
 Alomomola: (594) water type§
-Joltik: (595) bug / electric type§
-Galvantula: (596) bug / electric type§
-Ferroseed: (597) grass / steel type§
-Ferrothorn: (598) grass / steel type§
+Joltik: (595) bug/electric type§
+Galvantula: (596) bug/electric type§
+Ferroseed: (597) grass/steel type§
+Ferrothorn: (598) grass/steel type§
 Klink: (599) steel type§
 Klang: (600) steel type§
 Klinklang: (601) steel type§
@@ -604,9 +604,9 @@ Eelektrik: (603) electric type§
 Eelektross: (604) electric type§
 Elgyem: (605) psychic type§
 Beheeyem: (606) psychic type§
-Litwick: (607) ghost / fire type§
-Lampent: (608) ghost / fire type§
-Chandelure: (609) ghost / fire type§
+Litwick: (607) ghost/fire type§
+Lampent: (608) ghost/fire type§
+Chandelure: (609) ghost/fire type§
 Axew: (610) dragon type§
 Fraxure: (611) dragon type§
 Haxorus: (612) dragon type§
@@ -615,195 +615,195 @@ Beartic: (614) ice type§
 Cryogonal: (615) ice type§
 Shelmet: (616) bug type§
 Accelgor: (617) bug type§
-Stunfisk: (618) ground / electric type§
+Stunfisk: (618) ground/electric type§
 Mienfoo: (619) fighting type§
 Mienshao: (620) fighting type§
 Druddigon: (621) dragon type§
-Golett: (622) ground / ghost type§
-Golurk: (623) ground / ghost type§
-Pawniard: (624) dark / steel type§
-Bisharp: (625) dark / steel type§
+Golett: (622) ground/ghost type§
+Golurk: (623) ground/ghost type§
+Pawniard: (624) dark/steel type§
+Bisharp: (625) dark/steel type§
 Bouffalant: (626) normal type§
-Rufflet: (627) normal / flying type§
-Braviary: (628) normal / flying type§
-Vullaby: (629) dark / flying type§
-Mandibuzz: (630) dark / flying type§
+Rufflet: (627) normal/flying type§
+Braviary: (628) normal/flying type§
+Vullaby: (629) dark/flying type§
+Mandibuzz: (630) dark/flying type§
 Heatmor: (631) fire type§
-Durant: (632) bug / steel type§
-Deino: (633) dark / dragon type§
-Zweilous: (634) dark / dragon type§
-Hydreigon: (635) dark / dragon type§
-Larvesta: (636) bug / fire type§
-Volcarona: (637) bug / fire type§
-Cobalion: (638) steel / fighting type§
-Terrakion: (639) rock / fighting type§
-Virizion: (640) grass / fighting type§
+Durant: (632) bug/steel type§
+Deino: (633) dark/dragon type§
+Zweilous: (634) dark/dragon type§
+Hydreigon: (635) dark/dragon type§
+Larvesta: (636) bug/fire type§
+Volcarona: (637) bug/fire type§
+Cobalion: (638) steel/fighting type§
+Terrakion: (639) rock/fighting type§
+Virizion: (640) grass/fighting type§
 Tornadus: (641) flying type§
-Thundurus: (642) electric / flying type§
-Reshiram: (643) dragon / fire type§
-Zekrom: (644) dragon / electric type§
-Landorus: (645) ground / flying type§
-Kyurem: (646) dragon / ice type§
-Keldeo: (647) water / fighting type§
-Meloetta: (648) normal / psychic type§
-Genesect: (649) bug / steel type§
+Thundurus: (642) electric/flying type§
+Reshiram: (643) dragon/fire type§
+Zekrom: (644) dragon/electric type§
+Landorus: (645) ground/flying type§
+Kyurem: (646) dragon/ice type§
+Keldeo: (647) water/fighting type§
+Meloetta: (648) normal/psychic type§
+Genesect: (649) bug/steel type§
 Chespin: (650) grass type§
 Quilladin: (651) grass type§
-Chesnaught: (652) grass / fighting type§
+Chesnaught: (652) grass/fighting type§
 Fennekin: (653) fire type§
 Braixen: (654) fire type§
-Delphox: (655) fire / psychic type§
+Delphox: (655) fire/psychic type§
 Froakie: (656) water type§
 Frogadier: (657) water type§
-Greninja: (658) water / dark type§
+Greninja: (658) water/dark type§
 Bunnelby: (659) normal type§
-Diggersby: (660) normal / ground type§
-Fletchling: (661) normal / flying type§
-Fletchinder: (662) fire / flying type§
-Talonflame: (663) fire / flying type§
+Diggersby: (660) normal/ground type§
+Fletchling: (661) normal/flying type§
+Fletchinder: (662) fire/flying type§
+Talonflame: (663) fire/flying type§
 Scatterbug: (664) bug type§
 Spewpa: (665) bug type§
-Vivillon: (666) bug / flying type§
-Litleo: (667) fire / normal type§
-Pyroar: (668) fire / normal type§
+Vivillon: (666) bug/flying type§
+Litleo: (667) fire/normal type§
+Pyroar: (668) fire/normal type§
 Flabébé: (669) fairy type§
 Floette: (670) fairy type§
 Florges: (671) fairy type§
 Skiddo: (672) grass type§
 Gogoat: (673) grass type§
 Pancham: (674) fighting type§
-Pangoro: (675) fighting / dark type§
+Pangoro: (675) fighting/dark type§
 Furfrou: (676) normal type§
 Espurr: (677) psychic type§
 Meowstic: (678) psychic type§
-Honedge: (679) steel / ghost type§
-Doublade: (680) steel / ghost type§
-Aegislash: (681) steel / ghost type§
+Honedge: (679) steel/ghost type§
+Doublade: (680) steel/ghost type§
+Aegislash: (681) steel/ghost type§
 Spritzee: (682) fairy type§
 Aromatisse: (683) fairy type§
 Swirlix: (684) fairy type§
 Slurpuff: (685) fairy type§
-Inkay: (686) dark / psychic type§
-Malamar: (687) dark / psychic type§
-Binacle: (688) rock / water type§
-Barbaracle: (689) rock / water type§
-Skrelp: (690) poison / water type§
-Dragalge: (691) poison / dragon type§
+Inkay: (686) dark/psychic type§
+Malamar: (687) dark/psychic type§
+Binacle: (688) rock/water type§
+Barbaracle: (689) rock/water type§
+Skrelp: (690) poison/water type§
+Dragalge: (691) poison/dragon type§
 Clauncher: (692) water type§
 Clawitzer: (693) water type§
-Helioptile: (694) electric / normal type§
-Heliolisk: (695) electric / normal type§
-Tyrunt: (696) rock / dragon type§
-Tyrantrum: (697) rock / dragon type§
-Amaura: (698) rock / ice type§
-Aurorus: (699) rock / ice type§
+Helioptile: (694) electric/normal type§
+Heliolisk: (695) electric/normal type§
+Tyrunt: (696) rock/dragon type§
+Tyrantrum: (697) rock/dragon type§
+Amaura: (698) rock/ice type§
+Aurorus: (699) rock/ice type§
 Sylveon: (700) fairy type§
-Hawlucha: (701) fighting / flying type§
-Dedenne: (702) electric / fairy type§
-Carbink: (703) rock / fairy type§
+Hawlucha: (701) fighting/flying type§
+Dedenne: (702) electric/fairy type§
+Carbink: (703) rock/fairy type§
 Goomy: (704) dragon type§
 Sliggoo: (705) dragon type§
 Goodra: (706) dragon type§
-Klefki: (707) steel / fairy type§
-Phantump: (708) ghost / grass type§
-Trevenant: (709) ghost / grass type§
-Pumpkaboo: (710) ghost / grass type§
-Gourgeist: (711) ghost / grass type§
+Klefki: (707) steel/fairy type§
+Phantump: (708) ghost/grass type§
+Trevenant: (709) ghost/grass type§
+Pumpkaboo: (710) ghost/grass type§
+Gourgeist: (711) ghost/grass type§
 Bergmite: (712) ice type§
 Avalugg: (713) ice type§
-Noibat: (714) flying / dragon type§
-Noivern: (715) flying / dragon type§
+Noibat: (714) flying/dragon type§
+Noivern: (715) flying/dragon type§
 Xerneas: (716) fairy type§
-Yveltal: (717) dark / flying type§
-Zygarde: (718) dragon / ground type§
-Diancie: (719) rock / fairy type§
-Hoopa: (720) psychic / ghost type§
-Volcanion: (721) fire / water type§
-Rowlet: (722) grass / flying type§
-Dartrix: (723) grass / flying type§
-Decidueye: (724) grass / ghost type§
+Yveltal: (717) dark/flying type§
+Zygarde: (718) dragon/ground type§
+Diancie: (719) rock/fairy type§
+Hoopa: (720) psychic/ghost type§
+Volcanion: (721) fire/water type§
+Rowlet: (722) grass/flying type§
+Dartrix: (723) grass/flying type§
+Decidueye: (724) grass/ghost type§
 Litten: (725) fire type§
 Torracat: (726) fire type§
-Incineroar: (727) fire / dark type§
+Incineroar: (727) fire/dark type§
 Popplio: (728) water type§
 Brionne: (729) water type§
-Primarina: (730) water / fairy type§
-Pikipek: (731) normal / flying type§
-Trumbeak: (732) normal / flying type§
-Toucannon: (733) normal / flying type§
+Primarina: (730) water/fairy type§
+Pikipek: (731) normal/flying type§
+Trumbeak: (732) normal/flying type§
+Toucannon: (733) normal/flying type§
 Yungoos: (734) normal type§
 Gumshoos: (735) normal type§
 Grubbin: (736) bug type§
-Charjabug: (737) bug / electric type§
-Vikavolt: (738) bug / electric type§
+Charjabug: (737) bug/electric type§
+Vikavolt: (738) bug/electric type§
 Crabrawler: (739) fighting type§
-Crabominable: (740) fighting / ice type§
-Oricorio: (741) fire / flying type§
-Cutiefly: (742) bug / fairy type§
-Ribombee: (743) bug / fairy type§
+Crabominable: (740) fighting/ice type§
+Oricorio: (741) fire/flying type§
+Cutiefly: (742) bug/fairy type§
+Ribombee: (743) bug/fairy type§
 Rockruff: (744) rock type§
 Lycanroc: (745) rock type§
 Wishiwashi: (746) water type§
-Mareanie: (747) poison / water type§
-Toxapex: (748) poison / water type§
+Mareanie: (747) poison/water type§
+Toxapex: (748) poison/water type§
 Mudbray: (749) ground type§
 Mudsdale: (750) ground type§
-Dewpider: (751) water / bug type§
-Araquanid: (752) water / bug type§
+Dewpider: (751) water/bug type§
+Araquanid: (752) water/bug type§
 Fomantis: (753) grass type§
 Lurantis: (754) grass type§
-Morelull: (755) grass / fairy type§
-Shiinotic: (756) grass / fairy type§
-Salandit: (757) poison / fire type§
-Salazzle: (758) poison / fire type§
-Stufful: (759) normal / fighting type§
-Bewear: (760) normal / fighting type§
+Morelull: (755) grass/fairy type§
+Shiinotic: (756) grass/fairy type§
+Salandit: (757) poison/fire type§
+Salazzle: (758) poison/fire type§
+Stufful: (759) normal/fighting type§
+Bewear: (760) normal/fighting type§
 Bounsweet: (761) grass type§
 Steenee: (762) grass type§
 Tsareena: (763) grass type§
 Comfey: (764) fairy type§
-Oranguru: (765) normal / psychic type§
+Oranguru: (765) normal/psychic type§
 Passimian: (766) fighting type§
-Wimpod: (767) bug / water type§
-Golisopod: (768) bug / water type§
-Sandygast: (769) ghost / ground type§
-Palossand: (770) ghost / ground type§
+Wimpod: (767) bug/water type§
+Golisopod: (768) bug/water type§
+Sandygast: (769) ghost/ground type§
+Palossand: (770) ghost/ground type§
 Pyukumuku: (771) water type§
-Type: (772) null / normal type§
+Type: (772) null/normal type§
 Silvally: (773) normal type§
-Minior: (774) rock / flying type§
+Minior: (774) rock/flying type§
 Komala: (775) normal type§
-Turtonator: (776) fire / dragon type§
-Togedemaru: (777) electric / steel type§
-Mimikyu: (778) ghost / fairy type§
-Bruxish: (779) water / psychic type§
-Drampa: (780) normal / dragon type§
-Dhelmise: (781) ghost / grass type§
+Turtonator: (776) fire/dragon type§
+Togedemaru: (777) electric/steel type§
+Mimikyu: (778) ghost/fairy type§
+Bruxish: (779) water/psychic type§
+Drampa: (780) normal/dragon type§
+Dhelmise: (781) ghost/grass type§
 Jangmo-o: (782) dragon type§
-Hakamo-o: (783) dragon / fighting type§
-Kommo-o: (784) dragon / fighting type§
-Tapu Koko: (785) electric / fairy type§
-Tapu Lele: (786) psychic / fairy type§
-Tapu Bulu: (787) grass / fairy type§
-Tapu Fini: (788) water / fairy type§
+Hakamo-o: (783) dragon/fighting type§
+Kommo-o: (784) dragon/fighting type§
+Tapu Koko: (785) electric/fairy type§
+Tapu Lele: (786) psychic/fairy type§
+Tapu Bulu: (787) grass/fairy type§
+Tapu Fini: (788) water/fairy type§
 Cosmog: (789) psychic type§
 Cosmoem: (790) psychic type§
-Solgaleo: (791) psychic / steel type§
-Lunala: (792) psychic / ghost type§
-Nihilego: (793) rock / poison type§
-Buzzwole: (794) bug / fighting type§
-Pheromosa: (795) bug / fighting type§
+Solgaleo: (791) psychic/steel type§
+Lunala: (792) psychic/ghost type§
+Nihilego: (793) rock/poison type§
+Buzzwole: (794) bug/fighting type§
+Pheromosa: (795) bug/fighting type§
 Xurkitree: (796) electric type§
-Celesteela: (797) steel / flying type§
-Kartana: (798) grass / steel type§
-Guzzlord: (799) dark / dragon type§
+Celesteela: (797) steel/flying type§
+Kartana: (798) grass/steel type§
+Guzzlord: (799) dark/dragon type§
 Necrozma: (800) psychic type§
-Magearna: (801) steel / fairy type§
-Marshadow: (802) fighting / ghost type§
+Magearna: (801) steel/fairy type§
+Marshadow: (802) fighting/ghost type§
 Poipole: (803) poison type§
-Naganadel: (804) poison / dragon type§
-Stakataka: (805) rock / steel type§
-Blacephalon: (806) fire / ghost type§
+Naganadel: (804) poison/dragon type§
+Stakataka: (805) rock/steel type§
+Blacephalon: (806) fire/ghost type§
 Zeraora: (807) electric type§
 Meltan: (808) steel type§
 Melmetal: (809) steel type§
@@ -820,10 +820,10 @@ Skwovet: (819) normal type§
 Greedent: (820) normal type§
 Rookidee: (821) flying type§
 Corvisquire: (822) flying type§
-Corviknight: (823) flying / steel type§
+Corviknight: (823) flying/steel type§
 Blipbug: (824) bug type§
-Dottler: (825) bug / psychic type§
-Orbeetle: (826) bug / psychic type§
+Dottler: (825) bug/psychic type§
+Orbeetle: (826) bug/psychic type§
 Nickit: (827) dark type§
 Thievul: (828) dark type§
 Gossifleur: (829) grass type§
@@ -831,219 +831,219 @@ Eldegoss: (830) grass type§
 Wooloo: (831) normal type§
 Dubwool: (832) normal type§
 Chewtle: (833) water type§
-Drednaw: (834) water / rock type§
+Drednaw: (834) water/rock type§
 Yamper: (835) electric type§
 Boltund: (836) electric type§
 Rolycoly: (837) rock type§
-Carkol: (838) rock / fire type§
-Coalossal: (839) rock / fire type§
-Applin: (840) grass / dragon type§
-Flapple: (841) grass / dragon type§
-Appletun: (842) grass / dragon type§
+Carkol: (838) rock/fire type§
+Coalossal: (839) rock/fire type§
+Applin: (840) grass/dragon type§
+Flapple: (841) grass/dragon type§
+Appletun: (842) grass/dragon type§
 Silicobra: (843) ground type§
 Sandaconda: (844) ground type§
-Cramorant: (845) flying / water type§
+Cramorant: (845) flying/water type§
 Arrokuda: (846) water type§
 Barraskewda: (847) water type§
-Toxel: (848) electric / poison type§
-Toxtricity: (849) electric / poison type§
-Sizzlipede: (850) fire / bug type§
-Centiskorch: (851) fire / bug type§
+Toxel: (848) electric/poison type§
+Toxtricity: (849) electric/poison type§
+Sizzlipede: (850) fire/bug type§
+Centiskorch: (851) fire/bug type§
 Clobbopus: (852) fighting type§
 Grapploct: (853) fighting type§
 Sinistea: (854) ghost type§
 Polteageist: (855) ghost type§
 Hatenna: (856) psychic type§
 Hattrem: (857) psychic type§
-Hatterene: (858) psychic / fairy type§
-Impidimp: (859) dark / fairy type§
-Morgrem: (860) dark / fairy type§
-Grimmsnarl: (861) dark / fairy type§
-Obstagoon: (862) dark / normal type§
+Hatterene: (858) psychic/fairy type§
+Impidimp: (859) dark/fairy type§
+Morgrem: (860) dark/fairy type§
+Grimmsnarl: (861) dark/fairy type§
+Obstagoon: (862) dark/normal type§
 Perrserker: (863) steel type§
 Cursola: (864) ghost type§
 Sirfetchd: (865) fighting type§
-Mr.Rime: (866) ice / psychic type§
-Runerigus: (867) ground / ghost type§
+Mr.Rime: (866) ice/psychic type§
+Runerigus: (867) ground/ghost type§
 Milcery: (868) fairy type§
 Alcremie: (869) fairy type§
 Falinks: (870) fighting type§
 Pincurchin: (871) electric type§
-Snom: (872) ice / bug type§
-Frosmoth: (873) ice / bug type§
+Snom: (872) ice/bug type§
+Frosmoth: (873) ice/bug type§
 Stonjourner: (874) rock type§
 Eiscue: (875) ice type§
-Indeedee: (876) psychic / normal type§
-Morpeko: (877) electric / dark type§
+Indeedee: (876) psychic/normal type§
+Morpeko: (877) electric/dark type§
 Cufant: (878) steel type§
 Copperajah: (879) steel type§
-Dracozolt: (880) electric / dragon type§
-Arctozolt: (881) electric / ice type§
-Dracovish: (882) water / dragon type§
-Arctovish: (883) water / ice type§
-Duraludon: (884) steel / dragon type§
-Dreepy: (885) dragon / ghost type§
-Drakloak: (886) dragon / ghost type§
-Dragapult: (887) dragon / ghost type§
+Dracozolt: (880) electric/dragon type§
+Arctozolt: (881) electric/ice type§
+Dracovish: (882) water/dragon type§
+Arctovish: (883) water/ice type§
+Duraludon: (884) steel/dragon type§
+Dreepy: (885) dragon/ghost type§
+Drakloak: (886) dragon/ghost type§
+Dragapult: (887) dragon/ghost type§
 Zacian: (888) fairy type§
 Zamazenta: (889) fighting type§
-Eternatus: (890) poison / dragon type§
+Eternatus: (890) poison/dragon type§
 Kubfu: (891) fighting type§
-Urshifu: (892) fighting / dark type§
-Zarude: (893) dark / grass type§
+Urshifu: (892) fighting/dark type§
+Zarude: (893) dark/grass type§
 Regieleki: (894) electric type§
 Regidrago: (895) dragon type§
 Glastrier: (896) ice type§
 Spectrier: (897) ghost type§
-Calyrex: (898) psychic / grass type§
-Wyrdeer: (899) normal / psychic type§
-Kleavor: (900) bug / rock type§
-Ursaluna: (901) ground / normal type§
-Basculegion: (902) water / ghost type§
-Sneasler: (903) fighting / poison type§
-Overqwil: (904) dark / poison type§
-Enamorus: (905) fairy / flying type§
+Calyrex: (898) psychic/grass type§
+Wyrdeer: (899) normal/psychic type§
+Kleavor: (900) bug/rock type§
+Ursaluna: (901) ground/normal type§
+Basculegion: (902) water/ghost type§
+Sneasler: (903) fighting/poison type§
+Overqwil: (904) dark/poison type§
+Enamorus: (905) fairy/flying type§
 Sprigatito: (906) grass type§
 Floragato: (907) grass type§
-Meowscarada: (908) grass / dark type§
+Meowscarada: (908) grass/dark type§
 Fuecoco: (909) fire type§
 Crocalor: (910) fire type§
-Skeledirge: (911) fire / ghost type§
+Skeledirge: (911) fire/ghost type§
 Quaxly: (912) water type§
 Quaxwell: (913) water type§
-Quaquaval: (914) water / fighting type§
+Quaquaval: (914) water/fighting type§
 Lechonk: (915) normal type§
 Oinkologne: (916) normal type§
 Tarountula: (917) bug type§
 Spidops: (918) bug type§
 Nymble: (919) bug type§
-Lokix: (920) bug / dark type§
+Lokix: (920) bug/dark type§
 Pawmi: (921) electric type§
-Pawmo: (922) electric / fighting type§
-Pawmot: (923) electric / fighting type§
+Pawmo: (922) electric/fighting type§
+Pawmot: (923) electric/fighting type§
 Tandemaus: (924) normal type§
 Maushold: (925) normal type§
 Fidough: (926) fairy type§
 Dachsbun: (927) fairy type§
-Smoliv: (928) grass / normal type§
-Dolliv: (929) grass / normal type§
-Arboliva: (930) grass / normal type§
-Squawkabilly: (931) normal / flying type§
+Smoliv: (928) grass/normal type§
+Dolliv: (929) grass/normal type§
+Arboliva: (930) grass/normal type§
+Squawkabilly: (931) normal/flying type§
 Nacli: (932) rock type§
 Naclstack: (933) rock type§
 Garganacl: (934) rock type§
 Charcadet: (935) fire type§
-Armarouge: (936) fire / psychic type§
-Ceruledge: (937) fire / ghost type§
+Armarouge: (936) fire/psychic type§
+Ceruledge: (937) fire/ghost type§
 Tadbulb: (938) electric type§
 Bellibolt: (939) electric type§
-Wattrel: (940) electric / flying type§
-Kilowattrel: (941) electric / flying type§
+Wattrel: (940) electric/flying type§
+Kilowattrel: (941) electric/flying type§
 Maschiff: (942) dark type§
 Mabosstiff: (943) dark type§
-Shroodle: (944) poison / normal type§
-Grafaiai: (945) poison / normal type§
-Bramblin: (946) grass / ghost type§
-Brambleghast: (947) grass / ghost type§
-Toedscool: (948) ground / grass type§
-Toedscruel: (949) ground / grass type§
+Shroodle: (944) poison/normal type§
+Grafaiai: (945) poison/normal type§
+Bramblin: (946) grass/ghost type§
+Brambleghast: (947) grass/ghost type§
+Toedscool: (948) ground/grass type§
+Toedscruel: (949) ground/grass type§
 Klawf: (950) rock type§
 Capsakid: (951) grass type§
-Scovillain: (952) grass / fire type§
+Scovillain: (952) grass/fire type§
 Rellor: (953) bug type§
-Rabsca: (954) bug / psychic type§
+Rabsca: (954) bug/psychic type§
 Flittle: (955) psychic type§
 Espathra: (956) psychic type§
-Tinkatink: (957) fairy / steel type§
-Tinkatuff: (958) fairy / steel type§
-Tinkaton: (959) fairy / steel type§
+Tinkatink: (957) fairy/steel type§
+Tinkatuff: (958) fairy/steel type§
+Tinkaton: (959) fairy/steel type§
 Wiglett: (960) water type§
 Wugtrio: (961) water type§
-Bombirdier: (962) flying / dark type§
+Bombirdier: (962) flying/dark type§
 Finizen: (963) water type§
 Palafin: (964) water type§
-Varoom: (965) steel / poison type§
-Revavroom: (966) steel / poison type§
-Cyclizar: (967) dragon / normal type§
+Varoom: (965) steel/poison type§
+Revavroom: (966) steel/poison type§
+Cyclizar: (967) dragon/normal type§
 Orthworm: (968) steel type§
-Glimmet: (969) rock / poison type§
-Glimmora: (970) rock / poison type§
+Glimmet: (969) rock/poison type§
+Glimmora: (970) rock/poison type§
 Greavard: (971) ghost type§
 Houndstone: (972) ghost type§
-Flamigo: (973) flying / fighting type§
+Flamigo: (973) flying/fighting type§
 Cetoddle: (974) ice type§
 Cetitan: (975) ice type§
-Veluza: (976) water / psychic type§
+Veluza: (976) water/psychic type§
 Dondozo: (977) water type§
-Tatsugiri: (978) dragon / water type§
-Annihilape: (979) fighting / ghost type§
-Clodsire: (980) poison / ground type§
-Farigiraf: (981) normal / psychic type§
+Tatsugiri: (978) dragon/water type§
+Annihilape: (979) fighting/ghost type§
+Clodsire: (980) poison/ground type§
+Farigiraf: (981) normal/psychic type§
 Dudunsparce: (982) normal type§
-Kingambit: (983) dark / steel type§
-GreatTusk: (984) ground / fighting type§
-ScreamTail: (985) fairy / psychic type§
-BruteBonnet: (986) grass / dark type§
-FlutterMane: (987) ghost / fairy type§
-SlitherWing: (988) bug / fighting type§
-SandyShocks: (989) electric / ground type§
-IronTreads: (990) ground / steel type§
-IronBundle: (991) ice / water type§
-IronHands: (992) fighting / electric type§
-IronJugulis: (993) dark / flying type§
-IronMoth: (994) fire / poison type§
-IronThorns: (995) rock / electric type§
-Frigibax: (996) dragon / ice type§
-Arctibax: (997) dragon / ice type§
-Baxcalibur: (998) dragon / ice type§
+Kingambit: (983) dark/steel type§
+GreatTusk: (984) ground/fighting type§
+ScreamTail: (985) fairy/psychic type§
+BruteBonnet: (986) grass/dark type§
+FlutterMane: (987) ghost/fairy type§
+SlitherWing: (988) bug/fighting type§
+SandyShocks: (989) electric/ground type§
+IronTreads: (990) ground/steel type§
+IronBundle: (991) ice/water type§
+IronHands: (992) fighting/electric type§
+IronJugulis: (993) dark/flying type§
+IronMoth: (994) fire/poison type§
+IronThorns: (995) rock/electric type§
+Frigibax: (996) dragon/ice type§
+Arctibax: (997) dragon/ice type§
+Baxcalibur: (998) dragon/ice type§
 Gimmighoul: (999) ghost type§
-Gholdengo: (1000) steel / ghost type§
-Wo-Chien: (1001) dark / grass type§
-Chien-Pao: (1002) dark / ice type§
-Ting-Lu: (1003) dark / ground type§
-Chi-Yu: (1004) dark / fire type§
-Roaring Moon: (1005) dragon / dark type§
-Iron Valiant: (1006) fairy / fighting type§
-Koraidon: (1007) fighting / dragon type§
-Miraidon: (1008) electric / dragon type§
-Walking Wake: (1009) water / dragon type§
-Iron Leaves: (1010) grass / psychic type§
-Dipplin: (1011) grass / dragon type§
-Poltchageist: (1012) grass / ghost type§
-Sinistcha: (1013) grass / ghost type§
-Okidogi: (1014) poison / fighting type§
-Munkidori: (1015) poison / psychic type§
-Fezandipiti: (1016) poison / fairy type§
+Gholdengo: (1000) steel/ghost type§
+Wo-Chien: (1001) dark/grass type§
+Chien-Pao: (1002) dark/ice type§
+Ting-Lu: (1003) dark/ground type§
+Chi-Yu: (1004) dark/fire type§
+Roaring Moon: (1005) dragon/dark type§
+Iron Valiant: (1006) fairy/fighting type§
+Koraidon: (1007) fighting/dragon type§
+Miraidon: (1008) electric/dragon type§
+Walking Wake: (1009) water/dragon type§
+Iron Leaves: (1010) grass/psychic type§
+Dipplin: (1011) grass/dragon type§
+Poltchageist: (1012) grass/ghost type§
+Sinistcha: (1013) grass/ghost type§
+Okidogi: (1014) poison/fighting type§
+Munkidori: (1015) poison/psychic type§
+Fezandipiti: (1016) poison/fairy type§
 Ogerpon: (1017) grass type§
-Archaludon: (1018) steel / dragon type§
-Hydrapple: (1019) grass / dragon type§
-GougingFire: (1020) fire / dragon type§
-RagingBolt: (1021) electric / dragon type§
-IronBoulder: (1022) rock / psychic type§
-IronCrown: (1023) steel / psychic type§
+Archaludon: (1018) steel/dragon type§
+Hydrapple: (1019) grass/dragon type§
+GougingFire: (1020) fire/dragon type§
+RagingBolt: (1021) electric/dragon type§
+IronBoulder: (1022) rock/psychic type§
+IronCrown: (1023) steel/psychic type§
 Terapagos: (1024) normal type§
-bulbasaur: (1) grass / poison type§
-ivysaur: (2) grass / poison type§
-venusaur: (3) grass / poison type§
+bulbasaur: (1) grass/poison type§
+ivysaur: (2) grass/poison type§
+venusaur: (3) grass/poison type§
 charmander: (4) fire type§
 charmeleon: (5) fire type§
-charizard: (6) fire / flying type§
+charizard: (6) fire/flying type§
 squirtle: (7) water type§
 wartortle: (8) water type§
 blastoise: (9) water type§
 caterpie: (10) bug type§
 metapod: (11) bug type§
-butterfree: (12) bug / flying type§
-weedle: (13) bug / poison type§
-kakuna: (14) bug / poison type§
-beedrill: (15) bug / poison type§
-pidgey: (16) normal / flying type§
-pidgeotto: (17) normal / flying type§
-pidgeot: (18) normal / flying type§
+butterfree: (12) bug/flying type§
+weedle: (13) bug/poison type§
+kakuna: (14) bug/poison type§
+beedrill: (15) bug/poison type§
+pidgey: (16) normal/flying type§
+pidgeotto: (17) normal/flying type§
+pidgeot: (18) normal/flying type§
 rattata: (19) normal type§
 raticate: (20) normal type§
-spearow: (21) normal / flying type§
-fearow: (22) normal / flying type§
+spearow: (21) normal/flying type§
+fearow: (22) normal/flying type§
 ekans: (23) poison type§
 arbok: (24) poison type§
 pikachu: (25) electric type§
@@ -1052,25 +1052,25 @@ sandshrew: (27) ground type§
 sandslash: (28) ground type§
 nidoran: (29) poison type§
 nidorina: (30) poison type§
-nidoqueen: (31) poison / ground type§
+nidoqueen: (31) poison/ground type§
 nidoran: (32) poison type§
 nidorino: (33) poison type§
-nidoking: (34) poison / ground type§
+nidoking: (34) poison/ground type§
 clefairy: (35) fairy type§
 clefable: (36) fairy type§
 vulpix: (37) fire type§
 ninetales: (38) fire type§
-jigglypuff: (39) normal / fairy type§
-wigglytuff: (40) normal / fairy type§
-zubat: (41) poison / flying type§
-golbat: (42) poison / flying type§
-oddish: (43) grass / poison type§
-gloom: (44) grass / poison type§
-vileplume: (45) grass / poison type§
-paras: (46) bug / grass type§
-parasect: (47) bug / grass type§
-venonat: (48) bug / poison type§
-venomoth: (49) bug / poison type§
+jigglypuff: (39) normal/fairy type§
+wigglytuff: (40) normal/fairy type§
+zubat: (41) poison/flying type§
+golbat: (42) poison/flying type§
+oddish: (43) grass/poison type§
+gloom: (44) grass/poison type§
+vileplume: (45) grass/poison type§
+paras: (46) bug/grass type§
+parasect: (47) bug/grass type§
+venonat: (48) bug/poison type§
+venomoth: (49) bug/poison type§
 diglett: (50) ground type§
 dugtrio: (51) ground type§
 meowth: (52) normal type§
@@ -1083,48 +1083,48 @@ growlithe: (58) fire type§
 arcanine: (59) fire type§
 poliwag: (60) water type§
 poliwhirl: (61) water type§
-poliwrath: (62) water / fighting type§
+poliwrath: (62) water/fighting type§
 abra: (63) psychic type§
 kadabra: (64) psychic type§
 alakazam: (65) psychic type§
 machop: (66) fighting type§
 machoke: (67) fighting type§
 machamp: (68) fighting type§
-bellsprout: (69) grass / poison type§
-weepinbell: (70) grass / poison type§
-victreebel: (71) grass / poison type§
-tentacool: (72) water / poison type§
-tentacruel: (73) water / poison type§
-geodude: (74) rock / ground type§
-graveler: (75) rock / ground type§
-golem: (76) rock / ground type§
+bellsprout: (69) grass/poison type§
+weepinbell: (70) grass/poison type§
+victreebel: (71) grass/poison type§
+tentacool: (72) water/poison type§
+tentacruel: (73) water/poison type§
+geodude: (74) rock/ground type§
+graveler: (75) rock/ground type§
+golem: (76) rock/ground type§
 ponyta: (77) fire type§
 rapidash: (78) fire type§
-slowpoke: (79) water / psychic type§
-slowbro: (80) water / psychic type§
-magnemite: (81) electric / steel type§
-magneton: (82) electric / steel type§
-farfetchd: (83) normal / flying type§
-doduo: (84) normal / flying type§
-dodrio: (85) normal / flying type§
+slowpoke: (79) water/psychic type§
+slowbro: (80) water/psychic type§
+magnemite: (81) electric/steel type§
+magneton: (82) electric/steel type§
+farfetchd: (83) normal/flying type§
+doduo: (84) normal/flying type§
+dodrio: (85) normal/flying type§
 seel: (86) water type§
-dewgong: (87) water / ice type§
+dewgong: (87) water/ice type§
 grimer: (88) poison type§
 muk: (89) poison type§
 shellder: (90) water type§
-cloyster: (91) water / ice type§
-gastly: (92) ghost / poison type§
-haunter: (93) ghost / poison type§
-gengar: (94) ghost / poison type§
-onix: (95) rock / ground type§
+cloyster: (91) water/ice type§
+gastly: (92) ghost/poison type§
+haunter: (93) ghost/poison type§
+gengar: (94) ghost/poison type§
+onix: (95) rock/ground type§
 drowzee: (96) psychic type§
 hypno: (97) psychic type§
 krabby: (98) water type§
 kingler: (99) water type§
 voltorb: (100) electric type§
 electrode: (101) electric type§
-exeggcute: (102) grass / psychic type§
-exeggutor: (103) grass / psychic type§
+exeggcute: (102) grass/psychic type§
+exeggutor: (103) grass/psychic type§
 cubone: (104) ground type§
 marowak: (105) ground type§
 hitmonlee: (106) fighting type§
@@ -1132,8 +1132,8 @@ hitmonchan: (107) fighting type§
 lickitung: (108) normal type§
 koffing: (109) poison type§
 weezing: (110) poison type§
-rhyhorn: (111) ground / rock type§
-rhydon: (112) ground / rock type§
+rhyhorn: (111) ground/rock type§
+rhydon: (112) ground/rock type§
 chansey: (113) normal type§
 tangela: (114) grass type§
 kangaskhan: (115) normal type§
@@ -1142,35 +1142,35 @@ seadra: (117) water type§
 goldeen: (118) water type§
 seaking: (119) water type§
 staryu: (120) water type§
-starmie: (121) water / psychic type§
-mr. mime: (122) psychic / fairy type§
-scyther: (123) bug / flying type§
-jynx: (124) ice / psychic type§
+starmie: (121) water/psychic type§
+mr. mime: (122) psychic/fairy type§
+scyther: (123) bug/flying type§
+jynx: (124) ice/psychic type§
 electabuzz: (125) electric type§
 magmar: (126) fire type§
 pinsir: (127) bug type§
 tauros: (128) normal type§
 magikarp: (129) water type§
-gyarados: (130) water / flying type§
-lapras: (131) water / ice type§
+gyarados: (130) water/flying type§
+lapras: (131) water/ice type§
 ditto: (132) normal type§
 eevee: (133) normal type§
 vaporeon: (134) water type§
 jolteon: (135) electric type§
 flareon: (136) fire type§
 porygon: (137) normal type§
-omanyte: (138) rock / water type§
-omastar: (139) rock / water type§
-kabuto: (140) rock / water type§
-kabutops: (141) rock / water type§
-aerodactyl: (142) rock / flying type§
+omanyte: (138) rock/water type§
+omastar: (139) rock/water type§
+kabuto: (140) rock/water type§
+kabutops: (141) rock/water type§
+aerodactyl: (142) rock/flying type§
 snorlax: (143) normal type§
-articuno: (144) ice / flying type§
-zapdos: (145) electric / flying type§
-moltres: (146) fire / flying type§
+articuno: (144) ice/flying type§
+zapdos: (145) electric/flying type§
+moltres: (146) fire/flying type§
 dratini: (147) dragon type§
 dragonair: (148) dragon type§
-dragonite: (149) dragon / flying type§
+dragonite: (149) dragon/flying type§
 mewtwo: (150) psychic type§
 mew: (151) psychic type§
 chikorita: (152) grass type§
@@ -1184,74 +1184,74 @@ croconaw: (159) water type§
 feraligatr: (160) water type§
 sentret: (161) normal type§
 furret: (162) normal type§
-hoothoot: (163) normal / flying type§
-noctowl: (164) normal / flying type§
-ledyba: (165) bug / flying type§
-ledian: (166) bug / flying type§
-spinarak: (167) bug / poison type§
-ariados: (168) bug / poison type§
-crobat: (169) poison / flying type§
-chinchou: (170) water / electric type§
-lanturn: (171) water / electric type§
+hoothoot: (163) normal/flying type§
+noctowl: (164) normal/flying type§
+ledyba: (165) bug/flying type§
+ledian: (166) bug/flying type§
+spinarak: (167) bug/poison type§
+ariados: (168) bug/poison type§
+crobat: (169) poison/flying type§
+chinchou: (170) water/electric type§
+lanturn: (171) water/electric type§
 pichu: (172) electric type§
 cleffa: (173) fairy type§
-igglybuff: (174) normal / fairy type§
+igglybuff: (174) normal/fairy type§
 togepi: (175) fairy type§
-togetic: (176) fairy / flying type§
-natu: (177) psychic / flying type§
-xatu: (178) psychic / flying type§
+togetic: (176) fairy/flying type§
+natu: (177) psychic/flying type§
+xatu: (178) psychic/flying type§
 mareep: (179) electric type§
 flaaffy: (180) electric type§
 ampharos: (181) electric type§
 bellossom: (182) grass type§
-marill: (183) water / fairy type§
-azumarill: (184) water / fairy type§
+marill: (183) water/fairy type§
+azumarill: (184) water/fairy type§
 sudowoodo: (185) rock type§
 politoed: (186) water type§
-hoppip: (187) grass / flying type§
-skiploom: (188) grass / flying type§
-jumpluff: (189) grass / flying type§
+hoppip: (187) grass/flying type§
+skiploom: (188) grass/flying type§
+jumpluff: (189) grass/flying type§
 aipom: (190) normal type§
 sunkern: (191) grass type§
 sunflora: (192) grass type§
-yanma: (193) bug / flying type§
-wooper: (194) water / ground type§
-quagsire: (195) water / ground type§
+yanma: (193) bug/flying type§
+wooper: (194) water/ground type§
+quagsire: (195) water/ground type§
 espeon: (196) psychic type§
 umbreon: (197) dark type§
-murkrow: (198) dark / flying type§
-slowking: (199) water / psychic type§
+murkrow: (198) dark/flying type§
+slowking: (199) water/psychic type§
 misdreavus: (200) ghost type§
 unown: (201) psychic type§
 wobbuffet: (202) psychic type§
-girafarig: (203) normal / psychic type§
+girafarig: (203) normal/psychic type§
 pineco: (204) bug type§
-forretress: (205) bug / steel type§
+forretress: (205) bug/steel type§
 dunsparce: (206) normal type§
-gligar: (207) ground / flying type§
-steelix: (208) steel / ground type§
+gligar: (207) ground/flying type§
+steelix: (208) steel/ground type§
 snubbull: (209) fairy type§
 granbull: (210) fairy type§
-qwilfish: (211) water / poison type§
-scizor: (212) bug / steel type§
-shuckle: (213) bug / rock type§
-heracross: (214) bug / fighting type§
-sneasel: (215) dark / ice type§
+qwilfish: (211) water/poison type§
+scizor: (212) bug/steel type§
+shuckle: (213) bug/rock type§
+heracross: (214) bug/fighting type§
+sneasel: (215) dark/ice type§
 teddiursa: (216) normal type§
 ursaring: (217) normal type§
 slugma: (218) fire type§
-magcargo: (219) fire / rock type§
-swinub: (220) ice / ground type§
-piloswine: (221) ice / ground type§
-corsola: (222) water / rock type§
+magcargo: (219) fire/rock type§
+swinub: (220) ice/ground type§
+piloswine: (221) ice/ground type§
+corsola: (222) water/rock type§
 remoraid: (223) water type§
 octillery: (224) water type§
-delibird: (225) ice / flying type§
-mantine: (226) water / flying type§
-skarmory: (227) steel / flying type§
-houndour: (228) dark / fire type§
-houndoom: (229) dark / fire type§
-kingdra: (230) water / dragon type§
+delibird: (225) ice/flying type§
+mantine: (226) water/flying type§
+skarmory: (227) steel/flying type§
+houndour: (228) dark/fire type§
+houndoom: (229) dark/fire type§
+kingdra: (230) water/dragon type§
 phanpy: (231) ground type§
 donphan: (232) ground type§
 porygon2: (233) normal type§
@@ -1259,7 +1259,7 @@ stantler: (234) normal type§
 smeargle: (235) normal type§
 tyrogue: (236) fighting type§
 hitmontop: (237) fighting type§
-smoochum: (238) ice / psychic type§
+smoochum: (238) ice/psychic type§
 elekid: (239) electric type§
 magby: (240) fire type§
 miltank: (241) normal type§
@@ -1267,109 +1267,109 @@ blissey: (242) normal type§
 raikou: (243) electric type§
 entei: (244) fire type§
 suicune: (245) water type§
-larvitar: (246) rock / ground type§
-pupitar: (247) rock / ground type§
-tyranitar: (248) rock / dark type§
-lugia: (249) psychic / flying type§
-ho-oh: (250) fire / flying type§
-celebi: (251) psychic / grass type§
+larvitar: (246) rock/ground type§
+pupitar: (247) rock/ground type§
+tyranitar: (248) rock/dark type§
+lugia: (249) psychic/flying type§
+ho-oh: (250) fire/flying type§
+celebi: (251) psychic/grass type§
 treecko: (252) grass type§
 grovyle: (253) grass type§
 sceptile: (254) grass type§
 torchic: (255) fire type§
-combusken: (256) fire / fighting type§
-blaziken: (257) fire / fighting type§
+combusken: (256) fire/fighting type§
+blaziken: (257) fire/fighting type§
 mudkip: (258) water type§
-marshtomp: (259) water / ground type§
-swampert: (260) water / ground type§
+marshtomp: (259) water/ground type§
+swampert: (260) water/ground type§
 poochyena: (261) dark type§
 mightyena: (262) dark type§
 zigzagoon: (263) normal type§
 linoone: (264) normal type§
 wurmple: (265) bug type§
 silcoon: (266) bug type§
-beautifly: (267) bug / flying type§
+beautifly: (267) bug/flying type§
 cascoon: (268) bug type§
-dustox: (269) bug / poison type§
-lotad: (270) water / grass type§
-lombre: (271) water / grass type§
-ludicolo: (272) water / grass type§
+dustox: (269) bug/poison type§
+lotad: (270) water/grass type§
+lombre: (271) water/grass type§
+ludicolo: (272) water/grass type§
 seedot: (273) grass type§
-nuzleaf: (274) grass / dark type§
-shiftry: (275) grass / dark type§
-taillow: (276) normal / flying type§
-swellow: (277) normal / flying type§
-wingull: (278) water / flying type§
-pelipper: (279) water / flying type§
-ralts: (280) psychic / fairy type§
-kirlia: (281) psychic / fairy type§
-gardevoir: (282) psychic / fairy type§
-surskit: (283) bug / water type§
-masquerain: (284) bug / flying type§
+nuzleaf: (274) grass/dark type§
+shiftry: (275) grass/dark type§
+taillow: (276) normal/flying type§
+swellow: (277) normal/flying type§
+wingull: (278) water/flying type§
+pelipper: (279) water/flying type§
+ralts: (280) psychic/fairy type§
+kirlia: (281) psychic/fairy type§
+gardevoir: (282) psychic/fairy type§
+surskit: (283) bug/water type§
+masquerain: (284) bug/flying type§
 shroomish: (285) grass type§
-breloom: (286) grass / fighting type§
+breloom: (286) grass/fighting type§
 slakoth: (287) normal type§
 vigoroth: (288) normal type§
 slaking: (289) normal type§
-nincada: (290) bug / ground type§
-ninjask: (291) bug / flying type§
-shedinja: (292) bug / ghost type§
+nincada: (290) bug/ground type§
+ninjask: (291) bug/flying type§
+shedinja: (292) bug/ghost type§
 whismur: (293) normal type§
 loudred: (294) normal type§
 exploud: (295) normal type§
 makuhita: (296) fighting type§
 hariyama: (297) fighting type§
-azurill: (298) normal / fairy type§
+azurill: (298) normal/fairy type§
 nosepass: (299) rock type§
 skitty: (300) normal type§
 delcatty: (301) normal type§
-sableye: (302) dark / ghost type§
-mawile: (303) steel / fairy type§
-aron: (304) steel / rock type§
-lairon: (305) steel / rock type§
-aggron: (306) steel / rock type§
-meditite: (307) fighting / psychic type§
-medicham: (308) fighting / psychic type§
+sableye: (302) dark/ghost type§
+mawile: (303) steel/fairy type§
+aron: (304) steel/rock type§
+lairon: (305) steel/rock type§
+aggron: (306) steel/rock type§
+meditite: (307) fighting/psychic type§
+medicham: (308) fighting/psychic type§
 electrike: (309) electric type§
 manectric: (310) electric type§
 plusle: (311) electric type§
 minun: (312) electric type§
 volbeat: (313) bug type§
 illumise: (314) bug type§
-roselia: (315) grass / poison type§
+roselia: (315) grass/poison type§
 gulpin: (316) poison type§
 swalot: (317) poison type§
-carvanha: (318) water / dark type§
-sharpedo: (319) water / dark type§
+carvanha: (318) water/dark type§
+sharpedo: (319) water/dark type§
 wailmer: (320) water type§
 wailord: (321) water type§
-numel: (322) fire / ground type§
-camerupt: (323) fire / ground type§
+numel: (322) fire/ground type§
+camerupt: (323) fire/ground type§
 torkoal: (324) fire type§
 spoink: (325) psychic type§
 grumpig: (326) psychic type§
 spinda: (327) normal type§
 trapinch: (328) ground type§
-vibrava: (329) ground / dragon type§
-flygon: (330) ground / dragon type§
+vibrava: (329) ground/dragon type§
+flygon: (330) ground/dragon type§
 cacnea: (331) grass type§
-cacturne: (332) grass / dark type§
-swablu: (333) normal / flying type§
-altaria: (334) dragon / flying type§
+cacturne: (332) grass/dark type§
+swablu: (333) normal/flying type§
+altaria: (334) dragon/flying type§
 zangoose: (335) normal type§
 seviper: (336) poison type§
-lunatone: (337) rock / psychic type§
-solrock: (338) rock / psychic type§
-barboach: (339) water / ground type§
-whiscash: (340) water / ground type§
+lunatone: (337) rock/psychic type§
+solrock: (338) rock/psychic type§
+barboach: (339) water/ground type§
+whiscash: (340) water/ground type§
 corphish: (341) water type§
-crawdaunt: (342) water / dark type§
-baltoy: (343) ground / psychic type§
-claydol: (344) ground / psychic type§
-lileep: (345) rock / grass type§
-cradily: (346) rock / grass type§
-anorith: (347) rock / bug type§
-armaldo: (348) rock / bug type§
+crawdaunt: (342) water/dark type§
+baltoy: (343) ground/psychic type§
+claydol: (344) ground/psychic type§
+lileep: (345) rock/grass type§
+cradily: (346) rock/grass type§
+anorith: (347) rock/bug type§
+armaldo: (348) rock/bug type§
 feebas: (349) water type§
 milotic: (350) water type§
 castform: (351) normal type§
@@ -1378,150 +1378,150 @@ shuppet: (353) ghost type§
 banette: (354) ghost type§
 duskull: (355) ghost type§
 dusclops: (356) ghost type§
-tropius: (357) grass / flying type§
+tropius: (357) grass/flying type§
 chimecho: (358) psychic type§
 absol: (359) dark type§
 wynaut: (360) psychic type§
 snorunt: (361) ice type§
 glalie: (362) ice type§
-spheal: (363) ice / water type§
-sealeo: (364) ice / water type§
-walrein: (365) ice / water type§
+spheal: (363) ice/water type§
+sealeo: (364) ice/water type§
+walrein: (365) ice/water type§
 clamperl: (366) water type§
 huntail: (367) water type§
 gorebyss: (368) water type§
-relicanth: (369) water / rock type§
+relicanth: (369) water/rock type§
 luvdisc: (370) water type§
 bagon: (371) dragon type§
 shelgon: (372) dragon type§
-salamence: (373) dragon / flying type§
-beldum: (374) steel / psychic type§
-metang: (375) steel / psychic type§
-metagross: (376) steel / psychic type§
+salamence: (373) dragon/flying type§
+beldum: (374) steel/psychic type§
+metang: (375) steel/psychic type§
+metagross: (376) steel/psychic type§
 regirock: (377) rock type§
 regice: (378) ice type§
 registeel: (379) steel type§
-latias: (380) dragon / psychic type§
-latios: (381) dragon / psychic type§
+latias: (380) dragon/psychic type§
+latios: (381) dragon/psychic type§
 kyogre: (382) water type§
 groudon: (383) ground type§
-rayquaza: (384) dragon / flying type§
-jirachi: (385) steel / psychic type§
+rayquaza: (384) dragon/flying type§
+jirachi: (385) steel/psychic type§
 deoxys: (386) psychic type§
 turtwig: (387) grass type§
 grotle: (388) grass type§
-torterra: (389) grass / ground type§
+torterra: (389) grass/ground type§
 chimchar: (390) fire type§
-monferno: (391) fire / fighting type§
-infernape: (392) fire / fighting type§
+monferno: (391) fire/fighting type§
+infernape: (392) fire/fighting type§
 piplup: (393) water type§
 prinplup: (394) water type§
-empoleon: (395) water / steel type§
-starly: (396) normal / flying type§
-staravia: (397) normal / flying type§
-staraptor: (398) normal / flying type§
+empoleon: (395) water/steel type§
+starly: (396) normal/flying type§
+staravia: (397) normal/flying type§
+staraptor: (398) normal/flying type§
 bidoof: (399) normal type§
-bibarel: (400) normal / water type§
+bibarel: (400) normal/water type§
 kricketot: (401) bug type§
 kricketune: (402) bug type§
 shinx: (403) electric type§
 luxio: (404) electric type§
 luxray: (405) electric type§
-budew: (406) grass / poison type§
-roserade: (407) grass / poison type§
+budew: (406) grass/poison type§
+roserade: (407) grass/poison type§
 cranidos: (408) rock type§
 rampardos: (409) rock type§
-shieldon: (410) rock / steel type§
-bastiodon: (411) rock / steel type§
+shieldon: (410) rock/steel type§
+bastiodon: (411) rock/steel type§
 burmy: (412) bug type§
-wormadam: (413) bug / grass type§
-mothim: (414) bug / flying type§
-combee: (415) bug / flying type§
-vespiquen: (416) bug / flying type§
+wormadam: (413) bug/grass type§
+mothim: (414) bug/flying type§
+combee: (415) bug/flying type§
+vespiquen: (416) bug/flying type§
 pachirisu: (417) electric type§
 buizel: (418) water type§
 floatzel: (419) water type§
 cherubi: (420) grass type§
 cherrim: (421) grass type§
 shellos: (422) water type§
-gastrodon: (423) water / ground type§
+gastrodon: (423) water/ground type§
 ambipom: (424) normal type§
-drifloon: (425) ghost / flying type§
-drifblim: (426) ghost / flying type§
+drifloon: (425) ghost/flying type§
+drifblim: (426) ghost/flying type§
 buneary: (427) normal type§
 lopunny: (428) normal type§
 mismagius: (429) ghost type§
-honchkrow: (430) dark / flying type§
+honchkrow: (430) dark/flying type§
 glameow: (431) normal type§
 purugly: (432) normal type§
 chingling: (433) psychic type§
-stunky: (434) poison / dark type§
-skuntank: (435) poison / dark type§
-bronzor: (436) steel / psychic type§
-bronzong: (437) steel / psychic type§
+stunky: (434) poison/dark type§
+skuntank: (435) poison/dark type§
+bronzor: (436) steel/psychic type§
+bronzong: (437) steel/psychic type§
 bonsly: (438) rock type§
-mime jr.: (439) psychic / fairy type§
+mime jr.: (439) psychic/fairy type§
 happiny: (440) normal type§
-chatot: (441) normal / flying type§
-spiritomb: (442) ghost / dark type§
-gible: (443) dragon / ground type§
-gabite: (444) dragon / ground type§
-garchomp: (445) dragon / ground type§
+chatot: (441) normal/flying type§
+spiritomb: (442) ghost/dark type§
+gible: (443) dragon/ground type§
+gabite: (444) dragon/ground type§
+garchomp: (445) dragon/ground type§
 munchlax: (446) normal type§
 riolu: (447) fighting type§
-lucario: (448) fighting / steel type§
+lucario: (448) fighting/steel type§
 hippopotas: (449) ground type§
 hippowdon: (450) ground type§
-skorupi: (451) poison / bug type§
-drapion: (452) poison / dark type§
-croagunk: (453) poison / fighting type§
-toxicroak: (454) poison / fighting type§
+skorupi: (451) poison/bug type§
+drapion: (452) poison/dark type§
+croagunk: (453) poison/fighting type§
+toxicroak: (454) poison/fighting type§
 carnivine: (455) grass type§
 finneon: (456) water type§
 lumineon: (457) water type§
-mantyke: (458) water / flying type§
-snover: (459) grass / ice type§
-abomasnow: (460) grass / ice type§
-weavile: (461) dark / ice type§
-magnezone: (462) electric / steel type§
+mantyke: (458) water/flying type§
+snover: (459) grass/ice type§
+abomasnow: (460) grass/ice type§
+weavile: (461) dark/ice type§
+magnezone: (462) electric/steel type§
 lickilicky: (463) normal type§
-rhyperior: (464) ground / rock type§
+rhyperior: (464) ground/rock type§
 tangrowth: (465) grass type§
 electivire: (466) electric type§
 magmortar: (467) fire type§
-togekiss: (468) fairy / flying type§
-yanmega: (469) bug / flying type§
+togekiss: (468) fairy/flying type§
+yanmega: (469) bug/flying type§
 leafeon: (470) grass type§
 glaceon: (471) ice type§
-gliscor: (472) ground / flying type§
-mamoswine: (473) ice / ground type§
+gliscor: (472) ground/flying type§
+mamoswine: (473) ice/ground type§
 porygon-z: (474) normal type§
-gallade: (475) psychic / fighting type§
-probopass: (476) rock / steel type§
+gallade: (475) psychic/fighting type§
+probopass: (476) rock/steel type§
 dusknoir: (477) ghost type§
-froslass: (478) ice / ghost type§
-rotom: (479) electric / ghost type§
+froslass: (478) ice/ghost type§
+rotom: (479) electric/ghost type§
 uxie: (480) psychic type§
 mesprit: (481) psychic type§
 azelf: (482) psychic type§
-dialga: (483) steel / dragon type§
-palkia: (484) water / dragon type§
-heatran: (485) fire / steel type§
+dialga: (483) steel/dragon type§
+palkia: (484) water/dragon type§
+heatran: (485) fire/steel type§
 regigigas: (486) normal type§
-giratina: (487) ghost / dragon type§
+giratina: (487) ghost/dragon type§
 cresselia: (488) psychic type§
 phione: (489) water type§
 manaphy: (490) water type§
 darkrai: (491) dark type§
 shaymin: (492) grass type§
 arceus: (493) normal type§
-victini: (494) psychic / fire type§
+victini: (494) psychic/fire type§
 snivy: (495) grass type§
 servine: (496) grass type§
 serperior: (497) grass type§
 tepig: (498) fire type§
-pignite: (499) fire / fighting type§
-emboar: (500) fire / fighting type§
+pignite: (499) fire/fighting type§
+emboar: (500) fire/fighting type§
 oshawott: (501) water type§
 dewott: (502) water type§
 samurott: (503) water type§
@@ -1540,55 +1540,55 @@ panpour: (515) water type§
 simipour: (516) water type§
 munna: (517) psychic type§
 musharna: (518) psychic type§
-pidove: (519) normal / flying type§
-tranquill: (520) normal / flying type§
-unfezant: (521) normal / flying type§
+pidove: (519) normal/flying type§
+tranquill: (520) normal/flying type§
+unfezant: (521) normal/flying type§
 blitzle: (522) electric type§
 zebstrika: (523) electric type§
 roggenrola: (524) rock type§
 boldore: (525) rock type§
 gigalith: (526) rock type§
-woobat: (527) psychic / flying type§
-swoobat: (528) psychic / flying type§
+woobat: (527) psychic/flying type§
+swoobat: (528) psychic/flying type§
 drilbur: (529) ground type§
-excadrill: (530) ground / steel type§
+excadrill: (530) ground/steel type§
 audino: (531) normal type§
 timburr: (532) fighting type§
 gurdurr: (533) fighting type§
 conkeldurr: (534) fighting type§
 tympole: (535) water type§
-palpitoad: (536) water / ground type§
-seismitoad: (537) water / ground type§
+palpitoad: (536) water/ground type§
+seismitoad: (537) water/ground type§
 throh: (538) fighting type§
 sawk: (539) fighting type§
-sewaddle: (540) bug / grass type§
-swadloon: (541) bug / grass type§
-leavanny: (542) bug / grass type§
-venipede: (543) bug / poison type§
-whirlipede: (544) bug / poison type§
-scolipede: (545) bug / poison type§
-cottonee: (546) grass / fairy type§
-whimsicott: (547) grass / fairy type§
+sewaddle: (540) bug/grass type§
+swadloon: (541) bug/grass type§
+leavanny: (542) bug/grass type§
+venipede: (543) bug/poison type§
+whirlipede: (544) bug/poison type§
+scolipede: (545) bug/poison type§
+cottonee: (546) grass/fairy type§
+whimsicott: (547) grass/fairy type§
 petilil: (548) grass type§
 lilligant: (549) grass type§
 basculin: (550) water type§
-sandile: (551) ground / dark type§
-krokorok: (552) ground / dark type§
-krookodile: (553) ground / dark type§
+sandile: (551) ground/dark type§
+krokorok: (552) ground/dark type§
+krookodile: (553) ground/dark type§
 darumaka: (554) fire type§
 darmanitan: (555) fire type§
 maractus: (556) grass type§
-dwebble: (557) bug / rock type§
-crustle: (558) bug / rock type§
-scraggy: (559) dark / fighting type§
-scrafty: (560) dark / fighting type§
-sigilyph: (561) psychic / flying type§
+dwebble: (557) bug/rock type§
+crustle: (558) bug/rock type§
+scraggy: (559) dark/fighting type§
+scrafty: (560) dark/fighting type§
+sigilyph: (561) psychic/flying type§
 yamask: (562) ghost type§
 cofagrigus: (563) ghost type§
-tirtouga: (564) water / rock type§
-carracosta: (565) water / rock type§
-archen: (566) rock / flying type§
-archeops: (567) rock / flying type§
+tirtouga: (564) water/rock type§
+carracosta: (565) water/rock type§
+archen: (566) rock/flying type§
+archeops: (567) rock/flying type§
 trubbish: (568) poison type§
 garbodor: (569) poison type§
 zorua: (570) dark type§
@@ -1601,25 +1601,25 @@ gothitelle: (576) psychic type§
 solosis: (577) psychic type§
 duosion: (578) psychic type§
 reuniclus: (579) psychic type§
-ducklett: (580) water / flying type§
-swanna: (581) water / flying type§
+ducklett: (580) water/flying type§
+swanna: (581) water/flying type§
 vanillite: (582) ice type§
 vanillish: (583) ice type§
 vanilluxe: (584) ice type§
-deerling: (585) normal / grass type§
-sawsbuck: (586) normal / grass type§
-emolga: (587) electric / flying type§
+deerling: (585) normal/grass type§
+sawsbuck: (586) normal/grass type§
+emolga: (587) electric/flying type§
 karrablast: (588) bug type§
-escavalier: (589) bug / steel type§
-foongus: (590) grass / poison type§
-amoonguss: (591) grass / poison type§
-frillish: (592) water / ghost type§
-jellicent: (593) water / ghost type§
+escavalier: (589) bug/steel type§
+foongus: (590) grass/poison type§
+amoonguss: (591) grass/poison type§
+frillish: (592) water/ghost type§
+jellicent: (593) water/ghost type§
 alomomola: (594) water type§
-joltik: (595) bug / electric type§
-galvantula: (596) bug / electric type§
-ferroseed: (597) grass / steel type§
-ferrothorn: (598) grass / steel type§
+joltik: (595) bug/electric type§
+galvantula: (596) bug/electric type§
+ferroseed: (597) grass/steel type§
+ferrothorn: (598) grass/steel type§
 klink: (599) steel type§
 klang: (600) steel type§
 klinklang: (601) steel type§
@@ -1628,9 +1628,9 @@ eelektrik: (603) electric type§
 eelektross: (604) electric type§
 elgyem: (605) psychic type§
 beheeyem: (606) psychic type§
-litwick: (607) ghost / fire type§
-lampent: (608) ghost / fire type§
-chandelure: (609) ghost / fire type§
+litwick: (607) ghost/fire type§
+lampent: (608) ghost/fire type§
+chandelure: (609) ghost/fire type§
 axew: (610) dragon type§
 fraxure: (611) dragon type§
 haxorus: (612) dragon type§
@@ -1639,195 +1639,195 @@ beartic: (614) ice type§
 cryogonal: (615) ice type§
 shelmet: (616) bug type§
 accelgor: (617) bug type§
-stunfisk: (618) ground / electric type§
+stunfisk: (618) ground/electric type§
 mienfoo: (619) fighting type§
 mienshao: (620) fighting type§
 druddigon: (621) dragon type§
-golett: (622) ground / ghost type§
-golurk: (623) ground / ghost type§
-pawniard: (624) dark / steel type§
-bisharp: (625) dark / steel type§
+golett: (622) ground/ghost type§
+golurk: (623) ground/ghost type§
+pawniard: (624) dark/steel type§
+bisharp: (625) dark/steel type§
 bouffalant: (626) normal type§
-rufflet: (627) normal / flying type§
-braviary: (628) normal / flying type§
-vullaby: (629) dark / flying type§
-mandibuzz: (630) dark / flying type§
+rufflet: (627) normal/flying type§
+braviary: (628) normal/flying type§
+vullaby: (629) dark/flying type§
+mandibuzz: (630) dark/flying type§
 heatmor: (631) fire type§
-durant: (632) bug / steel type§
-deino: (633) dark / dragon type§
-zweilous: (634) dark / dragon type§
-hydreigon: (635) dark / dragon type§
-larvesta: (636) bug / fire type§
-volcarona: (637) bug / fire type§
-cobalion: (638) steel / fighting type§
-terrakion: (639) rock / fighting type§
-virizion: (640) grass / fighting type§
+durant: (632) bug/steel type§
+deino: (633) dark/dragon type§
+zweilous: (634) dark/dragon type§
+hydreigon: (635) dark/dragon type§
+larvesta: (636) bug/fire type§
+volcarona: (637) bug/fire type§
+cobalion: (638) steel/fighting type§
+terrakion: (639) rock/fighting type§
+virizion: (640) grass/fighting type§
 tornadus: (641) flying type§
-thundurus: (642) electric / flying type§
-reshiram: (643) dragon / fire type§
-zekrom: (644) dragon / electric type§
-landorus: (645) ground / flying type§
-kyurem: (646) dragon / ice type§
-keldeo: (647) water / fighting type§
-meloetta: (648) normal / psychic type§
-genesect: (649) bug / steel type§
+thundurus: (642) electric/flying type§
+reshiram: (643) dragon/fire type§
+zekrom: (644) dragon/electric type§
+landorus: (645) ground/flying type§
+kyurem: (646) dragon/ice type§
+keldeo: (647) water/fighting type§
+meloetta: (648) normal/psychic type§
+genesect: (649) bug/steel type§
 chespin: (650) grass type§
 quilladin: (651) grass type§
-chesnaught: (652) grass / fighting type§
+chesnaught: (652) grass/fighting type§
 fennekin: (653) fire type§
 braixen: (654) fire type§
-delphox: (655) fire / psychic type§
+delphox: (655) fire/psychic type§
 froakie: (656) water type§
 frogadier: (657) water type§
-greninja: (658) water / dark type§
+greninja: (658) water/dark type§
 bunnelby: (659) normal type§
-diggersby: (660) normal / ground type§
-fletchling: (661) normal / flying type§
-fletchinder: (662) fire / flying type§
-talonflame: (663) fire / flying type§
+diggersby: (660) normal/ground type§
+fletchling: (661) normal/flying type§
+fletchinder: (662) fire/flying type§
+talonflame: (663) fire/flying type§
 scatterbug: (664) bug type§
 spewpa: (665) bug type§
-vivillon: (666) bug / flying type§
-litleo: (667) fire / normal type§
-pyroar: (668) fire / normal type§
+vivillon: (666) bug/flying type§
+litleo: (667) fire/normal type§
+pyroar: (668) fire/normal type§
 flabébé: (669) fairy type§
 floette: (670) fairy type§
 florges: (671) fairy type§
 skiddo: (672) grass type§
 gogoat: (673) grass type§
 pancham: (674) fighting type§
-pangoro: (675) fighting / dark type§
+pangoro: (675) fighting/dark type§
 furfrou: (676) normal type§
 espurr: (677) psychic type§
 meowstic: (678) psychic type§
-honedge: (679) steel / ghost type§
-doublade: (680) steel / ghost type§
-aegislash: (681) steel / ghost type§
+honedge: (679) steel/ghost type§
+doublade: (680) steel/ghost type§
+aegislash: (681) steel/ghost type§
 spritzee: (682) fairy type§
 aromatisse: (683) fairy type§
 swirlix: (684) fairy type§
 slurpuff: (685) fairy type§
-inkay: (686) dark / psychic type§
-malamar: (687) dark / psychic type§
-binacle: (688) rock / water type§
-barbaracle: (689) rock / water type§
-skrelp: (690) poison / water type§
-dragalge: (691) poison / dragon type§
+inkay: (686) dark/psychic type§
+malamar: (687) dark/psychic type§
+binacle: (688) rock/water type§
+barbaracle: (689) rock/water type§
+skrelp: (690) poison/water type§
+dragalge: (691) poison/dragon type§
 clauncher: (692) water type§
 clawitzer: (693) water type§
-helioptile: (694) electric / normal type§
-heliolisk: (695) electric / normal type§
-tyrunt: (696) rock / dragon type§
-tyrantrum: (697) rock / dragon type§
-amaura: (698) rock / ice type§
-aurorus: (699) rock / ice type§
+helioptile: (694) electric/normal type§
+heliolisk: (695) electric/normal type§
+tyrunt: (696) rock/dragon type§
+tyrantrum: (697) rock/dragon type§
+amaura: (698) rock/ice type§
+aurorus: (699) rock/ice type§
 sylveon: (700) fairy type§
-hawlucha: (701) fighting / flying type§
-dedenne: (702) electric / fairy type§
-carbink: (703) rock / fairy type§
+hawlucha: (701) fighting/flying type§
+dedenne: (702) electric/fairy type§
+carbink: (703) rock/fairy type§
 goomy: (704) dragon type§
 sliggoo: (705) dragon type§
 goodra: (706) dragon type§
-klefki: (707) steel / fairy type§
-phantump: (708) ghost / grass type§
-trevenant: (709) ghost / grass type§
-pumpkaboo: (710) ghost / grass type§
-gourgeist: (711) ghost / grass type§
+klefki: (707) steel/fairy type§
+phantump: (708) ghost/grass type§
+trevenant: (709) ghost/grass type§
+pumpkaboo: (710) ghost/grass type§
+gourgeist: (711) ghost/grass type§
 bergmite: (712) ice type§
 avalugg: (713) ice type§
-noibat: (714) flying / dragon type§
-noivern: (715) flying / dragon type§
+noibat: (714) flying/dragon type§
+noivern: (715) flying/dragon type§
 xerneas: (716) fairy type§
-yveltal: (717) dark / flying type§
-zygarde: (718) dragon / ground type§
-diancie: (719) rock / fairy type§
-hoopa: (720) psychic / ghost type§
-volcanion: (721) fire / water type§
-rowlet: (722) grass / flying type§
-dartrix: (723) grass / flying type§
-decidueye: (724) grass / ghost type§
+yveltal: (717) dark/flying type§
+zygarde: (718) dragon/ground type§
+diancie: (719) rock/fairy type§
+hoopa: (720) psychic/ghost type§
+volcanion: (721) fire/water type§
+rowlet: (722) grass/flying type§
+dartrix: (723) grass/flying type§
+decidueye: (724) grass/ghost type§
 litten: (725) fire type§
 torracat: (726) fire type§
-incineroar: (727) fire / dark type§
+incineroar: (727) fire/dark type§
 popplio: (728) water type§
 brionne: (729) water type§
-primarina: (730) water / fairy type§
-pikipek: (731) normal / flying type§
-trumbeak: (732) normal / flying type§
-toucannon: (733) normal / flying type§
+primarina: (730) water/fairy type§
+pikipek: (731) normal/flying type§
+trumbeak: (732) normal/flying type§
+toucannon: (733) normal/flying type§
 yungoos: (734) normal type§
 gumshoos: (735) normal type§
 grubbin: (736) bug type§
-charjabug: (737) bug / electric type§
-vikavolt: (738) bug / electric type§
+charjabug: (737) bug/electric type§
+vikavolt: (738) bug/electric type§
 crabrawler: (739) fighting type§
-crabominable: (740) fighting / ice type§
-oricorio: (741) fire / flying type§
-cutiefly: (742) bug / fairy type§
-ribombee: (743) bug / fairy type§
+crabominable: (740) fighting/ice type§
+oricorio: (741) fire/flying type§
+cutiefly: (742) bug/fairy type§
+ribombee: (743) bug/fairy type§
 rockruff: (744) rock type§
 lycanroc: (745) rock type§
 wishiwashi: (746) water type§
-mareanie: (747) poison / water type§
-toxapex: (748) poison / water type§
+mareanie: (747) poison/water type§
+toxapex: (748) poison/water type§
 mudbray: (749) ground type§
 mudsdale: (750) ground type§
-dewpider: (751) water / bug type§
-araquanid: (752) water / bug type§
+dewpider: (751) water/bug type§
+araquanid: (752) water/bug type§
 fomantis: (753) grass type§
 lurantis: (754) grass type§
-morelull: (755) grass / fairy type§
-shiinotic: (756) grass / fairy type§
-salandit: (757) poison / fire type§
-salazzle: (758) poison / fire type§
-stufful: (759) normal / fighting type§
-bewear: (760) normal / fighting type§
+morelull: (755) grass/fairy type§
+shiinotic: (756) grass/fairy type§
+salandit: (757) poison/fire type§
+salazzle: (758) poison/fire type§
+stufful: (759) normal/fighting type§
+bewear: (760) normal/fighting type§
 bounsweet: (761) grass type§
 steenee: (762) grass type§
 tsareena: (763) grass type§
 comfey: (764) fairy type§
-oranguru: (765) normal / psychic type§
+oranguru: (765) normal/psychic type§
 passimian: (766) fighting type§
-wimpod: (767) bug / water type§
-golisopod: (768) bug / water type§
-sandygast: (769) ghost / ground type§
-palossand: (770) ghost / ground type§
+wimpod: (767) bug/water type§
+golisopod: (768) bug/water type§
+sandygast: (769) ghost/ground type§
+palossand: (770) ghost/ground type§
 pyukumuku: (771) water type§
-type: (772) null / normal type§
+type: (772) null/normal type§
 silvally: (773) normal type§
-minior: (774) rock / flying type§
+minior: (774) rock/flying type§
 komala: (775) normal type§
-turtonator: (776) fire / dragon type§
-togedemaru: (777) electric / steel type§
-mimikyu: (778) ghost / fairy type§
-bruxish: (779) water / psychic type§
-drampa: (780) normal / dragon type§
-dhelmise: (781) ghost / grass type§
+turtonator: (776) fire/dragon type§
+togedemaru: (777) electric/steel type§
+mimikyu: (778) ghost/fairy type§
+bruxish: (779) water/psychic type§
+drampa: (780) normal/dragon type§
+dhelmise: (781) ghost/grass type§
 jangmo-o: (782) dragon type§
-hakamo-o: (783) dragon / fighting type§
-kommo-o: (784) dragon / fighting type§
-tapukoko: (785) electric / fairy type§
-tapulele: (786) psychic / fairy type§
-tapubulu: (787) grass / fairy type§
-tapufini: (788) water / fairy type§
+hakamo-o: (783) dragon/fighting type§
+kommo-o: (784) dragon/fighting type§
+tapu koko: (785) electric/fairy type§
+tapu lele: (786) psychic/fairy type§
+tapu bulu: (787) grass/fairy type§
+tapu fini: (788) water/fairy type§
 cosmog: (789) psychic type§
 cosmoem: (790) psychic type§
-solgaleo: (791) psychic / steel type§
-lunala: (792) psychic / ghost type§
-nihilego: (793) rock / poison type§
-buzzwole: (794) bug / fighting type§
-pheromosa: (795) bug / fighting type§
+solgaleo: (791) psychic/steel type§
+lunala: (792) psychic/ghost type§
+nihilego: (793) rock/poison type§
+buzzwole: (794) bug/fighting type§
+pheromosa: (795) bug/fighting type§
 xurkitree: (796) electric type§
-celesteela: (797) steel / flying type§
-kartana: (798) grass / steel type§
-guzzlord: (799) dark / dragon type§
+celesteela: (797) steel/flying type§
+kartana: (798) grass/steel type§
+guzzlord: (799) dark/dragon type§
 necrozma: (800) psychic type§
-magearna: (801) steel / fairy type§
-marshadow: (802) fighting / ghost type§
+magearna: (801) steel/fairy type§
+marshadow: (802) fighting/ghost type§
 poipole: (803) poison type§
-naganadel: (804) poison / dragon type§
-stakataka: (805) rock / steel type§
-blacephalon: (806) fire / ghost type§
+naganadel: (804) poison/dragon type§
+stakataka: (805) rock/steel type§
+blacephalon: (806) fire/ghost type§
 zeraora: (807) electric type§
 meltan: (808) steel type§
 melmetal: (809) steel type§
@@ -1844,10 +1844,10 @@ skwovet: (819) normal type§
 greedent: (820) normal type§
 rookidee: (821) flying type§
 corvisquire: (822) flying type§
-corviknight: (823) flying / steel type§
+corviknight: (823) flying/steel type§
 blipbug: (824) bug type§
-dottler: (825) bug / psychic type§
-orbeetle: (826) bug / psychic type§
+dottler: (825) bug/psychic type§
+orbeetle: (826) bug/psychic type§
 nickit: (827) dark type§
 thievul: (828) dark type§
 gossifleur: (829) grass type§
@@ -1855,194 +1855,194 @@ eldegoss: (830) grass type§
 wooloo: (831) normal type§
 dubwool: (832) normal type§
 chewtle: (833) water type§
-drednaw: (834) water / rock type§
+drednaw: (834) water/rock type§
 yamper: (835) electric type§
 boltund: (836) electric type§
 rolycoly: (837) rock type§
-carkol: (838) rock / fire type§
-coalossal: (839) rock / fire type§
-applin: (840) grass / dragon type§
-flapple: (841) grass / dragon type§
-appletun: (842) grass / dragon type§
+carkol: (838) rock/fire type§
+coalossal: (839) rock/fire type§
+applin: (840) grass/dragon type§
+flapple: (841) grass/dragon type§
+appletun: (842) grass/dragon type§
 silicobra: (843) ground type§
 sandaconda: (844) ground type§
-cramorant: (845) flying / water type§
+cramorant: (845) flying/water type§
 arrokuda: (846) water type§
 barraskewda: (847) water type§
-toxel: (848) electric / poison type§
-toxtricity: (849) electric / poison type§
-sizzlipede: (850) fire / bug type§
-centiskorch: (851) fire / bug type§
+toxel: (848) electric/poison type§
+toxtricity: (849) electric/poison type§
+sizzlipede: (850) fire/bug type§
+centiskorch: (851) fire/bug type§
 clobbopus: (852) fighting type§
 grapploct: (853) fighting type§
 sinistea: (854) ghost type§
 polteageist: (855) ghost type§
 hatenna: (856) psychic type§
 hattrem: (857) psychic type§
-hatterene: (858) psychic / fairy type§
-impidimp: (859) dark / fairy type§
-morgrem: (860) dark / fairy type§
-grimmsnarl: (861) dark / fairy type§
-obstagoon: (862) dark / normal type§
+hatterene: (858) psychic/fairy type§
+impidimp: (859) dark/fairy type§
+morgrem: (860) dark/fairy type§
+grimmsnarl: (861) dark/fairy type§
+obstagoon: (862) dark/normal type§
 perrserker: (863) steel type§
 cursola: (864) ghost type§
 sirfetchd: (865) fighting type§
-mr.rime: (866) ice / psychic type§
-runerigus: (867) ground / ghost type§
+mr.rime: (866) ice/psychic type§
+runerigus: (867) ground/ghost type§
 milcery: (868) fairy type§
 alcremie: (869) fairy type§
 falinks: (870) fighting type§
 pincurchin: (871) electric type§
-snom: (872) ice / bug type§
-frosmoth: (873) ice / bug type§
+snom: (872) ice/bug type§
+frosmoth: (873) ice/bug type§
 stonjourner: (874) rock type§
 eiscue: (875) ice type§
-indeedee: (876) psychic / normal type§
-morpeko: (877) electric / dark type§
+indeedee: (876) psychic/normal type§
+morpeko: (877) electric/dark type§
 cufant: (878) steel type§
 copperajah: (879) steel type§
-dracozolt: (880) electric / dragon type§
-arctozolt: (881) electric / ice type§
-dracovish: (882) water / dragon type§
-arctovish: (883) water / ice type§
-duraludon: (884) steel / dragon type§
-dreepy: (885) dragon / ghost type§
-drakloak: (886) dragon / ghost type§
-dragapult: (887) dragon / ghost type§
+dracozolt: (880) electric/dragon type§
+arctozolt: (881) electric/ice type§
+dracovish: (882) water/dragon type§
+arctovish: (883) water/ice type§
+duraludon: (884) steel/dragon type§
+dreepy: (885) dragon/ghost type§
+drakloak: (886) dragon/ghost type§
+dragapult: (887) dragon/ghost type§
 zacian: (888) fairy type§
 zamazenta: (889) fighting type§
-eternatus: (890) poison / dragon type§
+eternatus: (890) poison/dragon type§
 kubfu: (891) fighting type§
-urshifu: (892) fighting / dark type§
-zarude: (893) dark / grass type§
+urshifu: (892) fighting/dark type§
+zarude: (893) dark/grass type§
 regieleki: (894) electric type§
 regidrago: (895) dragon type§
 glastrier: (896) ice type§
 spectrier: (897) ghost type§
-calyrex: (898) psychic / grass type§
-wyrdeer: (899) normal / psychic type§
-kleavor: (900) bug / rock type§
-ursaluna: (901) ground / normal type§
-basculegion: (902) water / ghost type§
-sneasler: (903) fighting / poison type§
-overqwil: (904) dark / poison type§
-enamorus: (905) fairy / flying type§
+calyrex: (898) psychic/grass type§
+wyrdeer: (899) normal/psychic type§
+kleavor: (900) bug/rock type§
+ursaluna: (901) ground/normal type§
+basculegion: (902) water/ghost type§
+sneasler: (903) fighting/poison type§
+overqwil: (904) dark/poison type§
+enamorus: (905) fairy/flying type§
 sprigatito: (906) grass type§
 floragato: (907) grass type§
-meowscarada: (908) grass / dark type§
+meowscarada: (908) grass/dark type§
 fuecoco: (909) fire type§
 crocalor: (910) fire type§
-skeledirge: (911) fire / ghost type§
+skeledirge: (911) fire/ghost type§
 quaxly: (912) water type§
 quaxwell: (913) water type§
-quaquaval: (914) water / fighting type§
+quaquaval: (914) water/fighting type§
 lechonk: (915) normal type§
 oinkologne: (916) normal type§
 tarountula: (917) bug type§
 spidops: (918) bug type§
 nymble: (919) bug type§
-lokix: (920) bug / dark type§
+lokix: (920) bug/dark type§
 pawmi: (921) electric type§
-pawmo: (922) electric / fighting type§
-pawmot: (923) electric / fighting type§
+pawmo: (922) electric/fighting type§
+pawmot: (923) electric/fighting type§
 tandemaus: (924) normal type§
 maushold: (925) normal type§
 fidough: (926) fairy type§
 dachsbun: (927) fairy type§
-smoliv: (928) grass / normal type§
-dolliv: (929) grass / normal type§
-arboliva: (930) grass / normal type§
-squawkabilly: (931) normal / flying type§
+smoliv: (928) grass/normal type§
+dolliv: (929) grass/normal type§
+arboliva: (930) grass/normal type§
+squawkabilly: (931) normal/flying type§
 nacli: (932) rock type§
 naclstack: (933) rock type§
 garganacl: (934) rock type§
 charcadet: (935) fire type§
-armarouge: (936) fire / psychic type§
-ceruledge: (937) fire / ghost type§
+armarouge: (936) fire/psychic type§
+ceruledge: (937) fire/ghost type§
 tadbulb: (938) electric type§
 bellibolt: (939) electric type§
-wattrel: (940) electric / flying type§
-kilowattrel: (941) electric / flying type§
+wattrel: (940) electric/flying type§
+kilowattrel: (941) electric/flying type§
 maschiff: (942) dark type§
 mabosstiff: (943) dark type§
-shroodle: (944) poison / normal type§
-grafaiai: (945) poison / normal type§
-bramblin: (946) grass / ghost type§
-brambleghast: (947) grass / ghost type§
-toedscool: (948) ground / grass type§
-toedscruel: (949) ground / grass type§
+shroodle: (944) poison/normal type§
+grafaiai: (945) poison/normal type§
+bramblin: (946) grass/ghost type§
+brambleghast: (947) grass/ghost type§
+toedscool: (948) ground/grass type§
+toedscruel: (949) ground/grass type§
 klawf: (950) rock type§
 capsakid: (951) grass type§
-scovillain: (952) grass / fire type§
+scovillain: (952) grass/fire type§
 rellor: (953) bug type§
-rabsca: (954) bug / psychic type§
+rabsca: (954) bug/psychic type§
 flittle: (955) psychic type§
 espathra: (956) psychic type§
-tinkatink: (957) fairy / steel type§
-tinkatuff: (958) fairy / steel type§
-tinkaton: (959) fairy / steel type§
+tinkatink: (957) fairy/steel type§
+tinkatuff: (958) fairy/steel type§
+tinkaton: (959) fairy/steel type§
 wiglett: (960) water type§
 wugtrio: (961) water type§
-bombirdier: (962) flying / dark type§
+bombirdier: (962) flying/dark type§
 finizen: (963) water type§
 palafin: (964) water type§
-varoom: (965) steel / poison type§
-revavroom: (966) steel / poison type§
-cyclizar: (967) dragon / normal type§
+varoom: (965) steel/poison type§
+revavroom: (966) steel/poison type§
+cyclizar: (967) dragon/normal type§
 orthworm: (968) steel type§
-glimmet: (969) rock / poison type§
-glimmora: (970) rock / poison type§
+glimmet: (969) rock/poison type§
+glimmora: (970) rock/poison type§
 greavard: (971) ghost type§
 houndstone: (972) ghost type§
-flamigo: (973) flying / fighting type§
+flamigo: (973) flying/fighting type§
 cetoddle: (974) ice type§
 cetitan: (975) ice type§
-veluza: (976) water / psychic type§
+veluza: (976) water/psychic type§
 dondozo: (977) water type§
-tatsugiri: (978) dragon / water type§
-annihilape: (979) fighting / ghost type§
-clodsire: (980) poison / ground type§
-farigiraf: (981) normal / psychic type§
+tatsugiri: (978) dragon/water type§
+annihilape: (979) fighting/ghost type§
+clodsire: (980) poison/ground type§
+farigiraf: (981) normal/psychic type§
 dudunsparce: (982) normal type§
-kingambit: (983) dark / steel type§
-greattusk: (984) ground / fighting type§
-screamtail: (985) fairy / psychic type§
-brutebonnet: (986) grass / dark type§
-fluttermane: (987) ghost / fairy type§
-slitherwing: (988) bug / fighting type§
-sandyshocks: (989) electric / ground type§
-irontreads: (990) ground / steel type§
-ironbundle: (991) ice / water type§
-ironhands: (992) fighting / electric type§
-ironjugulis: (993) dark / flying type§
-ironmoth: (994) fire / poison type§
-ironthorns: (995) rock / electric type§
-frigibax: (996) dragon / ice type§
-arctibax: (997) dragon / ice type§
-baxcalibur: (998) dragon / ice type§
+kingambit: (983) dark/steel type§
+greattusk: (984) ground/fighting type§
+screamtail: (985) fairy/psychic type§
+brutebonnet: (986) grass/dark type§
+fluttermane: (987) ghost/fairy type§
+slitherwing: (988) bug/fighting type§
+sandyshocks: (989) electric/ground type§
+irontreads: (990) ground/steel type§
+ironbundle: (991) ice/water type§
+ironhands: (992) fighting/electric type§
+ironjugulis: (993) dark/flying type§
+ironmoth: (994) fire/poison type§
+ironthorns: (995) rock/electric type§
+frigibax: (996) dragon/ice type§
+arctibax: (997) dragon/ice type§
+baxcalibur: (998) dragon/ice type§
 gimmighoul: (999) ghost type§
-gholdengo: (1000) steel / ghost type§
-wo-chien: (1001) dark / grass type§
-chien-pao: (1002) dark / ice type§
-ting-lu: (1003) dark / ground type§
-chi-yu: (1004) dark / fire type§
-roaringmoon: (1005) dragon / dark type§
-ironvaliant: (1006) fairy / fighting type§
-koraidon: (1007) fighting / dragon type§
-miraidon: (1008) electric / dragon type§
-walkingwake: (1009) water / dragon type§
-ironleaves: (1010) grass / psychic type§
-dipplin: (1011) grass / dragon type§
-poltchageist: (1012) grass / ghost type§
-sinistcha: (1013) grass / ghost type§
-okidogi: (1014) poison / fighting type§
-munkidori: (1015) poison / psychic type§
-fezandipiti: (1016) poison / fairy type§
+gholdengo: (1000) steel/ghost type§
+wo-chien: (1001) dark/grass type§
+chien-pao: (1002) dark/ice type§
+ting-lu: (1003) dark/ground type§
+chi-yu: (1004) dark/fire type§
+roaringmoon: (1005) dragon/dark type§
+ironvaliant: (1006) fairy/fighting type§
+koraidon: (1007) fighting/dragon type§
+miraidon: (1008) electric/dragon type§
+walkingwake: (1009) water/dragon type§
+ironleaves: (1010) grass/psychic type§
+dipplin: (1011) grass/dragon type§
+poltchageist: (1012) grass/ghost type§
+sinistcha: (1013) grass/ghost type§
+okidogi: (1014) poison/fighting type§
+munkidori: (1015) poison/psychic type§
+fezandipiti: (1016) poison/fairy type§
 ogerpon: (1017) grass type§
-archaludon: (1018) steel / dragon type§
-hydrapple: (1019) grass / dragon type§
-gougingfire: (1020) fire / dragon type§
-ragingbolt: (1021) electric / dragon type§
-ironboulder: (1022) rock / psychic type§
-ironcrown: (1023) steel / psychic type§
+archaludon: (1018) steel/dragon type§
+hydrapple: (1019) grass/dragon type§
+gougingfire: (1020) fire/dragon type§
+ragingbolt: (1021) electric/dragon type§
+iron boulder: (1022) rock/psychic type§
+iron crown: (1023) steel/psychic type§
 terapagos: (1024) normal type§
