@@ -648,3 +648,40 @@ Fairy/Ghost: Fairy/Ghost dual-types are weak to Ghost, Steel attacks. They are r
 Fairy/Dragon: Fairy/Dragon dual-types are weak to Ice, Poison, Steel, Fairy attacks. They are resistant to Fire, Water, Electric, Grass, Fighting, Bug, Dark attacks. They are immune to Dragon attacks.§
 Fairy/Dark: Fairy/Dark dual-types are weak to Poison, Steel, Fairy attacks. They are resistant to Ghost, Dark attacks. They are immune to Psychic, Dragon attacks.§
 Fairy/Steel: Fairy/Steel dual-types are weak to Fire, Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dark, Fairy attacks. They are immune to Poison, Dragon attacks.§
+blind: !speak Blind types are weak to extremely difficult Pokemon mods. They are resistant to nuzlock challenges. They are immune to bullshit.§
+normal: Normal types are weak to Fighting attacks. They are immune to Ghost attacks.§
+fire: Fire types are weak to Water, Ground, and Rock attacks. They are resistant to Fire, Grass, Ice, Bug, Steel, and Fairy attacks.§
+water: Water types are weak to Electric and Grass attacks. They are resistant to Fire, Water, Ice, and Steel attacks.§
+electric: Electric types are weak to Ground attacks. They are resistant to Electric, Flying, and Steel attacks.§
+grass: Grass types are weak to Fire, Ice, Poison, Flying, and Bug attacks. They are resistant to Water, Electric, Grass, and Ground attacks.§
+ice: Ice types are weak to Fire, Fighting, Rock, and Steel attacks. They are resistant to Ice attacks.§
+fighting: Fighting types are weak to Flying, Psychic, and Fairy attacks. They are resistant to Bug, Rock, and Dark attacks.§
+poison: Poison types are weak to Ground and Psychic attacks. They are resistant to Grass, Fighting, Poison, Bug, and Fairy attacks.§
+ground: Ground types are weak to Water, Grass, and Ice attacks. They are resistant to Poison and Rock Attacks. They are also immune to Electric attacks.§
+flying: Flying types are weak to Electric, Ice, and Rock attacks. They are resistant to Grass, Fighting, and Bug attacks. They are also immune to Ground attacks.§
+psychic: Psychic types are weak to Bug, Ghost, and Dark attacks. They are resistant to Fighting and Psychic attacks.§
+bug: Bug types are weak to Fire, Flying, and Rock attacks. They are resistant to Grass, Fighting, and Ground attacks.§
+rock: Rock types are weak to Water, Grass, Fighting, Ground, and Steel attacks. They are resistant to Normal, Fire, Poison, and Flying attacks.§
+ghost: Ghost types are weak to Ghost and Dark attacks. They are resistant to Poison and Bug attacks. They are also immune to Normal and Fighting attacks.§
+dragon: Dragon types are weak to Ice, Dragon, and Fairy attacks. They are resistant to Fire, Water, Electric, and Grass attacks.§
+dark: Dark types are weak to Fighting, Bug, and Fairy attacks. They are resistant to Ghost and Dark attacks. They are also immune to Psychic attacks.§
+steel: Steel types are weak to Fire, Fighting, and Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, and Fairy attacks. They are also immune to Fairy attacks.§
+fairy: Fairy types are weak to Poison and Steel attacks. They are resistant to Fighting, Bug, and Dark attacks. They are also immune to Dragon attacks.§
+Normal: Normal types are weak to Fighting attacks. They are immune to Ghost attacks.§
+Fire: Fire types are weak to Water, Ground, and Rock attacks. They are resistant to Fire, Grass, Ice, Bug, Steel, and Fairy attacks.§
+Water: Water types are weak to Electric and Grass attacks. They are resistant to Fire, Water, Ice, and Steel attacks.§
+Electric: Electric types are weak to Ground attacks. They are resistant to Electric, Flying, and Steel attacks.§
+Grass: Grass types are weak to Fire, Ice, Poison, Flying, and Bug attacks. They are resistant to Water, Electric, Grass, and Ground attacks.§
+Ice: Ice types are weak to Fire, Fighting, Rock, and Steel attacks. They are resistant to Ice attacks.§
+Fighting: Fighting types are weak to Flying, Psychic, and Fairy attacks. They are resistant to Bug, Rock, and Dark attacks.§
+Poison: Poison types are weak to Ground and Psychic attacks. They are resistant to Grass, Fighting, Poison, Bug, and Fairy attacks.§
+Ground: Ground types are weak to Water, Grass, and Ice attacks. They are resistant to Poison and Rock Attacks. They are also immune to Electric attacks.§
+Flying: Flying types are weak to Electric, Ice, and Rock attacks. They are resistant to Grass, Fighting, and Bug attacks. They are also immune to Ground attacks.§
+Psychic: Psychic types are weak to Bug, Ghost, and Dark attacks. They are resistant to Fighting and Psychic attacks.§
+Bug: Bug types are weak to Fire, Flying, and Rock attacks. They are resistant to Grass, Fighting, and Ground attacks.§
+Rock: Rock types are weak to Water, Grass, Fighting, Ground, and Steel attacks. They are resistant to Normal, Fire, Poison, and Flying attacks.§
+Ghost: Ghost types are weak to Ghost and Dark attacks. They are resistant to Poison and Bug attacks. They are also immune to Normal and Fighting attacks.§
+Dragon: Dragon types are weak to Ice, Dragon, and Fairy attacks. They are resistant to Fire, Water, Electric, and Grass attacks.§
+Dark: Dark types are weak to Fighting, Bug, and Fairy attacks. They are resistant to Ghost and Dark attacks. They are also immune to Psychic attacks.§
+Steel: Steel types are weak to Fire, Fighting, and Ground attacks. They are resistant to Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, and Fairy attacks. They are also immune to Fairy attacks.§
+Fairy: Fairy types are weak to Poison and Steel attacks. They are resistant to Fighting, Bug, and Dark attacks. They are also immune to Dragon attacks.§
