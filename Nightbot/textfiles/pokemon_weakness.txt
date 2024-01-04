@@ -1,3 +1,4 @@
+blind: !speak Blind types are weak to extremely difficult Pokemon mods. They are resistant to nuzlock challenges. They are immune to bullshit.§
 normal: Normal types are weak to Fighting attacks. They are immune to Ghost attacks.§
 fire: Fire types are weak to Water, Ground, and Rock attacks. They are resistant to Fire, Grass, Ice, Bug, Steel, and Fairy attacks.§
 water: Water types are weak to Electric and Grass attacks. They are resistant to Fire, Water, Ice, and Steel attacks.§
