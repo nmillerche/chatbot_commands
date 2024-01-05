@@ -9,7 +9,7 @@ $(eval a='$(urlfetch json https://raw.githubusercontent.com/nmillerche/chatbot_c
 ## !ptype
 This command returns Pokemon type for an entered species.<br/>
 ```
-$(eval a='$(urlfetch json https://github.com/nmillerche/chatbot_commands/raw/main/Nightbot/textfiles/pokemontypes.txt)'.split('§');q='$(query)';if(!q){'Usage: !ptype snorlax'}else{b='';for(i=0;i<a.length;i++){if(a[i].startsWith('$(query)')){b=q+' '+a[i].split(':')[1];q=a[i].split(':')[0];}}if(b==''){b=q+' is not recognized! Usage: !ptype mr.mime (no spaces)';}b;})
+$(eval a='$(urlfetch json https://raw.githubusercontent.com/nmillerche/chatbot_commands/main/Nightbot/textfiles/pokemontypes.txt)'.split('§');q='$(query)';if(!q){'Usage: !ptype snorlax'}else{b='';for(i=0;i<a.length;i++){if(a[i].startsWith('$(query)')){b=q+' '+a[i].split(':')[1];q=a[i].split(':')[0];}}if(b==''){b=q+' is not recognized! Usage: !ptype mr.mime (no spaces)';}b;})
 ```
 ## !pattack
 This command returns Pokemon attack type effectiveness.<br/>
