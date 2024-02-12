@@ -2,7 +2,7 @@ normal: Normal attacks are not very effective against Rock and Steel types. They
 fire: Fire attacks are super effective against Grass, Ice, Bug, and Steel types. They are not very effective against Fire, Water, Rock, or Dragon types.§
 water: Water attacks are super effective against Fire, Ground, and Rock types. They are not very effective against Water, Grass, or Dragon types.§
 electric: Electric attacks are super effective against Water and Flying types. They are not very effective against Electric, Grass, or Dragon types. They have no effect against Ground types.§
-grass: Grass attacks are super effective against Water, Ground, and Rock types. They are not very effective against Fire, Grass, Poison, Flying, But, Dragon, or Steel types.§
+grass: Grass attacks are super effective against Water, Ground, and Rock types. They are not very effective against Fire, Grass, Poison, Flying, Bug, Dragon, or Steel types.§
 ice: Ice attacks are super effective against Grass, Ground, Flying, and Dragon types. They are not very effective against Fire, Water, Ice, or Steel types.§
 fighting: Fighting attacks are super effective against Normal, Ice, Rock, Dark, and Steel types. They are not very effective against Poison, Flying, Psychic, Bug, or Fairy types. They have no effect against Ghost types.§
 poison: Poison attacks are super effective against Grass and Fairy types. They are not very effective against Poison, Ground, Rock, or Ghost types. They have no effect against Steel types.§
@@ -20,7 +20,7 @@ Normal: Normal attacks are not very effective against Rock and Steel types. They
 Fire: Fire attacks are super effective against Grass, Ice, Bug, and Steel types. They are not very effective against Fire, Water, Rock, or Dragon types.§
 Water: Water attacks are super effective against Fire, Ground, and Rock types. They are not very effective against Water, Grass, or Dragon types.§
 Electric: Electric attacks are super effective against Water and Flying types. They are not very effective against Electric, Grass, or Dragon types. They have no effect against Ground types.§
-Grass: Grass attacks are super effective against Water, Ground, and Rock types. They are not very effective against Fire, Grass, Poison, Flying, But, Dragon, or Steel types.§
+Grass: Grass attacks are super effective against Water, Ground, and Rock types. They are not very effective against Fire, Grass, Poison, Flying, Bug, Dragon, or Steel types.§
 Ice: Ice attacks are super effective against Grass, Ground, Flying, and Dragon types. They are not very effective against Fire, Water, Ice, or Steel types.§
 Fighting: Fighting attacks are super effective against Normal, Ice, Rock, Dark, and Steel types. They are not very effective against Poison, Flying, Psychic, Bug, or Fairy types. They have no effect against Ghost types.§
 Poison: Poison attacks are super effective against Grass and Fairy types. They are not very effective against Poison, Ground, Rock, or Ghost types. They have no effect against Steel types.§
